@@ -1,0 +1,6545 @@
+{
+  "universes": [
+    {
+      "id": "mcu",
+      "name": "MCU",
+      "color": "#ef5350",
+      "tagline": "Les héros et antagonistes Marvel",
+      "cover": "images/7ac7a5455a85407aca2091e5.webp",
+      "cards": [
+        {
+          "name": "Adam Warlock",
+          "kind": "characters",
+          "image": "images/67f88f7cc4e6d87f7f8c1358.webp",
+          "demo": false
+        },
+        {
+          "name": "Antman",
+          "kind": "characters",
+          "image": "images/cb116030300d49dca365e87b.webp",
+          "demo": false
+        },
+        {
+          "name": "Black Panther",
+          "kind": "characters",
+          "image": "images/17bd5fe65dc5790d67f8ac92.webp",
+          "demo": false
+        },
+        {
+          "name": "Black Widow",
+          "kind": "characters",
+          "image": "images/f61611342f5ad307eb5597b8.webp",
+          "demo": false
+        },
+        {
+          "name": "Cyclops",
+          "kind": "characters",
+          "image": "images/6544e00508efb2663b480068.webp",
+          "demo": false
+        },
+        {
+          "name": "Daredevil",
+          "kind": "characters",
+          "image": "images/189bb25686ab95bd97a6356e.webp",
+          "demo": false
+        },
+        {
+          "name": "Deadpool",
+          "kind": "characters",
+          "image": "images/5514f3c53c6156c3b8105038.webp",
+          "demo": false
+        },
+        {
+          "name": "Doctor Strange",
+          "kind": "characters",
+          "image": "images/bd828cade852fa8192bf878f.webp",
+          "demo": false
+        },
+        {
+          "name": "Groot",
+          "kind": "characters",
+          "image": "images/abf8fa95e8fa6942053079ab.webp",
+          "demo": false
+        },
+        {
+          "name": "Hawkeye",
+          "kind": "characters",
+          "image": "images/f375ef53862168840ae4b28f.webp",
+          "demo": false
+        },
+        {
+          "name": "Hulk",
+          "kind": "characters",
+          "image": "images/5c7f6f6b552733c191dddac7.webp",
+          "demo": false
+        },
+        {
+          "name": "Iron Man",
+          "kind": "characters",
+          "image": "images/eb37b90e3e5e11fb2bf974d2.webp",
+          "demo": false
+        },
+        {
+          "name": "Jean Grey",
+          "kind": "characters",
+          "image": "images/d2ca621040c62ce98f16cf86.webp",
+          "demo": false
+        },
+        {
+          "name": "La Chose",
+          "kind": "characters",
+          "image": "images/f4dceb277bf8aaef3b095fd2.webp",
+          "demo": false
+        },
+        {
+          "name": "La Femme Invisible",
+          "kind": "characters",
+          "image": "images/b131bf4f4915e357462f36b9.webp",
+          "demo": false
+        },
+        {
+          "name": "La Torche Humaine",
+          "kind": "characters",
+          "image": "images/607f9a1b8d8188821aaef4fd.webp",
+          "demo": false
+        },
+        {
+          "name": "Le Punisher",
+          "kind": "characters",
+          "image": "images/80b5cc451b50cb2b183a478a.webp",
+          "demo": false
+        },
+        {
+          "name": "Loki",
+          "kind": "characters",
+          "image": "images/436f7a1723157ca9d301c07c.webp",
+          "demo": false
+        },
+        {
+          "name": "Magneto",
+          "kind": "characters",
+          "image": "images/0814edaa4203b7d44894de46.webp",
+          "demo": false
+        },
+        {
+          "name": "Mr. Fantastique",
+          "kind": "characters",
+          "image": "images/f7e5709f4944c11d0e5692a9.webp",
+          "demo": false
+        },
+        {
+          "name": "Namor",
+          "kind": "characters",
+          "image": "images/25d822d94e0e1450c8088044.webp",
+          "demo": false
+        },
+        {
+          "name": "Quicksilver",
+          "kind": "characters",
+          "image": "images/86634eb836bb6c9678d4ca37.webp",
+          "demo": false
+        },
+        {
+          "name": "Rocket Raccoon",
+          "kind": "characters",
+          "image": "images/b54e551f72112120ff1104d6.webp",
+          "demo": false
+        },
+        {
+          "name": "Scarlett Witch",
+          "kind": "characters",
+          "image": "images/e154ce5b57fbef1140618ae5.webp",
+          "demo": false
+        },
+        {
+          "name": "Spiderman",
+          "kind": "characters",
+          "image": "images/faf3cc4bf9e24968c5eafb66.webp",
+          "demo": false
+        },
+        {
+          "name": "Star Lord",
+          "kind": "characters",
+          "image": "images/cacbf1e857582933c5912ef3.webp",
+          "demo": false
+        },
+        {
+          "name": "Storm",
+          "kind": "characters",
+          "image": "images/339221c3a0f37f520d1355c9.webp",
+          "demo": false
+        },
+        {
+          "name": "The Wasp",
+          "kind": "characters",
+          "image": "images/ad51e46ba4efa6a9124d9b88.webp",
+          "demo": false
+        },
+        {
+          "name": "Thor",
+          "kind": "characters",
+          "image": "images/b15ab6afc41c7c745105ed83.webp",
+          "demo": false
+        },
+        {
+          "name": "Ultron",
+          "kind": "characters",
+          "image": "images/4e8ed51899b103952af0bca8.webp",
+          "demo": false
+        },
+        {
+          "name": "Venom",
+          "kind": "characters",
+          "image": "images/ea9dd80d902b949005f590ca.webp",
+          "demo": false
+        },
+        {
+          "name": "War Machine",
+          "kind": "characters",
+          "image": "images/fe4dd4866f9fad9230610ca1.webp",
+          "demo": false
+        },
+        {
+          "name": "Winter Soldier",
+          "kind": "characters",
+          "image": "images/65794de0ae1326be9d814c1d.webp",
+          "demo": false
+        },
+        {
+          "name": "Wolverine",
+          "kind": "characters",
+          "image": "images/cc6e55754749962305cd9469.webp",
+          "demo": false
+        },
+        {
+          "name": "Arthur (Minimoys)",
+          "kind": "undercover_only",
+          "image": "images/3f45a93a7e4c0f93a978a397.webp",
+          "demo": false
+        },
+        {
+          "name": "Batman",
+          "kind": "undercover_only",
+          "image": "images/e9d5db9e57c9505c85ae63e7.webp",
+          "demo": false
+        },
+        {
+          "name": "Catwoman",
+          "kind": "undercover_only",
+          "image": "images/525bc4d006e640a7ccd1d8ed.webp",
+          "demo": false
+        },
+        {
+          "name": "Creeper",
+          "kind": "undercover_only",
+          "image": "images/7201df37f6ffd4267de34b62.webp",
+          "demo": false
+        },
+        {
+          "name": "Dash Incredible",
+          "kind": "undercover_only",
+          "image": "images/b032e20e0ed0e09e56658463.webp",
+          "demo": false
+        },
+        {
+          "name": "Dumbledore",
+          "kind": "undercover_only",
+          "image": "images/543dd1c55cc47bd848112cd0.webp",
+          "demo": false
+        },
+        {
+          "name": "Ener",
+          "kind": "undercover_only",
+          "image": "images/3fc456cf7982dfcb659826ef.webp",
+          "demo": false
+        },
+        {
+          "name": "Flash",
+          "kind": "undercover_only",
+          "image": "images/3908f17619e65c0325fe7040.webp",
+          "demo": false
+        },
+        {
+          "name": "Gandalf",
+          "kind": "undercover_only",
+          "image": "images/e80952891aa27aa1a1cbcdfd.webp",
+          "demo": false
+        },
+        {
+          "name": "Green Arrow",
+          "kind": "undercover_only",
+          "image": "images/3c597cfd8bc48aeb8ae3268e.webp",
+          "demo": false
+        },
+        {
+          "name": "Kamek",
+          "kind": "undercover_only",
+          "image": "images/83eb3a4fed0c421a005aa383.webp",
+          "demo": false
+        },
+        {
+          "name": "Lara Croft",
+          "kind": "undercover_only",
+          "image": "images/537e1580ff0a41c37255d360.webp",
+          "demo": false
+        },
+        {
+          "name": "Legolas",
+          "kind": "undercover_only",
+          "image": "images/fcebe83c13994056e6339c23.webp",
+          "demo": false
+        },
+        {
+          "name": "Samus",
+          "kind": "undercover_only",
+          "image": "images/e3a093d1d4ee19963f9cc2a9.webp",
+          "demo": false
+        },
+        {
+          "name": "Shrek",
+          "kind": "undercover_only",
+          "image": "images/4f1e3b8c429a74606423a839.webp",
+          "demo": false
+        },
+        {
+          "name": "Sonic",
+          "kind": "undercover_only",
+          "image": "images/8e84d648ee8dc9747aa66df9.webp",
+          "demo": false
+        },
+        {
+          "name": "The Grinch",
+          "kind": "undercover_only",
+          "image": "images/bf688c577b1f46675ede2ee3.webp",
+          "demo": false
+        },
+        {
+          "name": "Yoshi",
+          "kind": "undercover_only",
+          "image": "images/4816747deb45c28836fe21b8.webp",
+          "demo": false
+        },
+        {
+          "name": "Zeus",
+          "kind": "undercover_only",
+          "image": "images/101e1703a6e3904bbee8e75e.webp",
+          "demo": false
+        }
+      ],
+      "groups": [
+        {
+          "name": "pack_archers",
+          "members": [
+            "Hawkeye",
+            "Green Arrow",
+            "Legolas"
+          ]
+        },
+        {
+          "name": "pack_armures_technologiques",
+          "members": [
+            "Iron Man",
+            "War Machine",
+            "Samus"
+          ]
+        },
+        {
+          "name": "pack_combattantes_agiles",
+          "members": [
+            "Black Widow",
+            "Catwoman",
+            "Lara Croft"
+          ]
+        },
+        {
+          "name": "pack_geants_verts",
+          "members": [
+            "Hulk",
+            "Shrek",
+            "The Grinch",
+            "Yoshi",
+            "Creeper"
+          ]
+        },
+        {
+          "name": "pack_magiciens",
+          "members": [
+            "Doctor Strange",
+            "Gandalf",
+            "Dumbledore",
+            "Scarlett Witch",
+            "Kamek"
+          ]
+        },
+        {
+          "name": "pack_maitres_foudre",
+          "members": [
+            "Thor",
+            "Zeus",
+            "Ener",
+            "Storm"
+          ]
+        },
+        {
+          "name": "pack_petit",
+          "members": [
+            "Antman",
+            "The Wasp",
+            "Arthur (Minimoys)"
+          ]
+        },
+        {
+          "name": "pack_riches_justiciers",
+          "members": [
+            "Batman",
+            "Iron Man",
+            "Black Panther"
+          ]
+        },
+        {
+          "name": "pack_sup_rouge",
+          "members": [
+            "Spiderman",
+            "Deadpool",
+            "Daredevil"
+          ]
+        },
+        {
+          "name": "pack_super_vitesse",
+          "members": [
+            "Flash",
+            "Quicksilver",
+            "Sonic",
+            "Dash Incredible"
+          ]
+        }
+      ],
+      "demo": false
+    },
+    {
+      "id": "dc",
+      "name": "DC Comics",
+      "color": "#64b5f6",
+      "tagline": "Les légendes de DC",
+      "cover": "images/5870ea291d5ac3c1111f623e.webp",
+      "cards": [
+        {
+          "name": "Alfred",
+          "kind": "characters",
+          "image": "images/2b6b056504771f194ce22147.webp",
+          "demo": false
+        },
+        {
+          "name": "Aquaman",
+          "kind": "characters",
+          "image": "images/0b3f41f698cbc3b3af146342.webp",
+          "demo": false
+        },
+        {
+          "name": "Batman",
+          "kind": "characters",
+          "image": "images/e9d5db9e57c9505c85ae63e7.webp",
+          "demo": false
+        },
+        {
+          "name": "Catwoman",
+          "kind": "characters",
+          "image": "images/525bc4d006e640a7ccd1d8ed.webp",
+          "demo": false
+        },
+        {
+          "name": "Doomsday",
+          "kind": "characters",
+          "image": "images/eb95f17806070dd110f6667b.webp",
+          "demo": false
+        },
+        {
+          "name": "Flash",
+          "kind": "characters",
+          "image": "images/3908f17619e65c0325fe7040.webp",
+          "demo": false
+        },
+        {
+          "name": "Green Arrow",
+          "kind": "characters",
+          "image": "images/3c597cfd8bc48aeb8ae3268e.webp",
+          "demo": false
+        },
+        {
+          "name": "Green Lantern",
+          "kind": "characters",
+          "image": "images/b904c605f6156cca39799e2b.webp",
+          "demo": false
+        },
+        {
+          "name": "Harley Quinn",
+          "kind": "characters",
+          "image": "images/ae229d16478cf059381f3817.webp",
+          "demo": false
+        },
+        {
+          "name": "Krypto",
+          "kind": "characters",
+          "image": "images/1cc214f6201600b67c6d033c.webp",
+          "demo": false
+        },
+        {
+          "name": "Lex Luthor",
+          "kind": "characters",
+          "image": "images/9f0c319104dc201d09860eee.webp",
+          "demo": false
+        },
+        {
+          "name": "Robin",
+          "kind": "characters",
+          "image": "images/fa8e6915249764354a740c3f.webp",
+          "demo": false
+        },
+        {
+          "name": "Shazam",
+          "kind": "characters",
+          "image": "images/4b7508dcf63f6127ebac6f6f.webp",
+          "demo": false
+        },
+        {
+          "name": "Supergirl",
+          "kind": "characters",
+          "image": "images/338c28b6f0c8361b1c1941e5.webp",
+          "demo": false
+        },
+        {
+          "name": "Superman",
+          "kind": "characters",
+          "image": "images/5bd2ad377ebb4c6683e048e1.webp",
+          "demo": false
+        },
+        {
+          "name": "The Joker",
+          "kind": "characters",
+          "image": "images/6cb503276e379bfe5553311b.webp",
+          "demo": false
+        },
+        {
+          "name": "The Penguin",
+          "kind": "characters",
+          "image": "images/a2ac517ad1be4fee877f7e92.webp",
+          "demo": false
+        },
+        {
+          "name": "Wonder Woman",
+          "kind": "characters",
+          "image": "images/23bc6e7cbc63bd3679e8706a.webp",
+          "demo": false
+        },
+        {
+          "name": "Black Panther",
+          "kind": "undercover_only",
+          "image": "images/17bd5fe65dc5790d67f8ac92.webp",
+          "demo": false
+        },
+        {
+          "name": "Black Widow",
+          "kind": "undercover_only",
+          "image": "images/f61611342f5ad307eb5597b8.webp",
+          "demo": false
+        },
+        {
+          "name": "Dash Incredible",
+          "kind": "undercover_only",
+          "image": "images/b032e20e0ed0e09e56658463.webp",
+          "demo": false
+        },
+        {
+          "name": "Hawkeye",
+          "kind": "undercover_only",
+          "image": "images/f375ef53862168840ae4b28f.webp",
+          "demo": false
+        },
+        {
+          "name": "Iron Man",
+          "kind": "undercover_only",
+          "image": "images/eb37b90e3e5e11fb2bf974d2.webp",
+          "demo": false
+        },
+        {
+          "name": "Lara Croft",
+          "kind": "undercover_only",
+          "image": "images/537e1580ff0a41c37255d360.webp",
+          "demo": false
+        },
+        {
+          "name": "Legolas",
+          "kind": "undercover_only",
+          "image": "images/fcebe83c13994056e6339c23.webp",
+          "demo": false
+        },
+        {
+          "name": "Namor",
+          "kind": "undercover_only",
+          "image": "images/25d822d94e0e1450c8088044.webp",
+          "demo": false
+        },
+        {
+          "name": "Pennywise",
+          "kind": "undercover_only",
+          "image": "images/ef0852d0e8705ee0112bf15a.webp",
+          "demo": false
+        },
+        {
+          "name": "Poseidon",
+          "kind": "undercover_only",
+          "image": "images/4ad1106c08fc8fba08b0e031.webp",
+          "demo": false
+        },
+        {
+          "name": "Quicksilver",
+          "kind": "undercover_only",
+          "image": "images/86634eb836bb6c9678d4ca37.webp",
+          "demo": false
+        },
+        {
+          "name": "Robin des Bois",
+          "kind": "undercover_only",
+          "image": "images/356318738d2115927adb64db.webp",
+          "demo": false
+        },
+        {
+          "name": "Sonic",
+          "kind": "undercover_only",
+          "image": "images/8e84d648ee8dc9747aa66df9.webp",
+          "demo": false
+        },
+        {
+          "name": "Usain Bolt",
+          "kind": "undercover_only",
+          "image": "images/b63ac1cfec16ae28a08e493d.webp",
+          "demo": false
+        }
+      ],
+      "groups": [
+        {
+          "name": "pack_archers",
+          "members": [
+            "Hawkeye",
+            "Green Arrow",
+            "Legolas",
+            "Robin des Bois"
+          ]
+        },
+        {
+          "name": "pack_clowns_inquietants",
+          "members": [
+            "The Joker",
+            "Harley Quinn",
+            "Pennywise"
+          ]
+        },
+        {
+          "name": "pack_combattantes_agiles",
+          "members": [
+            "Black Widow",
+            "Catwoman",
+            "Lara Croft"
+          ]
+        },
+        {
+          "name": "pack_heros_cape",
+          "members": [
+            "Superman",
+            "Supergirl",
+            "Shazam",
+            "Krypto"
+          ]
+        },
+        {
+          "name": "pack_riches_justiciers",
+          "members": [
+            "Batman",
+            "Iron Man",
+            "Black Panther",
+            "Lex Luthor"
+          ]
+        },
+        {
+          "name": "pack_souverains_marins",
+          "members": [
+            "Aquaman",
+            "Namor",
+            "Poseidon"
+          ]
+        },
+        {
+          "name": "pack_super_vitesse",
+          "members": [
+            "Flash",
+            "Quicksilver",
+            "Sonic",
+            "Usain Bolt",
+            "Dash Incredible"
+          ]
+        }
+      ],
+      "demo": false
+    },
+    {
+      "id": "one_piece",
+      "name": "One Piece",
+      "color": "#ffb66d",
+      "tagline": "Cap sur le Grand Line",
+      "cover": "images/712da4bbab4710e43f47b363.webp",
+      "cards": [
+        {
+          "name": "Ace",
+          "kind": "characters",
+          "image": "images/4f432b1751ddc95d17ff2a7a.webp",
+          "demo": false
+        },
+        {
+          "name": "Akainu",
+          "kind": "characters",
+          "image": "images/a95f7de95fd181940e6ec585.webp",
+          "demo": false
+        },
+        {
+          "name": "Aokiji",
+          "kind": "characters",
+          "image": "images/cbdcfe1a17549aee75ce7e33.webp",
+          "demo": false
+        },
+        {
+          "name": "Arlong",
+          "kind": "characters",
+          "image": "images/d70bed63d41782fb5eb9a237.webp",
+          "demo": false
+        },
+        {
+          "name": "Baggy",
+          "kind": "characters",
+          "image": "images/f55556016b75cc88ba8d4d10.webp",
+          "demo": false
+        },
+        {
+          "name": "Barbe Blanche",
+          "kind": "characters",
+          "image": "images/67f0528c261cfd098a867a60.webp",
+          "demo": false
+        },
+        {
+          "name": "Barbe Noire",
+          "kind": "characters",
+          "image": "images/4d2b053168d9bbcea9996ef6.webp",
+          "demo": false
+        },
+        {
+          "name": "Boa Hancock",
+          "kind": "characters",
+          "image": "images/c1fce9dcf3809b55511a6759.webp",
+          "demo": false
+        },
+        {
+          "name": "Broggy",
+          "kind": "characters",
+          "image": "images/173794e86992401ccbe11587.webp",
+          "demo": false
+        },
+        {
+          "name": "Brook",
+          "kind": "characters",
+          "image": "images/fc7c46b1df22b68d0662f54c.webp",
+          "demo": false
+        },
+        {
+          "name": "Chopper",
+          "kind": "characters",
+          "image": "images/773cd2083ce345878d2b60b5.webp",
+          "demo": false
+        },
+        {
+          "name": "Crocodile",
+          "kind": "characters",
+          "image": "images/11b94090a557d714767730c2.webp",
+          "demo": false
+        },
+        {
+          "name": "Crocus",
+          "kind": "characters",
+          "image": "images/0a7201986c4491354accb305.webp",
+          "demo": false
+        },
+        {
+          "name": "Dorry",
+          "kind": "characters",
+          "image": "images/9051e2549bf3e78dcfffa572.webp",
+          "demo": false
+        },
+        {
+          "name": "Ener",
+          "kind": "characters",
+          "image": "images/3fc456cf7982dfcb659826ef.webp",
+          "demo": false
+        },
+        {
+          "name": "Fake Luffy",
+          "kind": "characters",
+          "image": "images/5b7efeebf3784036eef170aa.webp",
+          "demo": false
+        },
+        {
+          "name": "Gol D. Roger",
+          "kind": "characters",
+          "image": "images/263f453b557161ae717211de.webp",
+          "demo": false
+        },
+        {
+          "name": "Jinbe",
+          "kind": "characters",
+          "image": "images/448ddb4308d136d9fc1e05de.webp",
+          "demo": false
+        },
+        {
+          "name": "Kaido",
+          "kind": "characters",
+          "image": "images/7fb06c262ebd9c6f86166e96.webp",
+          "demo": false
+        },
+        {
+          "name": "Kalgara",
+          "kind": "characters",
+          "image": "images/590ae84a8340d54197572f20.webp",
+          "demo": false
+        },
+        {
+          "name": "Katakuri",
+          "kind": "characters",
+          "image": "images/89ec493dec130ebadca28e53.webp",
+          "demo": false
+        },
+        {
+          "name": "Kizaru",
+          "kind": "characters",
+          "image": "images/714ec114ff14db5ef2561f99.webp",
+          "demo": false
+        },
+        {
+          "name": "Loki",
+          "kind": "characters",
+          "image": "images/8c1ed873abfb8348231808d8.webp",
+          "demo": false
+        },
+        {
+          "name": "Luffy",
+          "kind": "characters",
+          "image": "images/c15e51c493e2fb8997b4d3d4.webp",
+          "demo": false
+        },
+        {
+          "name": "Mihawk",
+          "kind": "characters",
+          "image": "images/9a5a4483c57613e51716a429.webp",
+          "demo": false
+        },
+        {
+          "name": "Nami",
+          "kind": "characters",
+          "image": "images/1b1f05f8f7c6d1141686fe4e.webp",
+          "demo": false
+        },
+        {
+          "name": "Rayleigh",
+          "kind": "characters",
+          "image": "images/58b288205e301e0df28b36a6.webp",
+          "demo": false
+        },
+        {
+          "name": "Roronoa Zoro",
+          "kind": "characters",
+          "image": "images/d35901853f55f040ae38379d.webp",
+          "demo": false
+        },
+        {
+          "name": "Sabo",
+          "kind": "characters",
+          "image": "images/8c0dcac9ec4bd56edcc63750.webp",
+          "demo": false
+        },
+        {
+          "name": "Sanji",
+          "kind": "characters",
+          "image": "images/49a311ae5b685ac0bedd3925.webp",
+          "demo": false
+        },
+        {
+          "name": "Shanks",
+          "kind": "characters",
+          "image": "images/8640232cd74c5e594f4da0b8.webp",
+          "demo": false
+        },
+        {
+          "name": "Trafalgar Law",
+          "kind": "characters",
+          "image": "images/6220dd8c4b6e76fdc78534f1.webp",
+          "demo": false
+        },
+        {
+          "name": "Usopp",
+          "kind": "characters",
+          "image": "images/384e5be5709f26e6bfd8ec90.webp",
+          "demo": false
+        },
+        {
+          "name": "Vivi",
+          "kind": "characters",
+          "image": "images/f500f065de06488433efd3fc.webp",
+          "demo": false
+        },
+        {
+          "name": "Wapol",
+          "kind": "characters",
+          "image": "images/4edac8938d6fc81778e5367d.webp",
+          "demo": false
+        },
+        {
+          "name": "Aquaman",
+          "kind": "undercover_only",
+          "image": "images/0b3f41f698cbc3b3af146342.webp",
+          "demo": false
+        },
+        {
+          "name": "Aragorn",
+          "kind": "undercover_only",
+          "image": "images/ee47f4c075aa1159068e759c.webp",
+          "demo": false
+        },
+        {
+          "name": "Bowser",
+          "kind": "undercover_only",
+          "image": "images/bf96f309e3c1dc2e1bd520d4.webp",
+          "demo": false
+        },
+        {
+          "name": "Capitaine Crochet",
+          "kind": "undercover_only",
+          "image": "images/3bd8a1a2773bd643abff159f.webp",
+          "demo": false
+        },
+        {
+          "name": "De la glace",
+          "kind": "undercover_only",
+          "image": "images/12f9d639df6fa490d1cfa16e.webp",
+          "demo": false
+        },
+        {
+          "name": "De la lave",
+          "kind": "undercover_only",
+          "image": "images/48205acd72a46a867be9e2b0.webp",
+          "demo": false
+        },
+        {
+          "name": "De la lumière",
+          "kind": "undercover_only",
+          "image": "images/a6b5a98a180d1b15764b57c1.webp",
+          "demo": false
+        },
+        {
+          "name": "Dr House",
+          "kind": "undercover_only",
+          "image": "images/3405bf348be75c913bc8da3e.webp",
+          "demo": false
+        },
+        {
+          "name": "Dr Mario",
+          "kind": "undercover_only",
+          "image": "images/1a5b893d36102bda0dce5d50.webp",
+          "demo": false
+        },
+        {
+          "name": "Dracaufeu",
+          "kind": "undercover_only",
+          "image": "images/667d6cd0e55ca551e4fbd85e.webp",
+          "demo": false
+        },
+        {
+          "name": "Du sable",
+          "kind": "undercover_only",
+          "image": "images/a858e8253036518fdb7f8a9a.webp",
+          "demo": false
+        },
+        {
+          "name": "Elastigirl",
+          "kind": "undercover_only",
+          "image": "images/b513c6807935eb4df316b494.webp",
+          "demo": false
+        },
+        {
+          "name": "Guardian",
+          "kind": "undercover_only",
+          "image": "images/002f9173f64eda8ad3a7eee6.webp",
+          "demo": false
+        },
+        {
+          "name": "Jack Sparrow",
+          "kind": "undercover_only",
+          "image": "images/4b65f368b2e7c7fc1fa5d60e.webp",
+          "demo": false
+        },
+        {
+          "name": "Koopa Squelette",
+          "kind": "undercover_only",
+          "image": "images/17f3ac41b695b3a0b25b3c6d.webp",
+          "demo": false
+        },
+        {
+          "name": "La Torche Humaine",
+          "kind": "undercover_only",
+          "image": "images/607f9a1b8d8188821aaef4fd.webp",
+          "demo": false
+        },
+        {
+          "name": "Les tenebres",
+          "kind": "undercover_only",
+          "image": "images/5db70f98fa4815ad9a1909c3.webp",
+          "demo": false
+        },
+        {
+          "name": "Link",
+          "kind": "undercover_only",
+          "image": "images/1edf3692fd4c0fb187258fc3.webp",
+          "demo": false
+        },
+        {
+          "name": "Mr. Fantastic",
+          "kind": "undercover_only",
+          "image": "images/f7e5709f4944c11d0e5692a9.webp",
+          "demo": false
+        },
+        {
+          "name": "Namor",
+          "kind": "undercover_only",
+          "image": "images/25d822d94e0e1450c8088044.webp",
+          "demo": false
+        },
+        {
+          "name": "Philippe Etchebest",
+          "kind": "undercover_only",
+          "image": "images/e8395b9fed1f12f3cad114e9.webp",
+          "demo": false
+        },
+        {
+          "name": "Pikachu",
+          "kind": "undercover_only",
+          "image": "images/0686021fa9a7861844b4f654.webp",
+          "demo": false
+        },
+        {
+          "name": "Remy",
+          "kind": "undercover_only",
+          "image": "images/946fb1656991fe6e6dcfbf1c.webp",
+          "demo": false
+        },
+        {
+          "name": "Squelette Minecraft",
+          "kind": "undercover_only",
+          "image": "images/344fe2f441312780b4f0eda6.webp",
+          "demo": false
+        },
+        {
+          "name": "Thor",
+          "kind": "undercover_only",
+          "image": "images/b15ab6afc41c7c745105ed83.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Chewing Gum",
+          "kind": "undercover_only",
+          "image": "images/e76f2171024d080472b58bf0.webp",
+          "demo": false
+        },
+        {
+          "name": "Un os",
+          "kind": "undercover_only",
+          "image": "images/32b662add6cb524c60bd2f31.webp",
+          "demo": false
+        }
+      ],
+      "groups": [
+        {
+          "name": "pack_capitaines_pirates",
+          "members": [
+            "Shanks",
+            "Jack Sparrow",
+            "Capitaine Crochet"
+          ]
+        },
+        {
+          "name": "pack_combattants_marins",
+          "members": [
+            "Jinbe",
+            "Aquaman",
+            "Arlong",
+            "Guardian",
+            "Namor"
+          ]
+        },
+        {
+          "name": "pack_corps_elastiques",
+          "members": [
+            "Luffy",
+            "Elastigirl",
+            "Mr. Fantastic",
+            "Un Chewing Gum"
+          ]
+        },
+        {
+          "name": "pack_crochet",
+          "members": [
+            "Capitaine Crochet",
+            "Crocodile"
+          ]
+        },
+        {
+          "name": "pack_cuisiniers",
+          "members": [
+            "Sanji",
+            "Philippe Etchebest",
+            "Remy"
+          ]
+        },
+        {
+          "name": "pack_electricite",
+          "members": [
+            "Ener",
+            "Thor",
+            "Pikachu"
+          ]
+        },
+        {
+          "name": "pack_epeistes",
+          "members": [
+            "Roronoa Zoro",
+            "Mihawk",
+            "Link",
+            "Aragorn"
+          ]
+        },
+        {
+          "name": "pack_glace",
+          "members": [
+            "Aokiji",
+            "De la glace"
+          ]
+        },
+        {
+          "name": "pack_lave",
+          "members": [
+            "Akainu",
+            "De la lave"
+          ]
+        },
+        {
+          "name": "pack_lumiere",
+          "members": [
+            "Kizaru",
+            "De la lumière"
+          ]
+        },
+        {
+          "name": "pack_maitres_feu",
+          "members": [
+            "Ace",
+            "Sabo",
+            "La Torche Humaine",
+            "Bowser",
+            "Dracaufeu"
+          ]
+        },
+        {
+          "name": "pack_medecins",
+          "members": [
+            "Chopper",
+            "Dr House",
+            "Dr Mario"
+          ]
+        },
+        {
+          "name": "pack_sable",
+          "members": [
+            "Crocodile",
+            "Du sable"
+          ]
+        },
+        {
+          "name": "pack_squelettes",
+          "members": [
+            "Brook",
+            "Squelette Minecraft",
+            "Un os",
+            "Koopa Squelette"
+          ]
+        },
+        {
+          "name": "pack_tenebres",
+          "members": [
+            "Barbe Noire",
+            "Les tenebres"
+          ]
+        }
+      ],
+      "demo": false
+    },
+    {
+      "id": "smash_bros",
+      "name": "Smash Bros.",
+      "color": "#8acbff",
+      "tagline": "Tout le monde entre dans l’arène",
+      "cover": "images/0a257ea4c68b52354c59592c.webp",
+      "cards": [
+        {
+          "name": "Amphinobi",
+          "kind": "characters",
+          "image": "images/82d39ecad81d162c264bfd3a.webp",
+          "demo": false
+        },
+        {
+          "name": "Boo",
+          "kind": "characters",
+          "image": "images/a8d8e8d866a57d523e8de0cc.webp",
+          "demo": false
+        },
+        {
+          "name": "Bowser",
+          "kind": "characters",
+          "image": "images/bf96f309e3c1dc2e1bd520d4.webp",
+          "demo": false
+        },
+        {
+          "name": "Bowser Jr.",
+          "kind": "characters",
+          "image": "images/e2d602718e16eacb92cdfddc.webp",
+          "demo": false
+        },
+        {
+          "name": "Captain Falcon",
+          "kind": "characters",
+          "image": "images/dcc1a77190a93b83f3267d5f.webp",
+          "demo": false
+        },
+        {
+          "name": "Carapuce",
+          "kind": "characters",
+          "image": "images/c7eb7a1e4b3ecd9b9e0fab6c.webp",
+          "demo": false
+        },
+        {
+          "name": "Cloud",
+          "kind": "characters",
+          "image": "images/3210aeee1715c5c8b4d1ffe8.webp",
+          "demo": false
+        },
+        {
+          "name": "Daisy",
+          "kind": "characters",
+          "image": "images/84578a4f5bcc89e6c6501a9b.webp",
+          "demo": false
+        },
+        {
+          "name": "Dark Pit",
+          "kind": "characters",
+          "image": "images/e9a432429492434713381d00.webp",
+          "demo": false
+        },
+        {
+          "name": "Dark Samus",
+          "kind": "characters",
+          "image": "images/ac3cd3ac0bcf1d676feef053.webp",
+          "demo": false
+        },
+        {
+          "name": "Diddy Kong",
+          "kind": "characters",
+          "image": "images/51bac69c9d7f8539c4cee356.webp",
+          "demo": false
+        },
+        {
+          "name": "Donkey Kong",
+          "kind": "characters",
+          "image": "images/b94e0b8ec4f043de0c15dd03.webp",
+          "demo": false
+        },
+        {
+          "name": "Dr Mario",
+          "kind": "characters",
+          "image": "images/1a5b893d36102bda0dce5d50.webp",
+          "demo": false
+        },
+        {
+          "name": "Dracaufeu",
+          "kind": "characters",
+          "image": "images/667d6cd0e55ca551e4fbd85e.webp",
+          "demo": false
+        },
+        {
+          "name": "Felinferno",
+          "kind": "characters",
+          "image": "images/26af9aab8ca80969b7ab34d3.webp",
+          "demo": false
+        },
+        {
+          "name": "Fox",
+          "kind": "characters",
+          "image": "images/8c3d3b20665ce276e417dbb9.webp",
+          "demo": false
+        },
+        {
+          "name": "Ganondorf",
+          "kind": "characters",
+          "image": "images/4a7a158d0a0bed6d6f83d66c.webp",
+          "demo": false
+        },
+        {
+          "name": "Ice Climbers",
+          "kind": "characters",
+          "image": "images/f679c0e8f10c57b2da2875a8.webp",
+          "demo": false
+        },
+        {
+          "name": "Ike",
+          "kind": "characters",
+          "image": "images/1a12c501ea6c41e34fed6e6a.webp",
+          "demo": false
+        },
+        {
+          "name": "Ken",
+          "kind": "characters",
+          "image": "images/d484e590446534c5573f68a1.webp",
+          "demo": false
+        },
+        {
+          "name": "King K Rool",
+          "kind": "characters",
+          "image": "images/6f0f43e849e9bdcd47844f5d.webp",
+          "demo": false
+        },
+        {
+          "name": "Kirby",
+          "kind": "characters",
+          "image": "images/1226678f338034f664dc62ec.webp",
+          "demo": false
+        },
+        {
+          "name": "Koopa",
+          "kind": "characters",
+          "image": "images/1b505fca361015ad51a950f8.webp",
+          "demo": false
+        },
+        {
+          "name": "Link",
+          "kind": "characters",
+          "image": "images/1edf3692fd4c0fb187258fc3.webp",
+          "demo": false
+        },
+        {
+          "name": "Little Mac",
+          "kind": "characters",
+          "image": "images/fa0f837d92383fad3f322da3.webp",
+          "demo": false
+        },
+        {
+          "name": "Luigi",
+          "kind": "characters",
+          "image": "images/927ba1f2fb6fe749bb941da4.webp",
+          "demo": false
+        },
+        {
+          "name": "Mario",
+          "kind": "characters",
+          "image": "images/8ef145e222eb4188ec3392ce.webp",
+          "demo": false
+        },
+        {
+          "name": "Marth",
+          "kind": "characters",
+          "image": "images/58f7541f001b2af40fe4c100.webp",
+          "demo": false
+        },
+        {
+          "name": "Peach",
+          "kind": "characters",
+          "image": "images/33863b720874653e568c64f7.webp",
+          "demo": false
+        },
+        {
+          "name": "Pichu",
+          "kind": "characters",
+          "image": "images/45b42cceb14aea99644f8d90.webp",
+          "demo": false
+        },
+        {
+          "name": "Pikachu",
+          "kind": "characters",
+          "image": "images/0686021fa9a7861844b4f654.webp",
+          "demo": false
+        },
+        {
+          "name": "Pit",
+          "kind": "characters",
+          "image": "images/42de899f42006f96d48f6ce3.webp",
+          "demo": false
+        },
+        {
+          "name": "Ridley",
+          "kind": "characters",
+          "image": "images/05f71f09a3fdbae51bcd3446.webp",
+          "demo": false
+        },
+        {
+          "name": "ROB",
+          "kind": "characters",
+          "image": "images/dacacbcb7c9810fcb734f639.webp",
+          "demo": false
+        },
+        {
+          "name": "Roi Dadidou",
+          "kind": "characters",
+          "image": "images/d2ac509a0f90bb75b08d1081.webp",
+          "demo": false
+        },
+        {
+          "name": "Rondoudou",
+          "kind": "characters",
+          "image": "images/650c5246d6ab3b73bcef79b9.webp",
+          "demo": false
+        },
+        {
+          "name": "Roy",
+          "kind": "characters",
+          "image": "images/2cd3593e2af77c3a3dc1f096.webp",
+          "demo": false
+        },
+        {
+          "name": "Ryu",
+          "kind": "characters",
+          "image": "images/c264ffcec17f16d1960dec75.webp",
+          "demo": false
+        },
+        {
+          "name": "Samus",
+          "kind": "characters",
+          "image": "images/e3a093d1d4ee19963f9cc2a9.webp",
+          "demo": false
+        },
+        {
+          "name": "Samus Sans Armure",
+          "kind": "characters",
+          "image": "images/6acfcb8d0b9c7815a59baa4b.webp",
+          "demo": false
+        },
+        {
+          "name": "Sheik",
+          "kind": "characters",
+          "image": "images/d1c5972ed92c0ef018ecd55e.webp",
+          "demo": false
+        },
+        {
+          "name": "Snake",
+          "kind": "characters",
+          "image": "images/be9913ac7e14fabfa9a37397.webp",
+          "demo": false
+        },
+        {
+          "name": "Sonic",
+          "kind": "characters",
+          "image": "images/8e84d648ee8dc9747aa66df9.webp",
+          "demo": false
+        },
+        {
+          "name": "Toon Link",
+          "kind": "characters",
+          "image": "images/bdb435014563192b0634b886.webp",
+          "demo": false
+        },
+        {
+          "name": "Tortank",
+          "kind": "characters",
+          "image": "images/7c3fe206f1c145292132738c.webp",
+          "demo": false
+        },
+        {
+          "name": "Villageois",
+          "kind": "characters",
+          "image": "images/95696ff987f4916b9a00befc.webp",
+          "demo": false
+        },
+        {
+          "name": "Waluigi",
+          "kind": "characters",
+          "image": "images/4a44dd13b137fc1c0321366d.webp",
+          "demo": false
+        },
+        {
+          "name": "Wario",
+          "kind": "characters",
+          "image": "images/da97f742b535c5a2cc44d0ca.webp",
+          "demo": false
+        },
+        {
+          "name": "Yoshi",
+          "kind": "characters",
+          "image": "images/4816747deb45c28836fe21b8.webp",
+          "demo": false
+        },
+        {
+          "name": "Young Link",
+          "kind": "characters",
+          "image": "images/14451276853c382b25798534.webp",
+          "demo": false
+        },
+        {
+          "name": "Zelda",
+          "kind": "characters",
+          "image": "images/0da03d95a39f6659b2e60f8c.webp",
+          "demo": false
+        },
+        {
+          "name": "Abu",
+          "kind": "undercover_only",
+          "image": "images/630ba0602ef304ed704296cd.webp",
+          "demo": false
+        },
+        {
+          "name": "Bruce Lee",
+          "kind": "undercover_only",
+          "image": "images/6b22b81a368804e935b0947c.webp",
+          "demo": false
+        },
+        {
+          "name": "Buu (Dragon Ball)",
+          "kind": "undercover_only",
+          "image": "images/04b77a5469e6601225cf550f.webp",
+          "demo": false
+        },
+        {
+          "name": "Buzz l'éclair",
+          "kind": "undercover_only",
+          "image": "images/e0da7ee7333d31dca0fec005.webp",
+          "demo": false
+        },
+        {
+          "name": "Cendrillon",
+          "kind": "undercover_only",
+          "image": "images/b607ec17511f93e02d75e1e7.webp",
+          "demo": false
+        },
+        {
+          "name": "Drogon (GoT)",
+          "kind": "undercover_only",
+          "image": "images/d46a5916a69ef10094ea7703.webp",
+          "demo": false
+        },
+        {
+          "name": "Ghast",
+          "kind": "undercover_only",
+          "image": "images/dcee28b2697fd213f7d6ee7c.webp",
+          "demo": false
+        },
+        {
+          "name": "Godzilla",
+          "kind": "undercover_only",
+          "image": "images/e21e47b3415b1c5faebbd973.webp",
+          "demo": false
+        },
+        {
+          "name": "James Bond",
+          "kind": "undercover_only",
+          "image": "images/f28c56bb891e3cdfb557631f.webp",
+          "demo": false
+        },
+        {
+          "name": "King Kong",
+          "kind": "undercover_only",
+          "image": "images/7930017bf03cf677757b0562.webp",
+          "demo": false
+        },
+        {
+          "name": "Master Chief",
+          "kind": "undercover_only",
+          "image": "images/c3e8a73be1efb96188e708f2.webp",
+          "demo": false
+        },
+        {
+          "name": "Pac-Man",
+          "kind": "undercover_only",
+          "image": "images/01589020e685ebe1a44143eb.webp",
+          "demo": false
+        },
+        {
+          "name": "R2D2",
+          "kind": "undercover_only",
+          "image": "images/d31bb41ade9a787aa7f9e29d.webp",
+          "demo": false
+        },
+        {
+          "name": "Raichu",
+          "kind": "undercover_only",
+          "image": "images/24b02a5fd52196bc147e64a3.webp",
+          "demo": false
+        },
+        {
+          "name": "Rocky Balboa",
+          "kind": "undercover_only",
+          "image": "images/292679c73be2c68937c7e593.webp",
+          "demo": false
+        },
+        {
+          "name": "Roi des Morts",
+          "kind": "undercover_only",
+          "image": "images/96c03d105673f412c4e7890a.webp",
+          "demo": false
+        },
+        {
+          "name": "Smaug",
+          "kind": "undercover_only",
+          "image": "images/cdc3aa9d70769a2f3fc8a3db.webp",
+          "demo": false
+        },
+        {
+          "name": "Space Marine",
+          "kind": "undercover_only",
+          "image": "images/1839395168025dadd24ae689.webp",
+          "demo": false
+        },
+        {
+          "name": "Tails",
+          "kind": "undercover_only",
+          "image": "images/e2cf8fccfcc551c68b26bbb3.webp",
+          "demo": false
+        },
+        {
+          "name": "Tarzan",
+          "kind": "undercover_only",
+          "image": "images/78ff0467eb82b206781ef1de.webp",
+          "demo": false
+        },
+        {
+          "name": "Terminator",
+          "kind": "undercover_only",
+          "image": "images/e75cdf68577bb4493b1ec767.webp",
+          "demo": false
+        },
+        {
+          "name": "Tortue Ninja",
+          "kind": "undercover_only",
+          "image": "images/e320c883c29bc5c758e51ccd.webp",
+          "demo": false
+        },
+        {
+          "name": "Un ninja",
+          "kind": "undercover_only",
+          "image": "images/11419764c029c81e76daade6.webp",
+          "demo": false
+        },
+        {
+          "name": "WallE",
+          "kind": "undercover_only",
+          "image": "images/08ea6dbc7d77320ef6aeeb08.webp",
+          "demo": false
+        }
+      ],
+      "groups": [
+        {
+          "name": "pack renard sonic",
+          "members": [
+            "Sonic",
+            "Fox",
+            "Tails"
+          ]
+        },
+        {
+          "name": "pack_armures_spatiales",
+          "members": [
+            "Samus",
+            "Master Chief",
+            "Space Marine",
+            "Dark Samus",
+            "Samus Sans Armure",
+            "Buzz l'éclair"
+          ]
+        },
+        {
+          "name": "pack_boxeur",
+          "members": [
+            "Little Mac",
+            "Ryu",
+            "Ken",
+            "Bruce Lee",
+            "Rocky Balboa"
+          ]
+        },
+        {
+          "name": "pack_dragons_ailes",
+          "members": [
+            "Ridley",
+            "Dracaufeu",
+            "Drogon (GoT)",
+            "Smaug"
+          ]
+        },
+        {
+          "name": "pack_famille_pikachu",
+          "members": [
+            "Pikachu",
+            "Pichu",
+            "Raichu"
+          ]
+        },
+        {
+          "name": "pack_grandes_epees",
+          "members": [
+            "Link",
+            "Cloud",
+            "Ike",
+            "Marth",
+            "Roy"
+          ]
+        },
+        {
+          "name": "pack_grands_singes",
+          "members": [
+            "Donkey Kong",
+            "Diddy Kong",
+            "King Kong",
+            "Tarzan",
+            "Abu"
+          ]
+        },
+        {
+          "name": "pack_link",
+          "members": [
+            "Link",
+            "Young Link",
+            "Toon Link"
+          ]
+        },
+        {
+          "name": "pack_moustaches_casquettes",
+          "members": [
+            "Mario",
+            "Luigi",
+            "Wario",
+            "Waluigi",
+            "Dr Mario"
+          ]
+        },
+        {
+          "name": "pack_ninja",
+          "members": [
+            "Sheik",
+            "Snake",
+            "Amphinobi",
+            "James Bond",
+            "Un ninja"
+          ]
+        },
+        {
+          "name": "pack_petites_boules",
+          "members": [
+            "Kirby",
+            "Rondoudou",
+            "Pac-Man",
+            "Buu (Dragon Ball)"
+          ]
+        },
+        {
+          "name": "pack_phantome",
+          "members": [
+            "Boo",
+            "Ghast",
+            "Roi des Morts"
+          ]
+        },
+        {
+          "name": "pack_princesses",
+          "members": [
+            "Peach",
+            "Daisy",
+            "Zelda",
+            "Cendrillon"
+          ]
+        },
+        {
+          "name": "pack_reptile",
+          "members": [
+            "King K Rool",
+            "Yoshi",
+            "Godzilla",
+            "Bowser"
+          ]
+        },
+        {
+          "name": "pack_robots",
+          "members": [
+            "ROB",
+            "Terminator",
+            "WallE",
+            "R2D2"
+          ]
+        },
+        {
+          "name": "pack_tortues_combattantes",
+          "members": [
+            "Bowser",
+            "Bowser Jr.",
+            "Tortank",
+            "Carapuce",
+            "Koopa",
+            "Tortue Ninja"
+          ]
+        }
+      ],
+      "demo": false
+    },
+    {
+      "id": "got",
+      "name": "GOT",
+      "color": "#8acbff",
+      "tagline": "Winter is Coming",
+      "cover": "images/3a02fcb3121d6c2aa10fd569.webp",
+      "cards": [
+        {
+          "name": "Arya Stark",
+          "kind": "characters",
+          "image": "images/7bf66ca1c0bf73c61250445f.webp",
+          "demo": false
+        },
+        {
+          "name": "Bran Stark",
+          "kind": "characters",
+          "image": "images/3528c33448e4efa0b6216468.webp",
+          "demo": false
+        },
+        {
+          "name": "Brienne de Torth",
+          "kind": "characters",
+          "image": "images/0e8833b12eea0daeeac02bb7.webp",
+          "demo": false
+        },
+        {
+          "name": "Bronn",
+          "kind": "characters",
+          "image": "images/958744d9617c8c63a9416a07.webp",
+          "demo": false
+        },
+        {
+          "name": "Catelyn Stark",
+          "kind": "characters",
+          "image": "images/503466c60326100303f2e892.webp",
+          "demo": false
+        },
+        {
+          "name": "Cersei Lannister",
+          "kind": "characters",
+          "image": "images/ed166fff58300841d93ec7f1.webp",
+          "demo": false
+        },
+        {
+          "name": "Daenerys Targaryen",
+          "kind": "characters",
+          "image": "images/7e37751e19a2ec1c86d5e9f3.webp",
+          "demo": false
+        },
+        {
+          "name": "Davos Mervault",
+          "kind": "characters",
+          "image": "images/1109983dd80394f2c2e6f88f.webp",
+          "demo": false
+        },
+        {
+          "name": "Eddard Stark",
+          "kind": "characters",
+          "image": "images/1b03d48512263c5fb11da74c.webp",
+          "demo": false
+        },
+        {
+          "name": "Jaime Lannister",
+          "kind": "characters",
+          "image": "images/6ae0d027fe6412a6237d9cfd.webp",
+          "demo": false
+        },
+        {
+          "name": "Joffrey Baratheon",
+          "kind": "characters",
+          "image": "images/9245e46121305b1aed1f28e2.webp",
+          "demo": false
+        },
+        {
+          "name": "Jon Snow",
+          "kind": "characters",
+          "image": "images/e259592f5c60709cdce116c7.webp",
+          "demo": false
+        },
+        {
+          "name": "Jorah Mormont",
+          "kind": "characters",
+          "image": "images/ef412bc40e0d2417158c6e26.webp",
+          "demo": false
+        },
+        {
+          "name": "Margaery Tyrell",
+          "kind": "characters",
+          "image": "images/bc758f738aa1dcd968b13e92.webp",
+          "demo": false
+        },
+        {
+          "name": "Melisandre",
+          "kind": "characters",
+          "image": "images/0055d93dfdac9aaf069c10ae.webp",
+          "demo": false
+        },
+        {
+          "name": "Missandei",
+          "kind": "characters",
+          "image": "images/7b88b5f174a7565e529bed6c.webp",
+          "demo": false
+        },
+        {
+          "name": "Oberyn Martell",
+          "kind": "characters",
+          "image": "images/3351c35c1e51480c07b2743e.webp",
+          "demo": false
+        },
+        {
+          "name": "Petyr Baelish",
+          "kind": "characters",
+          "image": "images/48c19604cbf802772d502069.webp",
+          "demo": false
+        },
+        {
+          "name": "Ramsay Bolton",
+          "kind": "characters",
+          "image": "images/7e7d98088a80def47d393dd1.webp",
+          "demo": false
+        },
+        {
+          "name": "Rhaegar Taragryen",
+          "kind": "characters",
+          "image": "images/928f2773573d4d831082aa79.webp",
+          "demo": false
+        },
+        {
+          "name": "Robb Stark",
+          "kind": "characters",
+          "image": "images/443e6fe26e1597fc424be607.webp",
+          "demo": false
+        },
+        {
+          "name": "Robert Baratheon",
+          "kind": "characters",
+          "image": "images/b0cacc6dee320cfeefc7189b.webp",
+          "demo": false
+        },
+        {
+          "name": "Robin Arryn",
+          "kind": "characters",
+          "image": "images/3d2417eb04ed6acab7e3b248.webp",
+          "demo": false
+        },
+        {
+          "name": "Sandor Clegane",
+          "kind": "characters",
+          "image": "images/be9e2c0c10c7a82d1dcf1272.webp",
+          "demo": false
+        },
+        {
+          "name": "Sansa Stark",
+          "kind": "characters",
+          "image": "images/6d1bbd6c42f59818d11373e8.webp",
+          "demo": false
+        },
+        {
+          "name": "Stannis Baratheon",
+          "kind": "characters",
+          "image": "images/870167dfc405afc255f40b76.webp",
+          "demo": false
+        },
+        {
+          "name": "The Mountain",
+          "kind": "characters",
+          "image": "images/5a64448a0480bf7b3a18bdb1.webp",
+          "demo": false
+        },
+        {
+          "name": "Theon Greyjoy",
+          "kind": "characters",
+          "image": "images/c2b10b7477a1fc932cc7586d.webp",
+          "demo": false
+        },
+        {
+          "name": "Tyrion Lannister",
+          "kind": "characters",
+          "image": "images/f83d8f465a4692c6792d4bc4.webp",
+          "demo": false
+        },
+        {
+          "name": "Tywin Lannister",
+          "kind": "characters",
+          "image": "images/6134df87f3421f6113bd97a2.webp",
+          "demo": false
+        },
+        {
+          "name": "Varys",
+          "kind": "characters",
+          "image": "images/947993f705644c2b2698bc37.webp",
+          "demo": false
+        },
+        {
+          "name": "Ygrid",
+          "kind": "characters",
+          "image": "images/f27beb9d26d96e8239389d8a.webp",
+          "demo": false
+        }
+      ],
+      "groups": [],
+      "demo": false
+    },
+    {
+      "id": "police",
+      "name": "Univers Policier",
+      "color": "#8acbff",
+      "tagline": "Who is the killer?",
+      "cover": "images/46d7eed7125eb0519844427d.webp",
+      "cards": [
+        {
+          "name": "Alexis",
+          "kind": "characters",
+          "image": "images/9419cc25eb8c8b7a88f7be89.webp",
+          "demo": false
+        },
+        {
+          "name": "Bret Stiles",
+          "kind": "characters",
+          "image": "images/d7a2cb444e4ef7aa56b8b04e.webp",
+          "demo": false
+        },
+        {
+          "name": "Captain Gates",
+          "kind": "characters",
+          "image": "images/47992bdc2eced0bcf98aadbb.webp",
+          "demo": false
+        },
+        {
+          "name": "Craig O'Laughlin",
+          "kind": "characters",
+          "image": "images/990893860b897d146087b2b1.webp",
+          "demo": false
+        },
+        {
+          "name": "Erica Flynn",
+          "kind": "characters",
+          "image": "images/fb6dae289257a70b57c91739.webp",
+          "demo": false
+        },
+        {
+          "name": "Gale Bertram",
+          "kind": "characters",
+          "image": "images/c76c951948916d08f130a5fb.webp",
+          "demo": false
+        },
+        {
+          "name": "Grace Van Pelt",
+          "kind": "characters",
+          "image": "images/f9eaff133878241157b993cb.webp",
+          "demo": false
+        },
+        {
+          "name": "Haley",
+          "kind": "characters",
+          "image": "images/42e924453a54cda2e49d155c.webp",
+          "demo": false
+        },
+        {
+          "name": "J.J. LaRoche",
+          "kind": "characters",
+          "image": "images/9011b99ea57967267ad00582.webp",
+          "demo": false
+        },
+        {
+          "name": "Jackson Hunt (Pere de Castle)",
+          "kind": "characters",
+          "image": "images/df0960ec86fa596ef8ebfe1c.webp",
+          "demo": false
+        },
+        {
+          "name": "Javier Esposito",
+          "kind": "characters",
+          "image": "images/4dcb43204d06367b80c55651.webp",
+          "demo": false
+        },
+        {
+          "name": "Jerry Tyson (Triple Tueur)",
+          "kind": "characters",
+          "image": "images/cfd1138121873c0f28d3fefc.webp",
+          "demo": false
+        },
+        {
+          "name": "Jim Beckett",
+          "kind": "characters",
+          "image": "images/adf206a94f074ae86f0b2baf.webp",
+          "demo": false
+        },
+        {
+          "name": "Kate Beckett",
+          "kind": "characters",
+          "image": "images/f87534c66fe10fce72809128.webp",
+          "demo": false
+        },
+        {
+          "name": "Kelly Nieman",
+          "kind": "characters",
+          "image": "images/1b90a464c4b0c6797de852c9.webp",
+          "demo": false
+        },
+        {
+          "name": "Kevin Ryan",
+          "kind": "characters",
+          "image": "images/4490868dcb292f7f9ca78592.webp",
+          "demo": false
+        },
+        {
+          "name": "Kimball Cho",
+          "kind": "characters",
+          "image": "images/dc951c48335f82b6cc9fc00c.webp",
+          "demo": false
+        },
+        {
+          "name": "Kristina Frye",
+          "kind": "characters",
+          "image": "images/5d7d78d6489c00f4aaa7cd74.webp",
+          "demo": false
+        },
+        {
+          "name": "Lanie",
+          "kind": "characters",
+          "image": "images/84fd4472e463c2407eedd938.webp",
+          "demo": false
+        },
+        {
+          "name": "Lisbon",
+          "kind": "characters",
+          "image": "images/a5b606d0284d1730e5556043.webp",
+          "demo": false
+        },
+        {
+          "name": "Lorelei Martins",
+          "kind": "characters",
+          "image": "images/aa45990ec99d68ebca2c4524.webp",
+          "demo": false
+        },
+        {
+          "name": "Madeleine Hightower",
+          "kind": "characters",
+          "image": "images/30afb2fd6a550fa1c2c0cb87.webp",
+          "demo": false
+        },
+        {
+          "name": "Martha",
+          "kind": "characters",
+          "image": "images/7387d6fcc4a139e1811264ea.webp",
+          "demo": false
+        },
+        {
+          "name": "Meredith",
+          "kind": "characters",
+          "image": "images/1abc2669e2d5758a990be582.webp",
+          "demo": false
+        },
+        {
+          "name": "Patrick Jane",
+          "kind": "characters",
+          "image": "images/49a7d30fa383e954d6de2a8b.webp",
+          "demo": false
+        },
+        {
+          "name": "Pete Barsocky",
+          "kind": "characters",
+          "image": "images/eeb545d2455c64d4afacb74e.webp",
+          "demo": false
+        },
+        {
+          "name": "Rick Castle",
+          "kind": "characters",
+          "image": "images/447c8547a1549e96f836e6e9.webp",
+          "demo": false
+        },
+        {
+          "name": "Rigsby",
+          "kind": "characters",
+          "image": "images/f667468363952a539deddd3b.webp",
+          "demo": false
+        },
+        {
+          "name": "Roy Montgomery",
+          "kind": "characters",
+          "image": "images/e5d90797bb30042d6f11e36c.webp",
+          "demo": false
+        },
+        {
+          "name": "Senator Bracken",
+          "kind": "characters",
+          "image": "images/22b5562b646c34bcf8dcb9ec.webp",
+          "demo": false
+        },
+        {
+          "name": "Summer",
+          "kind": "characters",
+          "image": "images/8cc5029340d5cd42a2c13532.webp",
+          "demo": false
+        },
+        {
+          "name": "Thomas McAllister",
+          "kind": "characters",
+          "image": "images/bac2fc51e8e9e6ac4241c00a.webp",
+          "demo": false
+        },
+        {
+          "name": "Walter Mashburn",
+          "kind": "characters",
+          "image": "images/a7383523a0ddfec791fb63b0.webp",
+          "demo": false
+        }
+      ],
+      "groups": [],
+      "demo": false
+    },
+    {
+      "id": "lol",
+      "name": "LOL",
+      "color": "#8acbff",
+      "tagline": "To the Nexus!",
+      "cover": "images/490bee1e76d59fe4d3f6c6ac.webp",
+      "cards": [
+        {
+          "name": "Aatrox",
+          "kind": "characters",
+          "image": "images/22af51e4f9c08a594b6a6180.webp",
+          "demo": false
+        },
+        {
+          "name": "Ahri",
+          "kind": "characters",
+          "image": "images/3f2f39ffac819dd2d670e14b.webp",
+          "demo": false
+        },
+        {
+          "name": "Akali",
+          "kind": "characters",
+          "image": "images/b6067ef2bbea200f256b990f.webp",
+          "demo": false
+        },
+        {
+          "name": "Alistar",
+          "kind": "characters",
+          "image": "images/2c7270be7960f3cfff79920f.webp",
+          "demo": false
+        },
+        {
+          "name": "Amumu",
+          "kind": "characters",
+          "image": "images/c09be8136ade60666c1551e4.webp",
+          "demo": false
+        },
+        {
+          "name": "Anivia",
+          "kind": "characters",
+          "image": "images/5bbdbba5c7bd8746b7c59f06.webp",
+          "demo": false
+        },
+        {
+          "name": "Ashe",
+          "kind": "characters",
+          "image": "images/ef1ddf6d5b0dee0f342159a0.webp",
+          "demo": false
+        },
+        {
+          "name": "Aurelion Sol",
+          "kind": "characters",
+          "image": "images/dc57dfb02f9bbc72b3e5e08d.webp",
+          "demo": false
+        },
+        {
+          "name": "Azir",
+          "kind": "characters",
+          "image": "images/f8045d18dd3383e50e36202f.webp",
+          "demo": false
+        },
+        {
+          "name": "Brand",
+          "kind": "characters",
+          "image": "images/99df15b071cc82b45cb09571.webp",
+          "demo": false
+        },
+        {
+          "name": "Caitlyn",
+          "kind": "characters",
+          "image": "images/91848b4ef323dcc2fefaa264.webp",
+          "demo": false
+        },
+        {
+          "name": "Cho'Gath",
+          "kind": "characters",
+          "image": "images/df2d6da905d8133bc36c8907.webp",
+          "demo": false
+        },
+        {
+          "name": "Darius",
+          "kind": "characters",
+          "image": "images/b3366ad843f263f279822c24.webp",
+          "demo": false
+        },
+        {
+          "name": "Ekko",
+          "kind": "characters",
+          "image": "images/8edba154ccef410e1316ea4e.webp",
+          "demo": false
+        },
+        {
+          "name": "Evelynn",
+          "kind": "characters",
+          "image": "images/e8a8ec66d5ce0b8e047d92bf.webp",
+          "demo": false
+        },
+        {
+          "name": "Ezreal",
+          "kind": "characters",
+          "image": "images/7dfc4854e0a10561370deab8.webp",
+          "demo": false
+        },
+        {
+          "name": "Fiddlesticks",
+          "kind": "characters",
+          "image": "images/f66a2dc9f35e16b1cb247f15.webp",
+          "demo": false
+        },
+        {
+          "name": "Fizz",
+          "kind": "characters",
+          "image": "images/6db8976285794cc87245e1dc.webp",
+          "demo": false
+        },
+        {
+          "name": "Galio",
+          "kind": "characters",
+          "image": "images/e0107ffbc1d423e5668a7001.webp",
+          "demo": false
+        },
+        {
+          "name": "Gangplank",
+          "kind": "characters",
+          "image": "images/3e1c6e0bb0d8a54d0af62bf9.webp",
+          "demo": false
+        },
+        {
+          "name": "Garen",
+          "kind": "characters",
+          "image": "images/e8ddcd07fbddb48d2961289d.webp",
+          "demo": false
+        },
+        {
+          "name": "Gnar",
+          "kind": "characters",
+          "image": "images/af13f11dea5683497dc17117.webp",
+          "demo": false
+        },
+        {
+          "name": "Gragas",
+          "kind": "characters",
+          "image": "images/17352a511fcf5643ffa83c66.webp",
+          "demo": false
+        },
+        {
+          "name": "Graves",
+          "kind": "characters",
+          "image": "images/b5b9270ae1727ed7355b5d5a.webp",
+          "demo": false
+        },
+        {
+          "name": "Heimerdinger",
+          "kind": "characters",
+          "image": "images/ef9f684f78857a932b3812f8.webp",
+          "demo": false
+        },
+        {
+          "name": "Ivern",
+          "kind": "characters",
+          "image": "images/d0c004af1ba99b9f292b5804.webp",
+          "demo": false
+        },
+        {
+          "name": "Jarvan IV",
+          "kind": "characters",
+          "image": "images/0db3915934be0d15efe24974.webp",
+          "demo": false
+        },
+        {
+          "name": "Jayce",
+          "kind": "characters",
+          "image": "images/acd7c17e98cbcca84110c71c.webp",
+          "demo": false
+        },
+        {
+          "name": "Jhin",
+          "kind": "characters",
+          "image": "images/91ffeb90c833ea06bfe4cfc5.webp",
+          "demo": false
+        },
+        {
+          "name": "Jinx",
+          "kind": "characters",
+          "image": "images/b6bc4918d789654222fda606.webp",
+          "demo": false
+        },
+        {
+          "name": "Katarina",
+          "kind": "characters",
+          "image": "images/34f7d5ab929f6d5801b5e331.webp",
+          "demo": false
+        },
+        {
+          "name": "Kayle",
+          "kind": "characters",
+          "image": "images/21c23694d510be428b56bb39.webp",
+          "demo": false
+        },
+        {
+          "name": "Kennen",
+          "kind": "characters",
+          "image": "images/fa86e9e9d4dde870d85fdaab.webp",
+          "demo": false
+        },
+        {
+          "name": "Kha'Zix",
+          "kind": "characters",
+          "image": "images/cf8c871e31bc39618aea74ea.webp",
+          "demo": false
+        },
+        {
+          "name": "Kog'Maw",
+          "kind": "characters",
+          "image": "images/12bdcbd074e3251e8bbbf57f.webp",
+          "demo": false
+        },
+        {
+          "name": "Lissandra",
+          "kind": "characters",
+          "image": "images/ee477596be9484f2ac06e83b.webp",
+          "demo": false
+        },
+        {
+          "name": "Lulu",
+          "kind": "characters",
+          "image": "images/97aeae98203e99cf3cacdea0.webp",
+          "demo": false
+        },
+        {
+          "name": "Lux",
+          "kind": "characters",
+          "image": "images/b4eda895315c66e762609fbd.webp",
+          "demo": false
+        },
+        {
+          "name": "Maitre Yi",
+          "kind": "characters",
+          "image": "images/c32014ef920201cdec9614f2.webp",
+          "demo": false
+        },
+        {
+          "name": "Malphite",
+          "kind": "characters",
+          "image": "images/48dd2ef369a59401228beb9e.webp",
+          "demo": false
+        },
+        {
+          "name": "Maokai",
+          "kind": "characters",
+          "image": "images/f48195320f850947e52dda19.webp",
+          "demo": false
+        },
+        {
+          "name": "Miss Fortune",
+          "kind": "characters",
+          "image": "images/0f35c8414f7133547c840dc4.webp",
+          "demo": false
+        },
+        {
+          "name": "Morgana",
+          "kind": "characters",
+          "image": "images/bffd2a44a4960d104dcadae3.webp",
+          "demo": false
+        },
+        {
+          "name": "Naafiri",
+          "kind": "characters",
+          "image": "images/1bb1a3cc196276de71257355.webp",
+          "demo": false
+        },
+        {
+          "name": "Nami",
+          "kind": "characters",
+          "image": "images/6822cebd4b4736ebf99ca61e.webp",
+          "demo": false
+        },
+        {
+          "name": "Nasus",
+          "kind": "characters",
+          "image": "images/1b125fde3a4c4e571f0d6f61.webp",
+          "demo": false
+        },
+        {
+          "name": "Nautilus",
+          "kind": "characters",
+          "image": "images/9a0f6655ce5e1474735e99f4.webp",
+          "demo": false
+        },
+        {
+          "name": "Neeko",
+          "kind": "characters",
+          "image": "images/ed00b2ed3803c6aeb86bb920.webp",
+          "demo": false
+        },
+        {
+          "name": "Rammus",
+          "kind": "characters",
+          "image": "images/3e5b9d6d670fb4128ab8b23f.webp",
+          "demo": false
+        },
+        {
+          "name": "Rek'Sai",
+          "kind": "characters",
+          "image": "images/4b9ffe3143d43aba1d942710.webp",
+          "demo": false
+        },
+        {
+          "name": "Renekton",
+          "kind": "characters",
+          "image": "images/cc09f6f30006fad61beaa3b5.webp",
+          "demo": false
+        },
+        {
+          "name": "Rengar",
+          "kind": "characters",
+          "image": "images/703f4aa829d0736f6e8fe78a.webp",
+          "demo": false
+        },
+        {
+          "name": "Rumble",
+          "kind": "characters",
+          "image": "images/27c46aaf07d459f89f30597a.webp",
+          "demo": false
+        },
+        {
+          "name": "Ryze",
+          "kind": "characters",
+          "image": "images/321d1979bc07c484f37d15d0.webp",
+          "demo": false
+        },
+        {
+          "name": "Sejuani",
+          "kind": "characters",
+          "image": "images/5ba885903fb489b6f8a00ac0.webp",
+          "demo": false
+        },
+        {
+          "name": "Sett",
+          "kind": "characters",
+          "image": "images/42b51d11d543c5a82bc3649b.webp",
+          "demo": false
+        },
+        {
+          "name": "Shaco",
+          "kind": "characters",
+          "image": "images/53d72a904790f680c65c45ae.webp",
+          "demo": false
+        },
+        {
+          "name": "Shen",
+          "kind": "characters",
+          "image": "images/6d435d76751f84af575dbcc9.webp",
+          "demo": false
+        },
+        {
+          "name": "Shyvana",
+          "kind": "characters",
+          "image": "images/fffb78c20468bebb75928e43.webp",
+          "demo": false
+        },
+        {
+          "name": "Smolder",
+          "kind": "characters",
+          "image": "images/07d56df5ba97f25d3fc314fa.webp",
+          "demo": false
+        },
+        {
+          "name": "Sona",
+          "kind": "characters",
+          "image": "images/d5616843b4a738b6489d42d4.webp",
+          "demo": false
+        },
+        {
+          "name": "Soraka",
+          "kind": "characters",
+          "image": "images/482ca72d4b6160add1949ef7.webp",
+          "demo": false
+        },
+        {
+          "name": "Swain",
+          "kind": "characters",
+          "image": "images/22947ba7ee0be1a56e5c3abc.webp",
+          "demo": false
+        },
+        {
+          "name": "Tahm Kench",
+          "kind": "characters",
+          "image": "images/8744a17238b108d630d36f13.webp",
+          "demo": false
+        },
+        {
+          "name": "Talon",
+          "kind": "characters",
+          "image": "images/add73e5d0bb6dc759cbb9763.webp",
+          "demo": false
+        },
+        {
+          "name": "Teemo",
+          "kind": "characters",
+          "image": "images/f7688aaea784a2415c8e884f.webp",
+          "demo": false
+        },
+        {
+          "name": "Thresh",
+          "kind": "characters",
+          "image": "images/ed5d20bec33801301d0fde53.webp",
+          "demo": false
+        },
+        {
+          "name": "Tryndamere",
+          "kind": "characters",
+          "image": "images/ad233bc705f5f6da824faa82.webp",
+          "demo": false
+        },
+        {
+          "name": "Twisted Fate",
+          "kind": "characters",
+          "image": "images/25006b505496913e698de275.webp",
+          "demo": false
+        },
+        {
+          "name": "Twitch",
+          "kind": "characters",
+          "image": "images/ef413b826693491f1abf1928.webp",
+          "demo": false
+        },
+        {
+          "name": "Veigar",
+          "kind": "characters",
+          "image": "images/e25c151814ee70f86d8e1776.webp",
+          "demo": false
+        },
+        {
+          "name": "Vel'Koz",
+          "kind": "characters",
+          "image": "images/9d514a3cbc311d0f469630fb.webp",
+          "demo": false
+        },
+        {
+          "name": "Vi",
+          "kind": "characters",
+          "image": "images/2c4fb17424540fee14f8dd6c.webp",
+          "demo": false
+        },
+        {
+          "name": "Viktor",
+          "kind": "characters",
+          "image": "images/da1f93dafc587ba35e6918e2.webp",
+          "demo": false
+        },
+        {
+          "name": "Warwick",
+          "kind": "characters",
+          "image": "images/7c0eb8d3bcab35084d3d5828.webp",
+          "demo": false
+        },
+        {
+          "name": "Xerath",
+          "kind": "characters",
+          "image": "images/95da45e66a09b49d6c0e6780.webp",
+          "demo": false
+        },
+        {
+          "name": "Yasuo",
+          "kind": "characters",
+          "image": "images/bb2c29bbd600a6aecd7e9c2a.webp",
+          "demo": false
+        },
+        {
+          "name": "Yone",
+          "kind": "characters",
+          "image": "images/5e3a0635a2ebc957eb724d56.webp",
+          "demo": false
+        },
+        {
+          "name": "Yuumi",
+          "kind": "characters",
+          "image": "images/6250e70e0a43b0f6697b7988.webp",
+          "demo": false
+        },
+        {
+          "name": "Zed",
+          "kind": "characters",
+          "image": "images/6a109608c6bfab2e5fd53db1.webp",
+          "demo": false
+        },
+        {
+          "name": "Zoe",
+          "kind": "characters",
+          "image": "images/95da4b62795aa74429d056ee.webp",
+          "demo": false
+        },
+        {
+          "name": "Aquaman",
+          "kind": "undercover_only",
+          "image": "images/c789e1212989a5049f98b1cd.webp",
+          "demo": false
+        },
+        {
+          "name": "Arlong",
+          "kind": "undercover_only",
+          "image": "images/afc3a7a21b8260410954df39.webp",
+          "demo": false
+        },
+        {
+          "name": "Ashe et Tryndamere",
+          "kind": "undercover_only",
+          "image": "images/c71e9e9a4599eb6b10f00350.webp",
+          "demo": false
+        },
+        {
+          "name": "Chupacabra",
+          "kind": "undercover_only",
+          "image": "images/5a1cdf55082b70062c450151.webp",
+          "demo": false
+        },
+        {
+          "name": "Ekko et Jinx",
+          "kind": "undercover_only",
+          "image": "images/9f3e65f8bf4e537d4ffbf712.webp",
+          "demo": false
+        },
+        {
+          "name": "Elder Dragon",
+          "kind": "undercover_only",
+          "image": "images/0ce8ade4160d83fceac39a04.webp",
+          "demo": false
+        },
+        {
+          "name": "Gambit",
+          "kind": "undercover_only",
+          "image": "images/128f0fe9cb09da45144b5370.webp",
+          "demo": false
+        },
+        {
+          "name": "Garen et Darius",
+          "kind": "undercover_only",
+          "image": "images/3661052eb7aec90222cf26d8.webp",
+          "demo": false
+        },
+        {
+          "name": "Garen et Lux",
+          "kind": "undercover_only",
+          "image": "images/44816bbdd43edf9d884a503e.webp",
+          "demo": false
+        },
+        {
+          "name": "Groot",
+          "kind": "undercover_only",
+          "image": "images/50b61300e56d42d39d51410f.webp",
+          "demo": false
+        },
+        {
+          "name": "Gros Buu",
+          "kind": "undercover_only",
+          "image": "images/d2803c92dac99fc9ea8a27f6.webp",
+          "demo": false
+        },
+        {
+          "name": "Guts",
+          "kind": "undercover_only",
+          "image": "images/c1e5ce0202f472d3e5f376a5.webp",
+          "demo": false
+        },
+        {
+          "name": "Harley Quinn",
+          "kind": "undercover_only",
+          "image": "images/ae229d16478cf059381f3817.webp",
+          "demo": false
+        },
+        {
+          "name": "Homer Simpson",
+          "kind": "undercover_only",
+          "image": "images/4b4c17533083dc376e277591.webp",
+          "demo": false
+        },
+        {
+          "name": "Jigsaw",
+          "kind": "undercover_only",
+          "image": "images/6c9f9540cdb1ba5b167466c0.webp",
+          "demo": false
+        },
+        {
+          "name": "Kayle et Morgana",
+          "kind": "undercover_only",
+          "image": "images/b1614a569bceec86aad1ee6c.webp",
+          "demo": false
+        },
+        {
+          "name": "La Reine des Neiges",
+          "kind": "undercover_only",
+          "image": "images/3880308df08d1e1ea5447237.webp",
+          "demo": false
+        },
+        {
+          "name": "Nasus et Renekton",
+          "kind": "undercover_only",
+          "image": "images/e933dc8ec87127b8b075df3a.webp",
+          "demo": false
+        },
+        {
+          "name": "Obelix",
+          "kind": "undercover_only",
+          "image": "images/1fc3de4b060ba0ad544165cd.webp",
+          "demo": false
+        },
+        {
+          "name": "Poseidon",
+          "kind": "undercover_only",
+          "image": "images/6298bb1e61321793704f6fb8.webp",
+          "demo": false
+        },
+        {
+          "name": "Scream",
+          "kind": "undercover_only",
+          "image": "images/2f0c9054c417131ba49dbd17.webp",
+          "demo": false
+        },
+        {
+          "name": "Senna et Lucian",
+          "kind": "undercover_only",
+          "image": "images/ef5aff79c291c6c48fd2d618.webp",
+          "demo": false
+        },
+        {
+          "name": "Stitch",
+          "kind": "undercover_only",
+          "image": "images/9ca02e56fca5e2c74c0a30e9.webp",
+          "demo": false
+        },
+        {
+          "name": "Sylvebarbe",
+          "kind": "undercover_only",
+          "image": "images/334f3aabf4e5e9b81cc18c57.webp",
+          "demo": false
+        },
+        {
+          "name": "The Joker",
+          "kind": "undercover_only",
+          "image": "images/6cb503276e379bfe5553311b.webp",
+          "demo": false
+        },
+        {
+          "name": "Thomas Shelby",
+          "kind": "undercover_only",
+          "image": "images/ae10a10686a23b9101017576.webp",
+          "demo": false
+        },
+        {
+          "name": "Vi et Jinx",
+          "kind": "undercover_only",
+          "image": "images/78275408615d4a7a27767bdd.webp",
+          "demo": false
+        },
+        {
+          "name": "White Walker",
+          "kind": "undercover_only",
+          "image": "images/d3961578095b2636ab300b53.webp",
+          "demo": false
+        },
+        {
+          "name": "Xayah et Rakan",
+          "kind": "undercover_only",
+          "image": "images/edc946f43f97c3ff5895e011.webp",
+          "demo": false
+        },
+        {
+          "name": "Yone et Yasuo",
+          "kind": "undercover_only",
+          "image": "images/40d5af0440734bb58fdbd24c.webp",
+          "demo": false
+        }
+      ],
+      "groups": [
+        {
+          "name": "pack_couples",
+          "members": [
+            "Xayah et Rakan",
+            "Senna et Lucian",
+            "Ashe et Tryndamere",
+            "Ekko et Jinx"
+          ]
+        },
+        {
+          "name": "pack_desert",
+          "members": [
+            "Azir",
+            "Nasus",
+            "Renekton",
+            "Amumu",
+            "Rammus"
+          ]
+        },
+        {
+          "name": "pack_dragon",
+          "members": [
+            "Shyvana",
+            "Smolder",
+            "Aurelion Sol",
+            "Elder Dragon"
+          ]
+        },
+        {
+          "name": "pack_eau",
+          "members": [
+            "Fizz",
+            "Nami",
+            "Arlong",
+            "Aquaman",
+            "Poseidon"
+          ]
+        },
+        {
+          "name": "pack_ennemis",
+          "members": [
+            "Garen et Darius",
+            "Kayle et Morgana"
+          ]
+        },
+        {
+          "name": "pack_fou",
+          "members": [
+            "Jinx",
+            "Shaco",
+            "Jhin",
+            "The Joker",
+            "Harley Quinn",
+            "Jigsaw",
+            "Scream"
+          ]
+        },
+        {
+          "name": "pack_freres",
+          "members": [
+            "Yone et Yasuo",
+            "Garen et Lux",
+            "Vi et Jinx",
+            "Nasus et Renekton",
+            "Kayle et Morgana"
+          ]
+        },
+        {
+          "name": "pack_gambling",
+          "members": [
+            "Twisted Fate",
+            "Graves",
+            "Thomas Shelby",
+            "Gambit"
+          ]
+        },
+        {
+          "name": "pack_glace",
+          "members": [
+            "La Reine des Neiges",
+            "Ashe",
+            "Sejuani",
+            "Anivia",
+            "Lissandra",
+            "White Walker"
+          ]
+        },
+        {
+          "name": "pack_gros_alcoolo",
+          "members": [
+            "Gragas",
+            "Homer Simpson",
+            "Gros Buu",
+            "Tahm Kench"
+          ]
+        },
+        {
+          "name": "pack_plante_arbre",
+          "members": [
+            "Maokai",
+            "Ivern",
+            "Sylvebarbe",
+            "Groot"
+          ]
+        },
+        {
+          "name": "pack_predateur",
+          "members": [
+            "Warwick",
+            "Rengar",
+            "Naafiri",
+            "Chupacabra"
+          ]
+        },
+        {
+          "name": "pack_samurai",
+          "members": [
+            "Yasuo",
+            "Yone",
+            "Maitre Yi",
+            "Shen",
+            "Guts"
+          ]
+        },
+        {
+          "name": "pack_void",
+          "members": [
+            "Cho'Gath",
+            "Kha'Zix",
+            "Rek'Sai",
+            "Kog'Maw",
+            "Vel'Koz"
+          ]
+        },
+        {
+          "name": "pack_yordle_peluche",
+          "members": [
+            "Teemo",
+            "Gnar",
+            "Stitch"
+          ]
+        }
+      ],
+      "demo": false
+    },
+    {
+      "id": "brawl_stars",
+      "name": "Brawl Stars",
+      "color": "#8acbff",
+      "tagline": "Let's Brawl",
+      "cover": "images/da637af7ab19d324e67f0838.webp",
+      "cards": [
+        {
+          "name": "Amber",
+          "kind": "characters",
+          "image": "images/afb328ae7506fa762ca4ceab.webp",
+          "demo": false
+        },
+        {
+          "name": "Ash",
+          "kind": "characters",
+          "image": "images/c5ecdc156d6bb429966ef2a3.webp",
+          "demo": false
+        },
+        {
+          "name": "Bartaba",
+          "kind": "characters",
+          "image": "images/dfeb4792d0182fd5c17dd8f1.webp",
+          "demo": false
+        },
+        {
+          "name": "Billy",
+          "kind": "characters",
+          "image": "images/cc0da90152176f23ad83d7dd.webp",
+          "demo": false
+        },
+        {
+          "name": "Bo",
+          "kind": "characters",
+          "image": "images/4a686fcf7a62c0f7822df39c.webp",
+          "demo": false
+        },
+        {
+          "name": "Brock",
+          "kind": "characters",
+          "image": "images/ce3b63f8854e6558cd924a6b.webp",
+          "demo": false
+        },
+        {
+          "name": "Bull",
+          "kind": "characters",
+          "image": "images/503f9a2a7409aaff4c378103.webp",
+          "demo": false
+        },
+        {
+          "name": "Buzz",
+          "kind": "characters",
+          "image": "images/df4dad66690b4b2ffdb3877b.webp",
+          "demo": false
+        },
+        {
+          "name": "Chester",
+          "kind": "characters",
+          "image": "images/cf5c5c3510ea6d99cd010c34.webp",
+          "demo": false
+        },
+        {
+          "name": "Colt",
+          "kind": "characters",
+          "image": "images/049276f3576836e8b7f70de9.webp",
+          "demo": false
+        },
+        {
+          "name": "Crow",
+          "kind": "characters",
+          "image": "images/f66de02c520070e7925b3e85.webp",
+          "demo": false
+        },
+        {
+          "name": "Darryl",
+          "kind": "characters",
+          "image": "images/1bdee3c29814b7dbcc56fdf5.webp",
+          "demo": false
+        },
+        {
+          "name": "Dynamike",
+          "kind": "characters",
+          "image": "images/7c7cda7069229813e964c8b8.webp",
+          "demo": false
+        },
+        {
+          "name": "Edgar",
+          "kind": "characters",
+          "image": "images/f66d9e683896353ce027d0c3.webp",
+          "demo": false
+        },
+        {
+          "name": "El Primo",
+          "kind": "characters",
+          "image": "images/fa5af5f794484c28ddcdeb61.webp",
+          "demo": false
+        },
+        {
+          "name": "Eliz",
+          "kind": "characters",
+          "image": "images/905148a518dbe8c304aba403.webp",
+          "demo": false
+        },
+        {
+          "name": "Frank",
+          "kind": "characters",
+          "image": "images/5675b1319bb61fd3caa26afb.webp",
+          "demo": false
+        },
+        {
+          "name": "Gale",
+          "kind": "characters",
+          "image": "images/572ebaba57b2459af3e45ff3.webp",
+          "demo": false
+        },
+        {
+          "name": "Jacky",
+          "kind": "characters",
+          "image": "images/6fef9c01260990cc5ff812b9.webp",
+          "demo": false
+        },
+        {
+          "name": "Jessie",
+          "kind": "characters",
+          "image": "images/9dc817df4569203620efd04c.webp",
+          "demo": false
+        },
+        {
+          "name": "Kaze",
+          "kind": "characters",
+          "image": "images/948f12440577c4eb701d6583.webp",
+          "demo": false
+        },
+        {
+          "name": "Kenji",
+          "kind": "characters",
+          "image": "images/6c2a2368d51b6e3ec03362ab.webp",
+          "demo": false
+        },
+        {
+          "name": "Kit",
+          "kind": "characters",
+          "image": "images/f5ffea0da9c02961443c0473.webp",
+          "demo": false
+        },
+        {
+          "name": "Leon",
+          "kind": "characters",
+          "image": "images/d9d4e09a96298fb0260ced16.webp",
+          "demo": false
+        },
+        {
+          "name": "Lou",
+          "kind": "characters",
+          "image": "images/1f09a84eed31babd3c715e17.webp",
+          "demo": false
+        },
+        {
+          "name": "Mandy",
+          "kind": "characters",
+          "image": "images/02cff99d42444809134bb5d4.webp",
+          "demo": false
+        },
+        {
+          "name": "Mortis",
+          "kind": "characters",
+          "image": "images/6f6be5af234a5465fec997b4.webp",
+          "demo": false
+        },
+        {
+          "name": "Nita",
+          "kind": "characters",
+          "image": "images/13a349e5857bf2a5bc9b6789.webp",
+          "demo": false
+        },
+        {
+          "name": "Otis",
+          "kind": "characters",
+          "image": "images/1b5dfc6610be19e69a8fd3e5.webp",
+          "demo": false
+        },
+        {
+          "name": "Poco",
+          "kind": "characters",
+          "image": "images/605e097aed60e52daff96c86.webp",
+          "demo": false
+        },
+        {
+          "name": "Polly",
+          "kind": "characters",
+          "image": "images/f517c44d95d55e1db7e7bd6b.webp",
+          "demo": false
+        },
+        {
+          "name": "Ricochet",
+          "kind": "characters",
+          "image": "images/1be8a665a101bed10dde2807.webp",
+          "demo": false
+        },
+        {
+          "name": "Spike",
+          "kind": "characters",
+          "image": "images/ca0d2297ac4217bad7316f3d.webp",
+          "demo": false
+        },
+        {
+          "name": "Squeak",
+          "kind": "characters",
+          "image": "images/12bff5556b328d5bb99a7caf.webp",
+          "demo": false
+        },
+        {
+          "name": "Surge",
+          "kind": "characters",
+          "image": "images/8d45725402ea2fd0f25b7918.webp",
+          "demo": false
+        },
+        {
+          "name": "Tara",
+          "kind": "characters",
+          "image": "images/cad7ba430628e334e5219f92.webp",
+          "demo": false
+        },
+        {
+          "name": "Tick",
+          "kind": "characters",
+          "image": "images/b5846655379e16a038ec2633.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Chaman",
+          "kind": "undercover_only",
+          "image": "images/f1fdc730dd11538955d7f3cd.webp",
+          "demo": false
+        },
+        {
+          "name": "Une bombe",
+          "kind": "undercover_only",
+          "image": "images/37abe7a70f50da07af0bd459.webp",
+          "demo": false
+        }
+      ],
+      "groups": [
+        {
+          "name": "pack_bombe",
+          "members": [
+            "Dynamike",
+            "Tick",
+            "Une bombe"
+          ]
+        },
+        {
+          "name": "pack_tribe",
+          "members": [
+            "Bo",
+            "Leon",
+            "Nita"
+          ]
+        }
+      ],
+      "demo": false
+    },
+    {
+      "id": "harry_potter",
+      "name": "Harry Potter",
+      "color": "#8acbff",
+      "tagline": "Wingardium Leviosa!",
+      "cover": "images/db1f73c8157d7b08aebfce88.webp",
+      "cards": [
+        {
+          "name": "Albus Dumbledore",
+          "kind": "characters",
+          "image": "images/07677ef42d18fdb691be16df.webp",
+          "demo": false
+        },
+        {
+          "name": "Arthur Weasley",
+          "kind": "characters",
+          "image": "images/481911c82a74a2df630985ad.webp",
+          "demo": false
+        },
+        {
+          "name": "Crabbe",
+          "kind": "characters",
+          "image": "images/13aaf47c8c96424e391682d3.webp",
+          "demo": false
+        },
+        {
+          "name": "Fred",
+          "kind": "characters",
+          "image": "images/e81355fe506cef89352bb0d8.webp",
+          "demo": false
+        },
+        {
+          "name": "George",
+          "kind": "characters",
+          "image": "images/3b9f9a20c7609cfb40dedd68.webp",
+          "demo": false
+        },
+        {
+          "name": "Ginny",
+          "kind": "characters",
+          "image": "images/c04b66e0f788962371881a69.webp",
+          "demo": false
+        },
+        {
+          "name": "Goyle",
+          "kind": "characters",
+          "image": "images/80c4fc660903526a3ea8fdcc.webp",
+          "demo": false
+        },
+        {
+          "name": "Hagrid",
+          "kind": "characters",
+          "image": "images/5ebfdb8e4dd2f5315f73a775.webp",
+          "demo": false
+        },
+        {
+          "name": "Harry Potter",
+          "kind": "characters",
+          "image": "images/fb1db323415744cef978bdaa.webp",
+          "demo": false
+        },
+        {
+          "name": "Harry Potter Enfant",
+          "kind": "characters",
+          "image": "images/82cf269e8e9db895e9b70aa4.webp",
+          "demo": false
+        },
+        {
+          "name": "Hermione Granger",
+          "kind": "characters",
+          "image": "images/bbd42bd150ba2f91c03bbbbf.webp",
+          "demo": false
+        },
+        {
+          "name": "Hermione Granger Enfant",
+          "kind": "characters",
+          "image": "images/91032a0e3dd1f90cce6ec7b0.webp",
+          "demo": false
+        },
+        {
+          "name": "Lucius Malfoy",
+          "kind": "characters",
+          "image": "images/7ea919360ecce0bff4cae00e.webp",
+          "demo": false
+        },
+        {
+          "name": "Luna",
+          "kind": "characters",
+          "image": "images/5beab3960db888dc38e4d4e2.webp",
+          "demo": false
+        },
+        {
+          "name": "Malfoy",
+          "kind": "characters",
+          "image": "images/7621744d0ea12488c51365be.webp",
+          "demo": false
+        },
+        {
+          "name": "Malfoy Enfant",
+          "kind": "characters",
+          "image": "images/957fe5cf1daa426da0417e8b.webp",
+          "demo": false
+        },
+        {
+          "name": "Minerva McGonagall",
+          "kind": "characters",
+          "image": "images/2e5063f18f61585bde06aa09.webp",
+          "demo": false
+        },
+        {
+          "name": "Molly Weasley",
+          "kind": "characters",
+          "image": "images/242158004e17501dfe04a82d.webp",
+          "demo": false
+        },
+        {
+          "name": "Neville",
+          "kind": "characters",
+          "image": "images/af4b3be7dbd50c1655be6d4b.webp",
+          "demo": false
+        },
+        {
+          "name": "Ron Weasley",
+          "kind": "characters",
+          "image": "images/2948a365a060cd9e3e61461b.webp",
+          "demo": false
+        },
+        {
+          "name": "Ron Weasley Enfant",
+          "kind": "characters",
+          "image": "images/35706afdb5890f536ae176f6.webp",
+          "demo": false
+        },
+        {
+          "name": "Severus Snape",
+          "kind": "characters",
+          "image": "images/c2db860a1a8ed8d2dba8dc85.webp",
+          "demo": false
+        },
+        {
+          "name": "Sirius Black",
+          "kind": "characters",
+          "image": "images/d061ad0ae0b2106e6c231345.webp",
+          "demo": false
+        },
+        {
+          "name": "Sybill Trelawney",
+          "kind": "characters",
+          "image": "images/e94b8a12d9cb6aef09d9d512.webp",
+          "demo": false
+        },
+        {
+          "name": "Voldemort",
+          "kind": "characters",
+          "image": "images/1f9ac89332f498a00459a94c.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Chaman",
+          "kind": "undercover_only",
+          "image": "images/f1fdc730dd11538955d7f3cd.webp",
+          "demo": false
+        },
+        {
+          "name": "Une bombe",
+          "kind": "undercover_only",
+          "image": "images/37abe7a70f50da07af0bd459.webp",
+          "demo": false
+        }
+      ],
+      "groups": [],
+      "demo": false
+    },
+    {
+      "id": "wakfu",
+      "name": "Wakfu",
+      "color": "#8acbff",
+      "tagline": "Colère du IOP!",
+      "cover": "images/d66f157bf5d4f5c8284ebc4c.webp",
+      "cards": [
+        {
+          "name": "Abraknyde",
+          "kind": "characters",
+          "image": "images/43da8a22ad30a9125ceb6a9f.webp",
+          "demo": false
+        },
+        {
+          "name": "Bouftou",
+          "kind": "characters",
+          "image": "images/67d490313bf7e91481fcfede.webp",
+          "demo": false
+        },
+        {
+          "name": "Bouftou Royal",
+          "kind": "characters",
+          "image": "images/95cf5aebbd2b9d6f75d4993f.webp",
+          "demo": false
+        },
+        {
+          "name": "Chacha",
+          "kind": "characters",
+          "image": "images/886cc701958ad7dae52aae06.webp",
+          "demo": false
+        },
+        {
+          "name": "Chef de Guerre Bouftou",
+          "kind": "characters",
+          "image": "images/4e01ffb0eabcdb60a98ce7c3.webp",
+          "demo": false
+        },
+        {
+          "name": "Cra",
+          "kind": "characters",
+          "image": "images/807f76b602bc12c5f9e2a185.webp",
+          "demo": false
+        },
+        {
+          "name": "Ecaflip",
+          "kind": "characters",
+          "image": "images/34ad257a0b015591f21df72e.webp",
+          "demo": false
+        },
+        {
+          "name": "Eliotrope",
+          "kind": "characters",
+          "image": "images/e38f1807e6cf0e9624fa23e7.webp",
+          "demo": false
+        },
+        {
+          "name": "Eniripsa",
+          "kind": "characters",
+          "image": "images/9e7cbc3e12c64ebd77a142f5.webp",
+          "demo": false
+        },
+        {
+          "name": "Enutrof",
+          "kind": "characters",
+          "image": "images/2c6ff1f66f76045cdf5881a1.webp",
+          "demo": false
+        },
+        {
+          "name": "Feca",
+          "kind": "characters",
+          "image": "images/fce9261d3900c4ee0f267507.webp",
+          "demo": false
+        },
+        {
+          "name": "Huppermage",
+          "kind": "characters",
+          "image": "images/c82e94e14a52f8bee5a8cc4c.webp",
+          "demo": false
+        },
+        {
+          "name": "Iop",
+          "kind": "characters",
+          "image": "images/8c30a944407850a60b0b9399.webp",
+          "demo": false
+        },
+        {
+          "name": "Moogr",
+          "kind": "characters",
+          "image": "images/5e8f54f06be036283c3665d2.webp",
+          "demo": false
+        },
+        {
+          "name": "Osamodas",
+          "kind": "characters",
+          "image": "images/84c192e683b3adea976c7e40.webp",
+          "demo": false
+        },
+        {
+          "name": "Ouginak",
+          "kind": "characters",
+          "image": "images/090394f366ac616e04fb5cd5.webp",
+          "demo": false
+        },
+        {
+          "name": "Pandawa",
+          "kind": "characters",
+          "image": "images/548e730bb1a55d786245b110.webp",
+          "demo": false
+        },
+        {
+          "name": "Roublard",
+          "kind": "characters",
+          "image": "images/6d0b82641e9530b6db82c740.webp",
+          "demo": false
+        },
+        {
+          "name": "Sacrieur",
+          "kind": "characters",
+          "image": "images/b9f61250664bdabce9f425ef.webp",
+          "demo": false
+        },
+        {
+          "name": "Sadida",
+          "kind": "characters",
+          "image": "images/cca350567849af55b06e0652.webp",
+          "demo": false
+        },
+        {
+          "name": "Sram",
+          "kind": "characters",
+          "image": "images/9e267a425d30cf54f6c429ba.webp",
+          "demo": false
+        },
+        {
+          "name": "Steamer",
+          "kind": "characters",
+          "image": "images/f914d94644c0e58bfdf5a452.webp",
+          "demo": false
+        },
+        {
+          "name": "Tofu",
+          "kind": "characters",
+          "image": "images/dd984b6b09600acd24621e9e.webp",
+          "demo": false
+        },
+        {
+          "name": "Tofu Royal",
+          "kind": "characters",
+          "image": "images/32b57e6179ac92d31a061e00.webp",
+          "demo": false
+        },
+        {
+          "name": "Wapin",
+          "kind": "characters",
+          "image": "images/cb646e7e3797f2fd419757aa.webp",
+          "demo": false
+        },
+        {
+          "name": "Xelor",
+          "kind": "characters",
+          "image": "images/d57a0b8d110ed2724ce14768.webp",
+          "demo": false
+        },
+        {
+          "name": "Zobal",
+          "kind": "characters",
+          "image": "images/443520cfe8167678774a4753.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Chaman",
+          "kind": "undercover_only",
+          "image": "images/f1fdc730dd11538955d7f3cd.webp",
+          "demo": false
+        },
+        {
+          "name": "Une bombe",
+          "kind": "undercover_only",
+          "image": "images/37abe7a70f50da07af0bd459.webp",
+          "demo": false
+        }
+      ],
+      "groups": [],
+      "demo": false
+    },
+    {
+      "id": "animaux",
+      "name": "Animaux",
+      "color": "#8acbff",
+      "tagline": "C'est le zoo ici",
+      "cover": "images/2eff3e3889d79a080290fb42.webp",
+      "cards": [
+        {
+          "name": "Aedes Albopictus",
+          "kind": "characters",
+          "image": "images/86909e6040adba0baf68139e.webp",
+          "demo": false
+        },
+        {
+          "name": "Chien Hulk",
+          "kind": "characters",
+          "image": "images/fab72a10eb5fdf2c3b028e93.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Aigle",
+          "kind": "characters",
+          "image": "images/9977f0cfbb7a6f63b9a15816.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Alligator",
+          "kind": "characters",
+          "image": "images/db59ff7db31cb8b3c1d4339b.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Alpaca",
+          "kind": "characters",
+          "image": "images/1cf640cb86aa260dc25bef04.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Beluga",
+          "kind": "characters",
+          "image": "images/02ac31c98cf607c5ec625626.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Bison",
+          "kind": "characters",
+          "image": "images/865af2bacfb4517798e463ea.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Buffle",
+          "kind": "characters",
+          "image": "images/d82866605181011a1fbaaa14.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Cafard",
+          "kind": "characters",
+          "image": "images/975c87135f5f2d64c6ae8613.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Capybara",
+          "kind": "characters",
+          "image": "images/995dae963edef81f40bcd946.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Chat",
+          "kind": "characters",
+          "image": "images/bcfc152fe3efc4ab9d5b23c3.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Cheval",
+          "kind": "characters",
+          "image": "images/3963d2038917ae1332bfe91a.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Chihuahua",
+          "kind": "characters",
+          "image": "images/04264a13edd02a02155e6681.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Cloporte",
+          "kind": "characters",
+          "image": "images/2bba8a3858ae3f569aad06d9.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Cobra",
+          "kind": "characters",
+          "image": "images/15eecfc8775bb2a967a29196.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Crabe",
+          "kind": "characters",
+          "image": "images/e490fba9002344cfc0ecc3d6.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Crabe de Cocotier",
+          "kind": "characters",
+          "image": "images/4e8500cfff576a33f368c8fa.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Crapaud",
+          "kind": "characters",
+          "image": "images/37edefd05f7644490ee57fab.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Dauphin",
+          "kind": "characters",
+          "image": "images/1f8d3aa1d7a418fee0cfbd1b.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Ecureuil",
+          "kind": "characters",
+          "image": "images/018c6f8585107ec132fe8982.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Elephant",
+          "kind": "characters",
+          "image": "images/fdce91eafaa368d06703f220.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Flamand Rose",
+          "kind": "characters",
+          "image": "images/26f8e062c2c978a29f099601.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Frelon",
+          "kind": "characters",
+          "image": "images/80f821c9e4407119676c4090.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Gorille",
+          "kind": "characters",
+          "image": "images/9c4bda70f4e926256b692a3e.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Guepard",
+          "kind": "characters",
+          "image": "images/47e49466c406f2fe174612c8.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Hippopotame",
+          "kind": "characters",
+          "image": "images/aa1797bbfa116ea31c93a976.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Homard",
+          "kind": "characters",
+          "image": "images/65f636752b526e602d9787fc.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Humain",
+          "kind": "characters",
+          "image": "images/dd4db15a4e407123699f5be9.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Leopard",
+          "kind": "characters",
+          "image": "images/aa18551d745724bc58c2611c.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Lezard",
+          "kind": "characters",
+          "image": "images/8ce5d68c7e786cedd1b19960.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Lezard Geant",
+          "kind": "characters",
+          "image": "images/780b824f5308cddc2cee7edd.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Lion",
+          "kind": "characters",
+          "image": "images/624c378f13d1f21c7a898735.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Loup",
+          "kind": "characters",
+          "image": "images/f940414ce180e68abf8c47e9.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Macaque",
+          "kind": "characters",
+          "image": "images/a3383ad142755622ecf1da03.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Mamba Noir",
+          "kind": "characters",
+          "image": "images/6bff68c2ac2a1404405fbee8.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Mandrill",
+          "kind": "characters",
+          "image": "images/9bb67afd2e2c0c99c9184d4d.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Mouton",
+          "kind": "characters",
+          "image": "images/26c76409c7787c36b6b0be47.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Ours Blanc",
+          "kind": "characters",
+          "image": "images/46cde56ae9c0154cb210443d.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Ours Brun",
+          "kind": "characters",
+          "image": "images/9984a0a58d2b9190a529db22.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Ours Noir",
+          "kind": "characters",
+          "image": "images/a682a5d973170dae1cd38994.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Panda",
+          "kind": "characters",
+          "image": "images/6398a080f113e74c215cfab9.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Papillon",
+          "kind": "characters",
+          "image": "images/3815b60e2477658b53e8cda8.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Pelican",
+          "kind": "characters",
+          "image": "images/d85e40f27efcf0ff95c0eeb6.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Pittbull",
+          "kind": "characters",
+          "image": "images/d537489b34ebb354cbaf50d9.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Plancton",
+          "kind": "characters",
+          "image": "images/ef5b06544f7a40fcb035a7dd.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Poisson",
+          "kind": "characters",
+          "image": "images/a14103fb85bac0bde8919a2f.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Poulet",
+          "kind": "characters",
+          "image": "images/fc9d2ef5c4122a68e37c164c.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Requin Baleine",
+          "kind": "characters",
+          "image": "images/8c6ea025d302a9fda9fae73e.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Requin Blanc",
+          "kind": "characters",
+          "image": "images/966c37d16b52f978c11d6ad1.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Rhinoceros",
+          "kind": "characters",
+          "image": "images/a032f6eacc1216f950001fea.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Rottweiler",
+          "kind": "characters",
+          "image": "images/cdc68417dbda2285cb8152e4.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Scorpion",
+          "kind": "characters",
+          "image": "images/414fdf73424bb751adc93fbc.webp",
+          "demo": false
+        },
+        {
+          "name": "Un T-Rex",
+          "kind": "characters",
+          "image": "images/00cf6a5bceda94089aabe5df.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Tapir",
+          "kind": "characters",
+          "image": "images/cf3b440b1dfab9379c2bd2fd.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Taureau",
+          "kind": "characters",
+          "image": "images/eeb8a86b9f4ec7f876a52e25.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Tigre",
+          "kind": "characters",
+          "image": "images/c89db3b081b059486658400d.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Titanoboa",
+          "kind": "characters",
+          "image": "images/1144f9586535ecdf1f16b913.webp",
+          "demo": false
+        },
+        {
+          "name": "Une Abeille",
+          "kind": "characters",
+          "image": "images/128ad7762d3fb23ce09ee8c4.webp",
+          "demo": false
+        },
+        {
+          "name": "Une Anguille",
+          "kind": "characters",
+          "image": "images/ac98ecdc0c2f68fb0aa7ded4.webp",
+          "demo": false
+        },
+        {
+          "name": "Une Araignee Degueulasse",
+          "kind": "characters",
+          "image": "images/a40766aa19106e6bc695096a.webp",
+          "demo": false
+        },
+        {
+          "name": "Une Baleine",
+          "kind": "characters",
+          "image": "images/6e94377a6d506955a2886d6f.webp",
+          "demo": false
+        },
+        {
+          "name": "Une Box Meduse",
+          "kind": "characters",
+          "image": "images/11d46139d687ee331561263c.webp",
+          "demo": false
+        },
+        {
+          "name": "Une Bullet Ant",
+          "kind": "characters",
+          "image": "images/c73ba5289c10462d50eb54fd.webp",
+          "demo": false
+        },
+        {
+          "name": "Une Chevre",
+          "kind": "characters",
+          "image": "images/f1e802a115391aa04c23c2e5.webp",
+          "demo": false
+        },
+        {
+          "name": "Une Fouine",
+          "kind": "characters",
+          "image": "images/f89835f6c5cfbacf26dab8a9.webp",
+          "demo": false
+        },
+        {
+          "name": "Une Fourmi",
+          "kind": "characters",
+          "image": "images/e61b732cf99979c84eeb848d.webp",
+          "demo": false
+        },
+        {
+          "name": "Une Gazelle",
+          "kind": "characters",
+          "image": "images/2839f4baa3d92b12beed1bf4.webp",
+          "demo": false
+        },
+        {
+          "name": "Une Loutre",
+          "kind": "characters",
+          "image": "images/f1a773ae66ea7cd06cd65412.webp",
+          "demo": false
+        },
+        {
+          "name": "Une Mygale",
+          "kind": "characters",
+          "image": "images/c37978418a8963e35e4eedc7.webp",
+          "demo": false
+        },
+        {
+          "name": "Une Panthere",
+          "kind": "characters",
+          "image": "images/fca6c114698b15d607174b62.webp",
+          "demo": false
+        },
+        {
+          "name": "Une Punaise",
+          "kind": "characters",
+          "image": "images/4766519fddb9fc0b33f98709.webp",
+          "demo": false
+        },
+        {
+          "name": "Une Tarantule",
+          "kind": "characters",
+          "image": "images/25c7246a7a197882780cc201.webp",
+          "demo": false
+        },
+        {
+          "name": "Une Tortue",
+          "kind": "characters",
+          "image": "images/aad3ea678e245ef857e36d33.webp",
+          "demo": false
+        },
+        {
+          "name": "Une Vache",
+          "kind": "characters",
+          "image": "images/0ae853c7b6409377920b0290.webp",
+          "demo": false
+        },
+        {
+          "name": "Une Vipere",
+          "kind": "characters",
+          "image": "images/233de1dae3c9c9fc74568774.webp",
+          "demo": false
+        },
+        {
+          "name": "Un Chaman",
+          "kind": "undercover_only",
+          "image": "images/f1fdc730dd11538955d7f3cd.webp",
+          "demo": false
+        },
+        {
+          "name": "Une bombe",
+          "kind": "undercover_only",
+          "image": "images/37abe7a70f50da07af0bd459.webp",
+          "demo": false
+        }
+      ],
+      "groups": [],
+      "demo": false
+    }
+  ],
+  "games": [
+    {
+      "id": "auction",
+      "name": "Enchères",
+      "description": "Montez l’équipe ultime. Faites monter les prix.",
+      "symbol": "↗",
+      "cover": "images/e8b8f486c8cd18d30c95a6ff.webp"
+    },
+    {
+      "id": "undercover",
+      "name": "Undercover",
+      "description": "Un mot de trop peut vous trahir.",
+      "symbol": "◈",
+      "cover": "images/71d7ee84c8c78d0c84f474a7.webp"
+    },
+    {
+      "id": "top10",
+      "name": "Top 10 à l’aveugle",
+      "description": "Dix places. Aucun retour en arrière.",
+      "symbol": "≡",
+      "cover": "images/87c0aad811457d0525727e39.webp"
+    }
+  ],
+  "lolDuel": {
+    "pools": {
+      "Champion": [
+        {
+          "name": "Aatrox",
+          "image": "images/22af51e4f9c08a594b6a6180.webp"
+        },
+        {
+          "name": "Ahri",
+          "image": "images/3f2f39ffac819dd2d670e14b.webp"
+        },
+        {
+          "name": "Akali",
+          "image": "images/b6067ef2bbea200f256b990f.webp"
+        },
+        {
+          "name": "Alistar",
+          "image": "images/2c7270be7960f3cfff79920f.webp"
+        },
+        {
+          "name": "Amumu",
+          "image": "images/c09be8136ade60666c1551e4.webp"
+        },
+        {
+          "name": "Anivia",
+          "image": "images/5bbdbba5c7bd8746b7c59f06.webp"
+        },
+        {
+          "name": "Ashe",
+          "image": "images/ef1ddf6d5b0dee0f342159a0.webp"
+        },
+        {
+          "name": "Aurelion Sol",
+          "image": "images/dc57dfb02f9bbc72b3e5e08d.webp"
+        },
+        {
+          "name": "Azir",
+          "image": "images/f8045d18dd3383e50e36202f.webp"
+        },
+        {
+          "name": "Brand",
+          "image": "images/99df15b071cc82b45cb09571.webp"
+        },
+        {
+          "name": "Caitlyn",
+          "image": "images/91848b4ef323dcc2fefaa264.webp"
+        },
+        {
+          "name": "Cho'Gath",
+          "image": "images/df2d6da905d8133bc36c8907.webp"
+        },
+        {
+          "name": "Darius",
+          "image": "images/b3366ad843f263f279822c24.webp"
+        },
+        {
+          "name": "Ekko",
+          "image": "images/8edba154ccef410e1316ea4e.webp"
+        },
+        {
+          "name": "Evelynn",
+          "image": "images/e8a8ec66d5ce0b8e047d92bf.webp"
+        },
+        {
+          "name": "Ezreal",
+          "image": "images/7dfc4854e0a10561370deab8.webp"
+        },
+        {
+          "name": "Fiddlesticks",
+          "image": "images/f66a2dc9f35e16b1cb247f15.webp"
+        },
+        {
+          "name": "Fizz",
+          "image": "images/6db8976285794cc87245e1dc.webp"
+        },
+        {
+          "name": "Galio",
+          "image": "images/e0107ffbc1d423e5668a7001.webp"
+        },
+        {
+          "name": "Gangplank",
+          "image": "images/3e1c6e0bb0d8a54d0af62bf9.webp"
+        },
+        {
+          "name": "Garen",
+          "image": "images/e8ddcd07fbddb48d2961289d.webp"
+        },
+        {
+          "name": "Gnar",
+          "image": "images/af13f11dea5683497dc17117.webp"
+        },
+        {
+          "name": "Gragas",
+          "image": "images/17352a511fcf5643ffa83c66.webp"
+        },
+        {
+          "name": "Graves",
+          "image": "images/b5b9270ae1727ed7355b5d5a.webp"
+        },
+        {
+          "name": "Heimerdinger",
+          "image": "images/ef9f684f78857a932b3812f8.webp"
+        },
+        {
+          "name": "Ivern",
+          "image": "images/d0c004af1ba99b9f292b5804.webp"
+        },
+        {
+          "name": "Jarvan IV",
+          "image": "images/0db3915934be0d15efe24974.webp"
+        },
+        {
+          "name": "Jayce",
+          "image": "images/acd7c17e98cbcca84110c71c.webp"
+        },
+        {
+          "name": "Jhin",
+          "image": "images/91ffeb90c833ea06bfe4cfc5.webp"
+        },
+        {
+          "name": "Jinx",
+          "image": "images/b6bc4918d789654222fda606.webp"
+        },
+        {
+          "name": "Katarina",
+          "image": "images/34f7d5ab929f6d5801b5e331.webp"
+        },
+        {
+          "name": "Kayle",
+          "image": "images/21c23694d510be428b56bb39.webp"
+        },
+        {
+          "name": "Kennen",
+          "image": "images/fa86e9e9d4dde870d85fdaab.webp"
+        },
+        {
+          "name": "Kha'Zix",
+          "image": "images/cf8c871e31bc39618aea74ea.webp"
+        },
+        {
+          "name": "Kog'Maw",
+          "image": "images/12bdcbd074e3251e8bbbf57f.webp"
+        },
+        {
+          "name": "Lissandra",
+          "image": "images/ee477596be9484f2ac06e83b.webp"
+        },
+        {
+          "name": "Lulu",
+          "image": "images/97aeae98203e99cf3cacdea0.webp"
+        },
+        {
+          "name": "Lux",
+          "image": "images/b4eda895315c66e762609fbd.webp"
+        },
+        {
+          "name": "Maitre Yi",
+          "image": "images/c32014ef920201cdec9614f2.webp"
+        },
+        {
+          "name": "Malphite",
+          "image": "images/48dd2ef369a59401228beb9e.webp"
+        },
+        {
+          "name": "Maokai",
+          "image": "images/f48195320f850947e52dda19.webp"
+        },
+        {
+          "name": "Miss Fortune",
+          "image": "images/0f35c8414f7133547c840dc4.webp"
+        },
+        {
+          "name": "Morgana",
+          "image": "images/bffd2a44a4960d104dcadae3.webp"
+        },
+        {
+          "name": "Naafiri",
+          "image": "images/1bb1a3cc196276de71257355.webp"
+        },
+        {
+          "name": "Nami",
+          "image": "images/6822cebd4b4736ebf99ca61e.webp"
+        },
+        {
+          "name": "Nasus",
+          "image": "images/1b125fde3a4c4e571f0d6f61.webp"
+        },
+        {
+          "name": "Nautilus",
+          "image": "images/9a0f6655ce5e1474735e99f4.webp"
+        },
+        {
+          "name": "Neeko",
+          "image": "images/ed00b2ed3803c6aeb86bb920.webp"
+        },
+        {
+          "name": "Rammus",
+          "image": "images/3e5b9d6d670fb4128ab8b23f.webp"
+        },
+        {
+          "name": "Rek'Sai",
+          "image": "images/4b9ffe3143d43aba1d942710.webp"
+        },
+        {
+          "name": "Renekton",
+          "image": "images/cc09f6f30006fad61beaa3b5.webp"
+        },
+        {
+          "name": "Rengar",
+          "image": "images/703f4aa829d0736f6e8fe78a.webp"
+        },
+        {
+          "name": "Rumble",
+          "image": "images/27c46aaf07d459f89f30597a.webp"
+        },
+        {
+          "name": "Ryze",
+          "image": "images/321d1979bc07c484f37d15d0.webp"
+        },
+        {
+          "name": "Sejuani",
+          "image": "images/5ba885903fb489b6f8a00ac0.webp"
+        },
+        {
+          "name": "Sett",
+          "image": "images/42b51d11d543c5a82bc3649b.webp"
+        },
+        {
+          "name": "Shaco",
+          "image": "images/53d72a904790f680c65c45ae.webp"
+        },
+        {
+          "name": "Shen",
+          "image": "images/6d435d76751f84af575dbcc9.webp"
+        },
+        {
+          "name": "Shyvana",
+          "image": "images/fffb78c20468bebb75928e43.webp"
+        },
+        {
+          "name": "Smolder",
+          "image": "images/07d56df5ba97f25d3fc314fa.webp"
+        },
+        {
+          "name": "Sona",
+          "image": "images/d5616843b4a738b6489d42d4.webp"
+        },
+        {
+          "name": "Soraka",
+          "image": "images/482ca72d4b6160add1949ef7.webp"
+        },
+        {
+          "name": "Swain",
+          "image": "images/22947ba7ee0be1a56e5c3abc.webp"
+        },
+        {
+          "name": "Tahm Kench",
+          "image": "images/8744a17238b108d630d36f13.webp"
+        },
+        {
+          "name": "Talon",
+          "image": "images/add73e5d0bb6dc759cbb9763.webp"
+        },
+        {
+          "name": "Teemo",
+          "image": "images/f7688aaea784a2415c8e884f.webp"
+        },
+        {
+          "name": "Thresh",
+          "image": "images/ed5d20bec33801301d0fde53.webp"
+        },
+        {
+          "name": "Tryndamere",
+          "image": "images/ad233bc705f5f6da824faa82.webp"
+        },
+        {
+          "name": "Twisted Fate",
+          "image": "images/25006b505496913e698de275.webp"
+        },
+        {
+          "name": "Twitch",
+          "image": "images/ef413b826693491f1abf1928.webp"
+        },
+        {
+          "name": "Veigar",
+          "image": "images/e25c151814ee70f86d8e1776.webp"
+        },
+        {
+          "name": "Vel'Koz",
+          "image": "images/9d514a3cbc311d0f469630fb.webp"
+        },
+        {
+          "name": "Vi",
+          "image": "images/2c4fb17424540fee14f8dd6c.webp"
+        },
+        {
+          "name": "Viktor",
+          "image": "images/da1f93dafc587ba35e6918e2.webp"
+        },
+        {
+          "name": "Warwick",
+          "image": "images/7c0eb8d3bcab35084d3d5828.webp"
+        },
+        {
+          "name": "Xerath",
+          "image": "images/95da45e66a09b49d6c0e6780.webp"
+        },
+        {
+          "name": "Yasuo",
+          "image": "images/bb2c29bbd600a6aecd7e9c2a.webp"
+        },
+        {
+          "name": "Yone",
+          "image": "images/5e3a0635a2ebc957eb724d56.webp"
+        },
+        {
+          "name": "Yuumi",
+          "image": "images/6250e70e0a43b0f6697b7988.webp"
+        },
+        {
+          "name": "Zed",
+          "image": "images/6a109608c6bfab2e5fd53db1.webp"
+        },
+        {
+          "name": "Zoe",
+          "image": "images/95da4b62795aa74429d056ee.webp"
+        }
+      ],
+      "Q_Spell": [
+        {
+          "name": "Aatrox Q",
+          "image": "images/fc6f300c25cb0e6e2ed37f48.webp"
+        },
+        {
+          "name": "Ahri Q",
+          "image": "images/8db5746dfba66f0fd5ae29ac.webp"
+        },
+        {
+          "name": "Akali Q",
+          "image": "images/2938ab969f9028d448d6e87a.webp"
+        },
+        {
+          "name": "Akshan Q",
+          "image": "images/15f5269cbeff974abcfc1102.webp"
+        },
+        {
+          "name": "Ambessa Q",
+          "image": "images/724bd0615e4b5f61ac108147.webp"
+        },
+        {
+          "name": "Annie Q",
+          "image": "images/6c9bb270c603af7ac9a3392b.webp"
+        },
+        {
+          "name": "Ashe Q",
+          "image": "images/f447b266bb2ac7bb0608d204.webp"
+        },
+        {
+          "name": "AurelionSol Q",
+          "image": "images/11beb9da3473f359cf6c3553.webp"
+        },
+        {
+          "name": "Aurora Q",
+          "image": "images/d6dd05c002168c3ef042b368.webp"
+        },
+        {
+          "name": "Bard Q",
+          "image": "images/15a21c232a58079a29188e48.webp"
+        },
+        {
+          "name": "Belveth Q",
+          "image": "images/99db48c3893999df0c25d013.webp"
+        },
+        {
+          "name": "Brand Q",
+          "image": "images/6854aa2fb24e6c3164daf10f.webp"
+        },
+        {
+          "name": "Braum Q",
+          "image": "images/90c2ed518a47c8bf99c467f6.webp"
+        },
+        {
+          "name": "Briar Q",
+          "image": "images/40b9c97625cee1c723eeca3f.webp"
+        },
+        {
+          "name": "Caitlyn Q",
+          "image": "images/0b74466b7142f7cc59b1b293.webp"
+        },
+        {
+          "name": "Camille Q",
+          "image": "images/d935f2fa789785d37f7ae4f6.webp"
+        },
+        {
+          "name": "Cassiopeia Q",
+          "image": "images/999d9c79409d03c092f6829e.webp"
+        },
+        {
+          "name": "Diana Q",
+          "image": "images/fed8c5423f2ab038b4db3d10.webp"
+        },
+        {
+          "name": "DrMundo Q",
+          "image": "images/793d7ffdc0e549a71ee290a4.webp"
+        },
+        {
+          "name": "Ekko Q",
+          "image": "images/c24455cef40f14675d0c27b2.webp"
+        },
+        {
+          "name": "EliseHuman Q",
+          "image": "images/da28f3a6ea442abc318437ce.webp"
+        },
+        {
+          "name": "Evelynn Q",
+          "image": "images/b6c23b3439e5311308b212a9.webp"
+        },
+        {
+          "name": "Ezreal Q",
+          "image": "images/84c80143cbf125406392d7e2.webp"
+        },
+        {
+          "name": "FiddleSticks Q",
+          "image": "images/348616b82d9e72260761153a.webp"
+        },
+        {
+          "name": "Fiora Q",
+          "image": "images/8aa9a0ff8f34c33764a38d1b.webp"
+        },
+        {
+          "name": "Fizz Q",
+          "image": "images/2189a1131d12a2800556cf39.webp"
+        },
+        {
+          "name": "Galio Q",
+          "image": "images/046f05221c4ad9859a1f6120.webp"
+        },
+        {
+          "name": "Garen Q",
+          "image": "images/573c79de0923fddf183b9658.webp"
+        },
+        {
+          "name": "Gnar Q",
+          "image": "images/a8074484663322f0398876b0.webp"
+        },
+        {
+          "name": "Gragas Q",
+          "image": "images/fe58a5b34c98f54ced3939fa.webp"
+        },
+        {
+          "name": "Gwen Q",
+          "image": "images/63f231fd7e9cdc72983ab3a6.webp"
+        },
+        {
+          "name": "Heimerdinger Q",
+          "image": "images/6641382751fc5c60a8869eed.webp"
+        },
+        {
+          "name": "Hwei Q",
+          "image": "images/45b2cf181cbc7a9996593db6.webp"
+        },
+        {
+          "name": "Illaoi Q",
+          "image": "images/cf5b991dbe6344e03a412469.webp"
+        },
+        {
+          "name": "Irelia Q",
+          "image": "images/6aadee455eff5016fb693790.webp"
+        },
+        {
+          "name": "Ivern Q",
+          "image": "images/52b3ac424c90e0666032ca87.webp"
+        },
+        {
+          "name": "Jax Q",
+          "image": "images/760321f343b15fe9cc2f9b3f.webp"
+        },
+        {
+          "name": "Jhin Q",
+          "image": "images/a23b2179c1714e6dc7fae872.webp"
+        },
+        {
+          "name": "Jinx Q",
+          "image": "images/fa20d4c49e57880eda817f55.webp"
+        },
+        {
+          "name": "Kaisa Q",
+          "image": "images/4fc8f402f13dd8949e6104f0.webp"
+        },
+        {
+          "name": "Karma Q",
+          "image": "images/7d688ffb4f23a199d79086bf.webp"
+        },
+        {
+          "name": "Katarina Q",
+          "image": "images/7657b6c4d9dd8af2709be66a.webp"
+        },
+        {
+          "name": "Kayle Q",
+          "image": "images/98695b108030079f13ef8e3c.webp"
+        },
+        {
+          "name": "Kayn Q",
+          "image": "images/42a8b72e63d3c81b68ee6b00.webp"
+        },
+        {
+          "name": "Khazix Q",
+          "image": "images/ce1f0788425e95a72bd3b900.webp"
+        },
+        {
+          "name": "Kindred Q",
+          "image": "images/f6d49ed784a0701d667354f6.webp"
+        },
+        {
+          "name": "Kled Q",
+          "image": "images/8790b18f642e7d68916cc488.webp"
+        },
+        {
+          "name": "KogMaw Q",
+          "image": "images/e9cd5975a3cf3aeab87b7eb5.webp"
+        },
+        {
+          "name": "KSante Q",
+          "image": "images/c7441db719be05d7a41df7c6.webp"
+        },
+        {
+          "name": "Leblanc Q",
+          "image": "images/4666dfba6da02fe5db380bd1.webp"
+        },
+        {
+          "name": "Lillia Q",
+          "image": "images/5a76ef2392453f5a575f52e8.webp"
+        },
+        {
+          "name": "Lissandra Q",
+          "image": "images/b197d0c40d5948ae8c74745a.webp"
+        },
+        {
+          "name": "Locke Q",
+          "image": "images/72f333992f2926e1758100d2.webp"
+        },
+        {
+          "name": "Lucian Q",
+          "image": "images/942d5f4eb1254b7c76aa5d6a.webp"
+        },
+        {
+          "name": "Lulu Q",
+          "image": "images/f855263e30f7ddb5d5797166.webp"
+        },
+        {
+          "name": "Malzahar Q",
+          "image": "images/7bd75dad4de7f69d9c2c4971.webp"
+        },
+        {
+          "name": "Maokai Q",
+          "image": "images/f8916a72915d9c51ff8fc1b2.webp"
+        },
+        {
+          "name": "Mel Q",
+          "image": "images/9856e1822c5fd68b7d378b1b.webp"
+        },
+        {
+          "name": "Milio Q",
+          "image": "images/d9ee779d941ea12982e87229.webp"
+        },
+        {
+          "name": "Mordekaiser Q",
+          "image": "images/c48781d228d5a155ba55122b.webp"
+        },
+        {
+          "name": "Morgana Q",
+          "image": "images/97748d86e8a20496de5d450f.webp"
+        },
+        {
+          "name": "Naafiri Q",
+          "image": "images/d06fe42399f6088d03a4aeae.webp"
+        },
+        {
+          "name": "Nami Q",
+          "image": "images/01e5df2011be728e943fa872.webp"
+        },
+        {
+          "name": "Nasus Q",
+          "image": "images/5d563d7ae4d2dd01a5cf5d8a.webp"
+        },
+        {
+          "name": "Neeko Q",
+          "image": "images/ca1f7f49850bb038346e45ce.webp"
+        },
+        {
+          "name": "Nilah Q",
+          "image": "images/5894426edba74373145d9481.webp"
+        },
+        {
+          "name": "Nunu Q",
+          "image": "images/90d6aded050d06f94a781a1c.webp"
+        },
+        {
+          "name": "Ornn Q",
+          "image": "images/fc20e1154214abde29584b3e.webp"
+        },
+        {
+          "name": "Pantheon Q",
+          "image": "images/166d1341766d81d2da6f374a.webp"
+        },
+        {
+          "name": "Poppy Q",
+          "image": "images/96bfecb4bf29bda1bcacdd08.webp"
+        },
+        {
+          "name": "Pyke Q",
+          "image": "images/267fcda3395d595fcbc4eec0.webp"
+        },
+        {
+          "name": "Qiyana Q",
+          "image": "images/831a7ff04f1c52e9d91d2a18.webp"
+        },
+        {
+          "name": "Quinn Q",
+          "image": "images/4c196d7aa4f90094bfd7f357.webp"
+        },
+        {
+          "name": "Rakan Q",
+          "image": "images/fa1bfbb364066509ee17aaee.webp"
+        },
+        {
+          "name": "RekSai Q",
+          "image": "images/5311799840ddf7c39c8a8bde.webp"
+        },
+        {
+          "name": "Rell Q",
+          "image": "images/a3aa14b7ce86f60cacfac8b9.webp"
+        },
+        {
+          "name": "Renata Q",
+          "image": "images/0440ea9298d028a571060da0.webp"
+        },
+        {
+          "name": "Rengar Q",
+          "image": "images/339f1bdc459bc0fc587629c5.webp"
+        },
+        {
+          "name": "Samira Q",
+          "image": "images/43f504dfccef51a70f029c54.webp"
+        },
+        {
+          "name": "Sejuani Q",
+          "image": "images/60c8c7024021c36519c32ff6.webp"
+        },
+        {
+          "name": "Senna Q",
+          "image": "images/4c03ed8284f426b48b7fe7d6.webp"
+        },
+        {
+          "name": "Seraphine Q",
+          "image": "images/36506ed71f8655be1ef4df1e.webp"
+        },
+        {
+          "name": "Sett Q",
+          "image": "images/c8ca31e6aebe93f7a14959c7.webp"
+        },
+        {
+          "name": "Shen Q",
+          "image": "images/845841c131389ce63ca2da6b.webp"
+        },
+        {
+          "name": "Shyvana Q",
+          "image": "images/8e0e6d72ec026bc88d3ef028.webp"
+        },
+        {
+          "name": "Sion Q",
+          "image": "images/0b87fec2a8370929f445e46c.webp"
+        },
+        {
+          "name": "Sivir Q",
+          "image": "images/750e7516b1d9979395b7c52d.webp"
+        },
+        {
+          "name": "Skarner Q",
+          "image": "images/4b2c71beb98e5fcedb85c5f8.webp"
+        },
+        {
+          "name": "Smolder Q",
+          "image": "images/3dbcc0dbdf42d60bd473c13f.webp"
+        },
+        {
+          "name": "Sona Q",
+          "image": "images/88a3259119da4ec6a4f2c46c.webp"
+        },
+        {
+          "name": "Soraka Q",
+          "image": "images/f03e40adbcdb0b5081a66fd3.webp"
+        },
+        {
+          "name": "Swain Q",
+          "image": "images/73a28449b253b612d2153f08.webp"
+        },
+        {
+          "name": "Sylas Q",
+          "image": "images/93e682d08c83e00665bc3319.webp"
+        },
+        {
+          "name": "Syndra Q",
+          "image": "images/7397cfbfb3d04e11678806a6.webp"
+        },
+        {
+          "name": "TahmKench Q",
+          "image": "images/8ae4e5ac432fbd28249fd66a.webp"
+        },
+        {
+          "name": "Taliyah Q",
+          "image": "images/f082378bdb1a2264853f0b2b.webp"
+        },
+        {
+          "name": "Talon Q",
+          "image": "images/776fd0b3a5265359de2dc056.webp"
+        },
+        {
+          "name": "Taric Q",
+          "image": "images/3545e5e466aa26b8162cf896.webp"
+        },
+        {
+          "name": "Teemo Q",
+          "image": "images/9d3c194c156ea50e18e578d8.webp"
+        },
+        {
+          "name": "Thresh Q",
+          "image": "images/4dc5c4b7155c1e143b82b1df.webp"
+        },
+        {
+          "name": "Tristana Q",
+          "image": "images/26cdbe39c069a157c28bd116.webp"
+        },
+        {
+          "name": "Tryndamere Q",
+          "image": "images/d9297f7eddb1bd47bb7104f6.webp"
+        },
+        {
+          "name": "Udyr Q",
+          "image": "images/43d100905d271f66a7bd6dcf.webp"
+        },
+        {
+          "name": "Urgot Q",
+          "image": "images/f0c260e795c0dd13cc68440d.webp"
+        },
+        {
+          "name": "Varus Q",
+          "image": "images/eef86f39a83c0e877b346f45.webp"
+        },
+        {
+          "name": "Velkoz Q",
+          "image": "images/b27f61bff044a19747d7ad5a.webp"
+        },
+        {
+          "name": "Vex Q",
+          "image": "images/90a6f4213e3c8b99c9fbf9bf.webp"
+        },
+        {
+          "name": "Vi Q",
+          "image": "images/d714aa81f492da6b0a195756.webp"
+        },
+        {
+          "name": "Viego Q",
+          "image": "images/30d2e7480c2b74ba75cf2bba.webp"
+        },
+        {
+          "name": "Viktor Q",
+          "image": "images/621e5f4554e0d73232bf6bd1.webp"
+        },
+        {
+          "name": "Vladimir Q",
+          "image": "images/d096fcc9320f87c6f51a9a0e.webp"
+        },
+        {
+          "name": "Volibear Q",
+          "image": "images/29131ecd86237766d711c09a.webp"
+        },
+        {
+          "name": "Warwick Q",
+          "image": "images/343d35618fd8f913364595d5.webp"
+        },
+        {
+          "name": "Xayah Q",
+          "image": "images/9d79a642c93d9a49cb858cc9.webp"
+        },
+        {
+          "name": "XinZhao Q",
+          "image": "images/83cb486cb15bf3782a752ac4.webp"
+        },
+        {
+          "name": "Yone Q",
+          "image": "images/beba641d26380c18505d0e91.webp"
+        },
+        {
+          "name": "Yorick Q",
+          "image": "images/99fdbb26a96e6e84ce8b6b42.webp"
+        },
+        {
+          "name": "Yunara Q",
+          "image": "images/62eebd6c8caabc2fa623893a.webp"
+        },
+        {
+          "name": "Yuumi Q",
+          "image": "images/62135fd1103cc0aa59a7556a.webp"
+        },
+        {
+          "name": "Zaahen Q",
+          "image": "images/16565b0df06e8cb9bd1d9413.webp"
+        },
+        {
+          "name": "Zac Q",
+          "image": "images/8e599324b466be31b5ce179e.webp"
+        },
+        {
+          "name": "Zed Q",
+          "image": "images/318976fd4fa562e3439016c4.webp"
+        },
+        {
+          "name": "Zeri Q",
+          "image": "images/7d42bb1a8ccdc2accd4868e9.webp"
+        },
+        {
+          "name": "Ziggs Q",
+          "image": "images/759d4b5f4030558520e9a0f4.webp"
+        },
+        {
+          "name": "Zilean Q",
+          "image": "images/01b0b065c9848e97e821e7f6.webp"
+        },
+        {
+          "name": "Zoe Q",
+          "image": "images/0164b95cdc86dfaa49f1d55d.webp"
+        },
+        {
+          "name": "Zyra Q",
+          "image": "images/39f3394c9042403d1d569816.webp"
+        }
+      ],
+      "W_Spell": [
+        {
+          "name": "Aatrox W",
+          "image": "images/5ce3b0c390cd2bcd5ed352a2.webp"
+        },
+        {
+          "name": "Ahri W",
+          "image": "images/8a52ae6aaacbbe54b53f3add.webp"
+        },
+        {
+          "name": "Akali W",
+          "image": "images/ca7247daf6d07728db3aea04.webp"
+        },
+        {
+          "name": "Akshan W",
+          "image": "images/333d0c9ae14eef406c0120c8.webp"
+        },
+        {
+          "name": "Ambessa W",
+          "image": "images/5aed811d13f69d391373bd8b.webp"
+        },
+        {
+          "name": "Annie W",
+          "image": "images/6dd80270e594631716256848.webp"
+        },
+        {
+          "name": "Aphelios W",
+          "image": "images/07c3f2a94ff2de52856d5dc6.webp"
+        },
+        {
+          "name": "AurelionSol W",
+          "image": "images/871c1f40f79433595c958fa3.webp"
+        },
+        {
+          "name": "Aurora W",
+          "image": "images/913374dfe142753b0859aa17.webp"
+        },
+        {
+          "name": "Azir W",
+          "image": "images/8a28944c5910f289a51f7dd5.webp"
+        },
+        {
+          "name": "Bard W",
+          "image": "images/fbd4970a4a87bd0d2b1317c3.webp"
+        },
+        {
+          "name": "Belveth W",
+          "image": "images/a999d2d2ecf3d8b6fd763b06.webp"
+        },
+        {
+          "name": "Brand W",
+          "image": "images/95c0cb293f3d4822893c57b3.webp"
+        },
+        {
+          "name": "Braum W",
+          "image": "images/5a5598854561542f37d521e8.webp"
+        },
+        {
+          "name": "Briar W",
+          "image": "images/edd3c449bde414050e13e91d.webp"
+        },
+        {
+          "name": "Caitlyn W",
+          "image": "images/d484b290a6585aaf9dbcecfd.webp"
+        },
+        {
+          "name": "Camille W",
+          "image": "images/f18d5f4aba2180b65061ccef.webp"
+        },
+        {
+          "name": "Cassiopeia W",
+          "image": "images/820d7aa5c9a14bf1e5fdb6de.webp"
+        },
+        {
+          "name": "DrMundo W",
+          "image": "images/6695ea32506db7e1f242d003.webp"
+        },
+        {
+          "name": "Ekko W",
+          "image": "images/da989f3283afe62513abfdbe.webp"
+        },
+        {
+          "name": "EliseHuman W",
+          "image": "images/124ff284a88948d5ce466af2.webp"
+        },
+        {
+          "name": "Evelynn W",
+          "image": "images/10d6932c5f13febf97493015.webp"
+        },
+        {
+          "name": "Ezreal W",
+          "image": "images/0f0d602aff7a3601bfa84a9e.webp"
+        },
+        {
+          "name": "FiddleSticks W",
+          "image": "images/164f15dc1d171bc91cf0a5bb.webp"
+        },
+        {
+          "name": "Fiora W",
+          "image": "images/d14feaac961bd48b6a28647c.webp"
+        },
+        {
+          "name": "Fizz W",
+          "image": "images/9f61942566171f32a19ce67c.webp"
+        },
+        {
+          "name": "Galio W",
+          "image": "images/bdd868258ec7e9d4546c196b.webp"
+        },
+        {
+          "name": "Gangplank W",
+          "image": "images/3fcb2a04de176ee2f9ceb240.webp"
+        },
+        {
+          "name": "Garen W",
+          "image": "images/48c2cd24e9dfbd1a1ab43d06.webp"
+        },
+        {
+          "name": "Gnar W",
+          "image": "images/17749a9a74f6b22b6e839d3f.webp"
+        },
+        {
+          "name": "Gragas W",
+          "image": "images/5a1977527d1dd789dd83e234.webp"
+        },
+        {
+          "name": "Gwen W",
+          "image": "images/7aad45071f3ededf667fee08.webp"
+        },
+        {
+          "name": "Hecarim W",
+          "image": "images/6c1e5ed2146e32319c07355a.webp"
+        },
+        {
+          "name": "Heimerdinger W",
+          "image": "images/15b36607eda22ef71cd8d4c3.webp"
+        },
+        {
+          "name": "Hwei W",
+          "image": "images/6b6ae5aced702d677c11d14a.webp"
+        },
+        {
+          "name": "Illaoi W",
+          "image": "images/795e4693d5794ed219e40a45.webp"
+        },
+        {
+          "name": "Irelia W",
+          "image": "images/5acdb13179f29889df9d5712.webp"
+        },
+        {
+          "name": "Ivern W",
+          "image": "images/4754c09c3240464ad302f542.webp"
+        },
+        {
+          "name": "Jax W",
+          "image": "images/282a3c3b767667d7b9b46876.webp"
+        },
+        {
+          "name": "Jhin W",
+          "image": "images/ad5b4ed04694a4b93c295ed5.webp"
+        },
+        {
+          "name": "Jinx W",
+          "image": "images/075848391a730fc79c8b8a0e.webp"
+        },
+        {
+          "name": "Kaisa W",
+          "image": "images/3e5afaef178ef3b72c970460.webp"
+        },
+        {
+          "name": "Kalista W",
+          "image": "images/ba93a5490a3b5788735cfcf0.webp"
+        },
+        {
+          "name": "Katarina W",
+          "image": "images/5533c5d84ef9fef1d970b8f3.webp"
+        },
+        {
+          "name": "Kayle W",
+          "image": "images/258afbe1bfc734c55e5adf4a.webp"
+        },
+        {
+          "name": "Kayn W",
+          "image": "images/3153b00c60feb60034df3842.webp"
+        },
+        {
+          "name": "Khazix W",
+          "image": "images/7b297e906b23940fa8c289bb.webp"
+        },
+        {
+          "name": "Kindred W",
+          "image": "images/d9949eb21f0467ffdd3a90ea.webp"
+        },
+        {
+          "name": "Kled W",
+          "image": "images/daf85f63587e40190ea6589f.webp"
+        },
+        {
+          "name": "KSante W",
+          "image": "images/22ce68d2818e5e6f884b790a.webp"
+        },
+        {
+          "name": "Leblanc W",
+          "image": "images/f5dc6dac68d417481d37cebd.webp"
+        },
+        {
+          "name": "Lillia W",
+          "image": "images/d622288fe33bdbf448b85d55.webp"
+        },
+        {
+          "name": "Lissandra W",
+          "image": "images/b5a60683639489d9453a22b3.webp"
+        },
+        {
+          "name": "Locke W",
+          "image": "images/42e2a4e6158c9e0a0912409d.webp"
+        },
+        {
+          "name": "Lucian W",
+          "image": "images/373d2e49fadceefa8b86f53d.webp"
+        },
+        {
+          "name": "Lulu W",
+          "image": "images/2a492c2499398931f6f5452c.webp"
+        },
+        {
+          "name": "Malzahar W",
+          "image": "images/86e7146ff0c4277134d233ca.webp"
+        },
+        {
+          "name": "Maokai W",
+          "image": "images/13596ebb266a7a6314e15d7f.webp"
+        },
+        {
+          "name": "Mel W",
+          "image": "images/207273d29e47b453fc056050.webp"
+        },
+        {
+          "name": "Milio W",
+          "image": "images/6a0ae7edfa6ed1591057f229.webp"
+        },
+        {
+          "name": "Mordekaiser W",
+          "image": "images/89030e7c8fd22df386ea329d.webp"
+        },
+        {
+          "name": "Morgana W",
+          "image": "images/df4cab111df55676c2d1aea8.webp"
+        },
+        {
+          "name": "Naafiri W",
+          "image": "images/83a52d390fa9a107c40411d1.webp"
+        },
+        {
+          "name": "Nami W",
+          "image": "images/dc1bf538b411f3c5c5327227.webp"
+        },
+        {
+          "name": "Nasus W",
+          "image": "images/9fb161868a36da8c2f3f760e.webp"
+        },
+        {
+          "name": "Neeko W",
+          "image": "images/d7e8904db935e80fc143edd0.webp"
+        },
+        {
+          "name": "Nilah W",
+          "image": "images/68c6150e69092582bf8e033e.webp"
+        },
+        {
+          "name": "Nunu W",
+          "image": "images/cab9c2898143bd6e3442b476.webp"
+        },
+        {
+          "name": "Ornn W",
+          "image": "images/86539b7dc1a4c7bd8717dc74.webp"
+        },
+        {
+          "name": "Pantheon W",
+          "image": "images/fde9a08b213bcd5f12194869.webp"
+        },
+        {
+          "name": "Poppy W",
+          "image": "images/90fc39d3d035e13f7fa84b05.webp"
+        },
+        {
+          "name": "Pyke W",
+          "image": "images/41a2d474752d0bd66cf43b81.webp"
+        },
+        {
+          "name": "Qiyana W",
+          "image": "images/d4c3bf397d3438b13bb8b59b.webp"
+        },
+        {
+          "name": "Quinn W",
+          "image": "images/2108b407a97d0d4193166a43.webp"
+        },
+        {
+          "name": "Rakan W",
+          "image": "images/ca999e9a42ca1b562b93a0b6.webp"
+        },
+        {
+          "name": "RekSai W",
+          "image": "images/8cd42277a8128a68d9b0ad93.webp"
+        },
+        {
+          "name": "Renata W",
+          "image": "images/7fa6efc677f4ceac9fae4820.webp"
+        },
+        {
+          "name": "Rengar W",
+          "image": "images/28643305ec00c3047fc95347.webp"
+        },
+        {
+          "name": "Ryze W",
+          "image": "images/71b20a3c640c8f63b759cbce.webp"
+        },
+        {
+          "name": "Samira W",
+          "image": "images/d0b9cbacbc23b89cdf8739ee.webp"
+        },
+        {
+          "name": "Sejuani W",
+          "image": "images/5102ecd4c54d19fde46eb407.webp"
+        },
+        {
+          "name": "Senna W",
+          "image": "images/937a9623fb39b4e304ca9139.webp"
+        },
+        {
+          "name": "Seraphine W",
+          "image": "images/4788bc75042f81f3db12f790.webp"
+        },
+        {
+          "name": "Sett W",
+          "image": "images/e71811b86258e5b9618f8814.webp"
+        },
+        {
+          "name": "Shen W",
+          "image": "images/32d78925d78b95df18169dd3.webp"
+        },
+        {
+          "name": "Shyvana W",
+          "image": "images/f879e6bcdafbffe79f176ea3.webp"
+        },
+        {
+          "name": "Sion W",
+          "image": "images/0f61c1619ffe44b31aa72129.webp"
+        },
+        {
+          "name": "Sivir W",
+          "image": "images/9ea90ac61809589aaf7e7ebc.webp"
+        },
+        {
+          "name": "Skarner W",
+          "image": "images/754d09b8aec31612e4e8e1bb.webp"
+        },
+        {
+          "name": "Smolder W",
+          "image": "images/12e5311ac220d7202ea05dfb.webp"
+        },
+        {
+          "name": "Sona W",
+          "image": "images/64ca37fa2b238b5b8f7bbcc3.webp"
+        },
+        {
+          "name": "Soraka W",
+          "image": "images/60ec039ac4e69d3b3bafc703.webp"
+        },
+        {
+          "name": "Swain W",
+          "image": "images/503b37dcba3084c688b6f37c.webp"
+        },
+        {
+          "name": "Sylas W",
+          "image": "images/890fd3702ec0602c72fb5482.webp"
+        },
+        {
+          "name": "Syndra W",
+          "image": "images/52cbc7127273b6ae3707a7c3.webp"
+        },
+        {
+          "name": "TahmKench W",
+          "image": "images/b58a221b677c9ce6447d7419.webp"
+        },
+        {
+          "name": "Talon W",
+          "image": "images/bc67d3e9227548369e1f7a86.webp"
+        },
+        {
+          "name": "Taric W",
+          "image": "images/77231a6cdc2da616005ef85d.webp"
+        },
+        {
+          "name": "Teemo W",
+          "image": "images/9a28886f70aaaf93687c66d8.webp"
+        },
+        {
+          "name": "Thresh W",
+          "image": "images/cabe603c50d6ffcf4a74cd83.webp"
+        },
+        {
+          "name": "Tristana W",
+          "image": "images/2643edb6206e4cd18ec9289c.webp"
+        },
+        {
+          "name": "Tryndamere W",
+          "image": "images/379f345afa5b7731ee627f11.webp"
+        },
+        {
+          "name": "Udyr W",
+          "image": "images/b90380fdc3e81fd76c960a98.webp"
+        },
+        {
+          "name": "Urgot W",
+          "image": "images/521af89dfb3b1f1dffc6c22f.webp"
+        },
+        {
+          "name": "Varus W",
+          "image": "images/835a10f0a463f7b8bff4f6ba.webp"
+        },
+        {
+          "name": "Velkoz W",
+          "image": "images/b4dc184ca5c316b3addfa674.webp"
+        },
+        {
+          "name": "Vex W",
+          "image": "images/d9e355a53002cc2119fc7a53.webp"
+        },
+        {
+          "name": "Vi W",
+          "image": "images/015f9be231b97f5e7272c3c4.webp"
+        },
+        {
+          "name": "Viego W",
+          "image": "images/3a4adb01f1096cb5bbfc2ee2.webp"
+        },
+        {
+          "name": "Viktor W",
+          "image": "images/e3b22726b605b8107e16a2a9.webp"
+        },
+        {
+          "name": "Volibear W",
+          "image": "images/a6facd0864d22b8308ffed89.webp"
+        },
+        {
+          "name": "Warwick W",
+          "image": "images/c21c8a60ad1c31baa7180175.webp"
+        },
+        {
+          "name": "Xayah W",
+          "image": "images/18263383e2c1c2a3ca338bfc.webp"
+        },
+        {
+          "name": "XinZhao W",
+          "image": "images/8280c0f5089fcbb6ad8890a6.webp"
+        },
+        {
+          "name": "Yasuo W",
+          "image": "images/0797121b6ce139d631090fd7.webp"
+        },
+        {
+          "name": "Yone W",
+          "image": "images/beef17a01cdf8d58e5d3631f.webp"
+        },
+        {
+          "name": "Yorick W",
+          "image": "images/5929ee747ca24dc0c9c08b75.webp"
+        },
+        {
+          "name": "Yunara W",
+          "image": "images/c00d3965e16f2e8284a6b634.webp"
+        },
+        {
+          "name": "Yuumi W",
+          "image": "images/1e225c196eceac2860f34b7e.webp"
+        },
+        {
+          "name": "Zaahen W",
+          "image": "images/a4e01288922e6b64afebcd65.webp"
+        },
+        {
+          "name": "Zac W",
+          "image": "images/036e41054d6e338a492e5ae5.webp"
+        },
+        {
+          "name": "Zed W",
+          "image": "images/2cd3b570d063adff41b1fd3f.webp"
+        },
+        {
+          "name": "Zeri W",
+          "image": "images/874c7c41e3449b87e8b63486.webp"
+        },
+        {
+          "name": "Ziggs W",
+          "image": "images/25ec36a8d27d5306a33539bc.webp"
+        },
+        {
+          "name": "Zilean W",
+          "image": "images/479d7c21901545bc891cf95d.webp"
+        },
+        {
+          "name": "Zoe W",
+          "image": "images/02cfe243f233a1231cae6dd9.webp"
+        },
+        {
+          "name": "Zyra W",
+          "image": "images/40897555f0dea93379f81117.webp"
+        }
+      ],
+      "E_Spell": [
+        {
+          "name": "Aatrox E",
+          "image": "images/c5f83875187520e9f240d6bd.webp"
+        },
+        {
+          "name": "Ahri E",
+          "image": "images/29752af24c4ba9d43a19b123.webp"
+        },
+        {
+          "name": "Akali E",
+          "image": "images/5a373a3952c6ee2a27b45e72.webp"
+        },
+        {
+          "name": "Akshan E",
+          "image": "images/4cb7fd908f6c4da71d6cebfa.webp"
+        },
+        {
+          "name": "Alistar E",
+          "image": "images/2412372dfba1f7685a1f3aed.webp"
+        },
+        {
+          "name": "Ambessa E",
+          "image": "images/dcd20fa4160f3acb47b908c8.webp"
+        },
+        {
+          "name": "Annie E",
+          "image": "images/f47148bc4f45493cbec11bf6.webp"
+        },
+        {
+          "name": "AurelionSol E",
+          "image": "images/3c8bd361ccadb545672d3672.webp"
+        },
+        {
+          "name": "Aurora E",
+          "image": "images/f0075658d3fdb5894335d390.webp"
+        },
+        {
+          "name": "Bard E",
+          "image": "images/e88a6527601db0828f70e95c.webp"
+        },
+        {
+          "name": "Belveth E",
+          "image": "images/a781d9450bd56845357a791f.webp"
+        },
+        {
+          "name": "Brand E",
+          "image": "images/27faad1741ce017fc8fecdf5.webp"
+        },
+        {
+          "name": "Braum E",
+          "image": "images/b317aabc3810e3eb73323f71.webp"
+        },
+        {
+          "name": "Briar E",
+          "image": "images/b5f3ca344f96aa5f537c5576.webp"
+        },
+        {
+          "name": "Caitlyn E",
+          "image": "images/daa4f69bd5d7cbea3b521e71.webp"
+        },
+        {
+          "name": "Camille E",
+          "image": "images/3e9f66555b56f1b3c41dffd7.webp"
+        },
+        {
+          "name": "Cassiopeia E",
+          "image": "images/d69a2705098b47a0cc9526da.webp"
+        },
+        {
+          "name": "DrMundo E",
+          "image": "images/efc3ac8271dd6123a259f8eb.webp"
+        },
+        {
+          "name": "Ekko E",
+          "image": "images/975353b2b19f06b3ee4c46de.webp"
+        },
+        {
+          "name": "EliseHuman E",
+          "image": "images/f438cf84663dae66c3d29130.webp"
+        },
+        {
+          "name": "Evelynn E",
+          "image": "images/d3d463e04a0d4a60e95a1dd6.webp"
+        },
+        {
+          "name": "Ezreal E",
+          "image": "images/1748df3646808d290d823a73.webp"
+        },
+        {
+          "name": "FiddleSticks E",
+          "image": "images/593c269cb12b6ed90e0e8d1f.webp"
+        },
+        {
+          "name": "Fiora E",
+          "image": "images/29bf639ebccd791c64a55fa7.webp"
+        },
+        {
+          "name": "Fizz E",
+          "image": "images/9db33c355bb0cfd4b6ee45d1.webp"
+        },
+        {
+          "name": "Galio E",
+          "image": "images/a0af9beefbcc054594f21c68.webp"
+        },
+        {
+          "name": "Gangplank E",
+          "image": "images/8343c7aad6bf8b08534b895e.webp"
+        },
+        {
+          "name": "Garen E",
+          "image": "images/7baaf2547810b0b273a554c4.webp"
+        },
+        {
+          "name": "Gnar E",
+          "image": "images/0b89beb809b3685c7ef29f20.webp"
+        },
+        {
+          "name": "Gragas E",
+          "image": "images/1d85490a58c45b87aa47e777.webp"
+        },
+        {
+          "name": "Gwen E",
+          "image": "images/fd9851da7242a3423ba07914.webp"
+        },
+        {
+          "name": "Heimerdinger E",
+          "image": "images/793ebb62353bd33ae81d0524.webp"
+        },
+        {
+          "name": "Hwei E",
+          "image": "images/822f663e1eafadb787f2bf6d.webp"
+        },
+        {
+          "name": "Illaoi E",
+          "image": "images/d645b0dc0d6aacd15b8be1cd.webp"
+        },
+        {
+          "name": "Irelia E",
+          "image": "images/0a50f69b1d77e880c5ed79fb.webp"
+        },
+        {
+          "name": "Ivern E",
+          "image": "images/6950cd22fe41464ec5b18f30.webp"
+        },
+        {
+          "name": "Jax E",
+          "image": "images/bd8e858020938fe1a6b47174.webp"
+        },
+        {
+          "name": "Jhin E",
+          "image": "images/c1dffd221513f089ddb7a9ea.webp"
+        },
+        {
+          "name": "Jinx E",
+          "image": "images/fef26b3b02157aa9a47d78d1.webp"
+        },
+        {
+          "name": "Kaisa E",
+          "image": "images/8b17ef0350ff51570768a18f.webp"
+        },
+        {
+          "name": "Kayle E",
+          "image": "images/7fabdf631890b3d5ad47a672.webp"
+        },
+        {
+          "name": "Kayn E",
+          "image": "images/efb3c553bbedec815ab7f5b9.webp"
+        },
+        {
+          "name": "Khazix E",
+          "image": "images/0845cae5a7a01b26bf7356eb.webp"
+        },
+        {
+          "name": "Kled E",
+          "image": "images/c0eb3f252459ee781a406a64.webp"
+        },
+        {
+          "name": "KSante E",
+          "image": "images/96da3aa4097017f644f461f9.webp"
+        },
+        {
+          "name": "Leblanc E",
+          "image": "images/a20fb7dc39311c7182800243.webp"
+        },
+        {
+          "name": "Lillia E",
+          "image": "images/26706cac32ab60440bb89480.webp"
+        },
+        {
+          "name": "Lissandra E",
+          "image": "images/2f9bccb4e7809c72cdd97daa.webp"
+        },
+        {
+          "name": "Locke E",
+          "image": "images/b4c3991a3865514528179c6f.webp"
+        },
+        {
+          "name": "Lucian E",
+          "image": "images/0ffb0f5455c4437b5ccb92f7.webp"
+        },
+        {
+          "name": "Lulu E",
+          "image": "images/220f95357f9f6a2b8406984a.webp"
+        },
+        {
+          "name": "Malzahar E",
+          "image": "images/cb6c80d229d59e285b5b65f5.webp"
+        },
+        {
+          "name": "Maokai E",
+          "image": "images/b549968c39c23f0f14f7a820.webp"
+        },
+        {
+          "name": "Mel E",
+          "image": "images/ee1e26a7f9914040932e1844.webp"
+        },
+        {
+          "name": "Milio E",
+          "image": "images/b4d57071bc3689f62daaf959.webp"
+        },
+        {
+          "name": "Mordekaiser E",
+          "image": "images/eb94561975ed2fda893ad565.webp"
+        },
+        {
+          "name": "Morgana E",
+          "image": "images/838c8a64337788ab259a7aeb.webp"
+        },
+        {
+          "name": "Naafiri E",
+          "image": "images/5dcd7f767bbb566b7e54187d.webp"
+        },
+        {
+          "name": "Nami E",
+          "image": "images/fb08444db307b5efd30929ce.webp"
+        },
+        {
+          "name": "Nasus E",
+          "image": "images/75b51826ad3975e052495f1a.webp"
+        },
+        {
+          "name": "Neeko E",
+          "image": "images/2a2b996e0b5ab87d16b5c5bd.webp"
+        },
+        {
+          "name": "Nilah E",
+          "image": "images/a175d01c3068c4ea050c6307.webp"
+        },
+        {
+          "name": "Nunu E",
+          "image": "images/f1a79cc51245d320e65d045f.webp"
+        },
+        {
+          "name": "Ornn E",
+          "image": "images/a120d123b6168c1df901613f.webp"
+        },
+        {
+          "name": "Pantheon E",
+          "image": "images/13090d001aa6eb73c5d06d87.webp"
+        },
+        {
+          "name": "Poppy E",
+          "image": "images/5eafbebbc5f5f5fa3545caf6.webp"
+        },
+        {
+          "name": "Pyke E",
+          "image": "images/7cdf510dbf6abb41dbee3f18.webp"
+        },
+        {
+          "name": "Qiyana E",
+          "image": "images/c81fd20529c6739d4780d7a2.webp"
+        },
+        {
+          "name": "Quinn E",
+          "image": "images/95772c0fd78944cfe39220ef.webp"
+        },
+        {
+          "name": "Rakan E",
+          "image": "images/118a49a6bc0fa2c291fac00b.webp"
+        },
+        {
+          "name": "RekSai E",
+          "image": "images/db0419570c4bf523b4f996a1.webp"
+        },
+        {
+          "name": "Rell E",
+          "image": "images/ec4e5084dd809193fdb35af4.webp"
+        },
+        {
+          "name": "Renata E",
+          "image": "images/d1513f5d267bd3b3aebd4d4e.webp"
+        },
+        {
+          "name": "Rengar E",
+          "image": "images/5efb4a75978c8ee61dc05190.webp"
+        },
+        {
+          "name": "Ryze E",
+          "image": "images/9b434d4ccdd729ea0a102f17.webp"
+        },
+        {
+          "name": "Samira E",
+          "image": "images/f22b17578c7646b4b69584e1.webp"
+        },
+        {
+          "name": "Sejuani E",
+          "image": "images/db082be6057687b5645dc01f.webp"
+        },
+        {
+          "name": "Senna E",
+          "image": "images/def352a85a7d3c8c308241ab.webp"
+        },
+        {
+          "name": "Seraphine E",
+          "image": "images/077d6a1db17fb2b9e5c4076d.webp"
+        },
+        {
+          "name": "Sett E",
+          "image": "images/a87d9d43d8f4583b522c0f2e.webp"
+        },
+        {
+          "name": "Shen E",
+          "image": "images/2639e72e4252bdf06e56a686.webp"
+        },
+        {
+          "name": "Shyvana E",
+          "image": "images/c57b3eaefb6e16faf2601226.webp"
+        },
+        {
+          "name": "Sion E",
+          "image": "images/a78c83d7e3cef931035d95cc.webp"
+        },
+        {
+          "name": "Sivir E",
+          "image": "images/27de4d287de5f74daac89ef2.webp"
+        },
+        {
+          "name": "Skarner E",
+          "image": "images/beb1a1b404baaa9404eb6115.webp"
+        },
+        {
+          "name": "Smolder E",
+          "image": "images/842569fdc83ba269d021959f.webp"
+        },
+        {
+          "name": "Sona E",
+          "image": "images/db24d2f522ab72b3ebd767c3.webp"
+        },
+        {
+          "name": "Soraka E",
+          "image": "images/8429d27e89b76d612853efd0.webp"
+        },
+        {
+          "name": "Swain E",
+          "image": "images/828de21eb17837da7b4467d0.webp"
+        },
+        {
+          "name": "Sylas E",
+          "image": "images/e0b59e93c4e0522b0cf6a695.webp"
+        },
+        {
+          "name": "Syndra E",
+          "image": "images/1e19a79cf6c36cf5cda7ebd7.webp"
+        },
+        {
+          "name": "TahmKench E",
+          "image": "images/9d91ec2dd16543bcef380e6a.webp"
+        },
+        {
+          "name": "Taliyah E",
+          "image": "images/45d9e5f40e55198f96d8c265.webp"
+        },
+        {
+          "name": "Talon E",
+          "image": "images/beaef27107202aa7f97b2f27.webp"
+        },
+        {
+          "name": "Taric E",
+          "image": "images/05adfbfa831f2c6daa03996c.webp"
+        },
+        {
+          "name": "Teemo E",
+          "image": "images/38959beca89ef5dab9c9077f.webp"
+        },
+        {
+          "name": "Thresh E",
+          "image": "images/edcc52df4041a7bc2eb2e0c4.webp"
+        },
+        {
+          "name": "Tristana E",
+          "image": "images/95ad2e9a9e5b7d48f63658e8.webp"
+        },
+        {
+          "name": "Tryndamere E",
+          "image": "images/2e35a3c07214a1baf6a904f5.webp"
+        },
+        {
+          "name": "Udyr E",
+          "image": "images/4b86963d68c5d4775e21d014.webp"
+        },
+        {
+          "name": "Urgot E",
+          "image": "images/a42ba04dd7a4f6d8cf4a404b.webp"
+        },
+        {
+          "name": "Varus E",
+          "image": "images/d9ddae4fe12324aab2a6094d.webp"
+        },
+        {
+          "name": "Velkoz E",
+          "image": "images/6dbbae25e16020e02d0ca709.webp"
+        },
+        {
+          "name": "Vex E",
+          "image": "images/d20ad1c009cb4c8110a84525.webp"
+        },
+        {
+          "name": "Vi E",
+          "image": "images/4e726e44e9c1d93cf6956d60.webp"
+        },
+        {
+          "name": "Viego E",
+          "image": "images/f63acc251c5b85601b64c292.webp"
+        },
+        {
+          "name": "Viktor E",
+          "image": "images/97718e8ddc144b586b347615.webp"
+        },
+        {
+          "name": "Vladimir E",
+          "image": "images/caf2e141d2b0c13c140efdf0.webp"
+        },
+        {
+          "name": "Volibear E",
+          "image": "images/30363ef67a1dca85f7627e5a.webp"
+        },
+        {
+          "name": "Warwick E",
+          "image": "images/dc2ae59d9d0eecd37cf8935a.webp"
+        },
+        {
+          "name": "Xayah E",
+          "image": "images/deaa291f56567b62232bc1aa.webp"
+        },
+        {
+          "name": "XinZhao E",
+          "image": "images/52773768942f5e3eea29d390.webp"
+        },
+        {
+          "name": "Yasuo E",
+          "image": "images/c853c8b21f801349f4a4c0dd.webp"
+        },
+        {
+          "name": "Yone E",
+          "image": "images/3cb35638fee56c7113e24776.webp"
+        },
+        {
+          "name": "Yorick E",
+          "image": "images/860adb6ba2ca1c8850376e1e.webp"
+        },
+        {
+          "name": "Yunara E",
+          "image": "images/344f27648252ff1378a29af1.webp"
+        },
+        {
+          "name": "Yuumi E",
+          "image": "images/63a02b8710fdb05120775443.webp"
+        },
+        {
+          "name": "Zaahen E",
+          "image": "images/2da004f95db2b6b47306edc5.webp"
+        },
+        {
+          "name": "Zac E",
+          "image": "images/6ef533114d5f7f60e9e03e58.webp"
+        },
+        {
+          "name": "Zed E",
+          "image": "images/1c90893bc2205e388468082a.webp"
+        },
+        {
+          "name": "Zeri E",
+          "image": "images/d993f39f0586c539d3293f66.webp"
+        },
+        {
+          "name": "Ziggs E",
+          "image": "images/897c5f10887de55e27c0796b.webp"
+        },
+        {
+          "name": "Zoe E",
+          "image": "images/9f493c9d539cfdf92826feed.webp"
+        },
+        {
+          "name": "Zyra E",
+          "image": "images/6891fc4a917e93c1d201948e.webp"
+        }
+      ],
+      "Ulti": [
+        {
+          "name": "Aatrox R",
+          "image": "images/4e7219bb5097628257dc92a7.webp"
+        },
+        {
+          "name": "Ahri R",
+          "image": "images/d10b76c299bbc14b6e7344da.webp"
+        },
+        {
+          "name": "Akali R",
+          "image": "images/3b69e140d77119fb42a0a535.webp"
+        },
+        {
+          "name": "Akshan R",
+          "image": "images/3ac7b80191d7185289afd89d.webp"
+        },
+        {
+          "name": "Ambessa R",
+          "image": "images/6e862e2f8b35c2a286093dfa.webp"
+        },
+        {
+          "name": "Annie R",
+          "image": "images/60d8e1c5dc1bca769e65da0f.webp"
+        },
+        {
+          "name": "Aphelios R",
+          "image": "images/fe23d60417ae01de98744a7e.webp"
+        },
+        {
+          "name": "AurelionSol R",
+          "image": "images/3c06ad4eaf2474dcb4b0efa6.webp"
+        },
+        {
+          "name": "Aurora R",
+          "image": "images/f669171182cd7a89805a6091.webp"
+        },
+        {
+          "name": "Azir R",
+          "image": "images/7f8f172af9f9a3a87982860a.webp"
+        },
+        {
+          "name": "Bard R",
+          "image": "images/9820eb19cb34f29b36903dc8.webp"
+        },
+        {
+          "name": "Belveth R",
+          "image": "images/3152ccbd10e1276f7a0a8852.webp"
+        },
+        {
+          "name": "Brand R",
+          "image": "images/ccdfbaaf162000d92d4c25bb.webp"
+        },
+        {
+          "name": "Briar R",
+          "image": "images/8329bd703620375f45587ea0.webp"
+        },
+        {
+          "name": "Caitlyn R",
+          "image": "images/698102fa7f2025a1ff147a60.webp"
+        },
+        {
+          "name": "Camille R",
+          "image": "images/86a7fdd86ead75919b043897.webp"
+        },
+        {
+          "name": "Cassiopeia R",
+          "image": "images/a406bf7fbd74ba15023f7e45.webp"
+        },
+        {
+          "name": "Diana R",
+          "image": "images/832dea2aff5a9476787aad19.webp"
+        },
+        {
+          "name": "DrMundo R",
+          "image": "images/4b92282dbf5dcbd0dc6900b9.webp"
+        },
+        {
+          "name": "Ekko R",
+          "image": "images/7a99e166a2981e1758ed4d3a.webp"
+        },
+        {
+          "name": "Elise R",
+          "image": "images/f386f9be1a1514d96ea8f2a0.webp"
+        },
+        {
+          "name": "Evelynn R",
+          "image": "images/7537bb574712ebf9b2cc5ef2.webp"
+        },
+        {
+          "name": "Ezreal R",
+          "image": "images/9000bc55643a171d61e85bd8.webp"
+        },
+        {
+          "name": "FiddleSticks R",
+          "image": "images/e1a032449f667aa3e09a5214.webp"
+        },
+        {
+          "name": "Fiora R",
+          "image": "images/143041e1c623745ffb2efd66.webp"
+        },
+        {
+          "name": "Fizz R",
+          "image": "images/f05b63f7b7864f2cc2478971.webp"
+        },
+        {
+          "name": "Galio R",
+          "image": "images/e8ff2cf1ab9c66277cd52147.webp"
+        },
+        {
+          "name": "Gangplank R",
+          "image": "images/60970e28622737cb2af36dc3.webp"
+        },
+        {
+          "name": "Garen R",
+          "image": "images/c0784f7a2c2e6db1fb0451e6.webp"
+        },
+        {
+          "name": "Gnar R",
+          "image": "images/5b6c3e58cb1de9162da207f2.webp"
+        },
+        {
+          "name": "Gragas R",
+          "image": "images/9f88ee5d1f6694584ff738ab.webp"
+        },
+        {
+          "name": "Gwen R",
+          "image": "images/bf651fe5af5aaec544bd271a.webp"
+        },
+        {
+          "name": "Heimerdinger R",
+          "image": "images/0274ee0b47b3f14efc5fa048.webp"
+        },
+        {
+          "name": "Hwei R",
+          "image": "images/b8f3a4a8314b68ebfc52477a.webp"
+        },
+        {
+          "name": "Illaoi R",
+          "image": "images/f24ba38f4f0ebc9f63464f6b.webp"
+        },
+        {
+          "name": "Irelia R",
+          "image": "images/e336f715d53d28d2c0163083.webp"
+        },
+        {
+          "name": "Ivern R",
+          "image": "images/1736487109f86b4eaed3b61f.webp"
+        },
+        {
+          "name": "Jax R",
+          "image": "images/4de672e6a2927b322ff118b4.webp"
+        },
+        {
+          "name": "Jhin R",
+          "image": "images/40b28a3d40dacb023836ccd9.webp"
+        },
+        {
+          "name": "Jinx R",
+          "image": "images/14a6a6957f38bfaa5556f2ec.webp"
+        },
+        {
+          "name": "Kaisa R",
+          "image": "images/c26d60e180a5f6e3130eef1a.webp"
+        },
+        {
+          "name": "Katarina R",
+          "image": "images/9c7da4fbf81d78921c087c42.webp"
+        },
+        {
+          "name": "Kayle R",
+          "image": "images/8328e4edbc913a1ff25bec4c.webp"
+        },
+        {
+          "name": "Kayn R",
+          "image": "images/6ca44e0ce58dc45933fcbffd.webp"
+        },
+        {
+          "name": "Khazix R",
+          "image": "images/e6c2bea587885456b9c5a1ea.webp"
+        },
+        {
+          "name": "Kindred R",
+          "image": "images/8c3e532545917a9e799e90b9.webp"
+        },
+        {
+          "name": "Kled R",
+          "image": "images/67317d52a61f0e84597628c6.webp"
+        },
+        {
+          "name": "KSante R",
+          "image": "images/65af121e564671de6d34a2be.webp"
+        },
+        {
+          "name": "Leblanc R",
+          "image": "images/61d565dcd4813cd8065732ef.webp"
+        },
+        {
+          "name": "LeeSin R",
+          "image": "images/a23b37b5419ed1eff76559d5.webp"
+        },
+        {
+          "name": "Lillia R",
+          "image": "images/f70e33db961335fbc0af4e3d.webp"
+        },
+        {
+          "name": "Lissandra R",
+          "image": "images/81dc2744734eb08893b9b060.webp"
+        },
+        {
+          "name": "Locke R",
+          "image": "images/fd8a9bfbc638de54505a0731.webp"
+        },
+        {
+          "name": "Lucian R",
+          "image": "images/86b5513a765959c72980dad2.webp"
+        },
+        {
+          "name": "Lulu R",
+          "image": "images/78cca5bec00cd489fa740a3b.webp"
+        },
+        {
+          "name": "Lux R",
+          "image": "images/70cba7c500fa79cc0d21e803.webp"
+        },
+        {
+          "name": "Malzahar R",
+          "image": "images/9b3a1435618d628ae7e92ecd.webp"
+        },
+        {
+          "name": "Maokai R",
+          "image": "images/1afe1bc02ab347e415a0ee5f.webp"
+        },
+        {
+          "name": "Mel R",
+          "image": "images/eb6cc1be30d351aea0849108.webp"
+        },
+        {
+          "name": "Milio R",
+          "image": "images/a7143e0cddf63a9ca430d648.webp"
+        },
+        {
+          "name": "Mordekaiser R",
+          "image": "images/d2f2c7acbb978aa01bee419a.webp"
+        },
+        {
+          "name": "Morgana R",
+          "image": "images/b11d41a4c14aa10274795488.webp"
+        },
+        {
+          "name": "Naafiri R",
+          "image": "images/d6ce75be0ddcc3fd0aea11d0.webp"
+        },
+        {
+          "name": "Nami R",
+          "image": "images/801e82a9bae4963bb6fd47ec.webp"
+        },
+        {
+          "name": "Nasus R",
+          "image": "images/3522bd55a1f176ccf9b83c8f.webp"
+        },
+        {
+          "name": "Neeko R",
+          "image": "images/18525334372ab29e168916d8.webp"
+        },
+        {
+          "name": "Nilah R",
+          "image": "images/97b6b83181275108fb67a819.webp"
+        },
+        {
+          "name": "Nunu R",
+          "image": "images/6658186c266563b51bdf4671.webp"
+        },
+        {
+          "name": "Ornn R",
+          "image": "images/a49a4d09184465e40ef55eb3.webp"
+        },
+        {
+          "name": "Pantheon R",
+          "image": "images/c7fc828fcfe08729648bfbcc.webp"
+        },
+        {
+          "name": "Poppy R",
+          "image": "images/69d69174c64ab43bbefbb6e2.webp"
+        },
+        {
+          "name": "Pyke R",
+          "image": "images/a81b0f93875e979b59fd8617.webp"
+        },
+        {
+          "name": "Qiyana R",
+          "image": "images/8b31a85e16fc12b6958fa762.webp"
+        },
+        {
+          "name": "Quinn R",
+          "image": "images/2701549076ccdb73ee11d857.webp"
+        },
+        {
+          "name": "Rakan R",
+          "image": "images/c6b067f6de6faf2198c7fef8.webp"
+        },
+        {
+          "name": "RekSai R",
+          "image": "images/c6e24168bb627292fbb65c33.webp"
+        },
+        {
+          "name": "Rell R",
+          "image": "images/c1f7688d0f8c006223ca1088.webp"
+        },
+        {
+          "name": "Renata R",
+          "image": "images/0cc5ca8a25dea94b3f3922a3.webp"
+        },
+        {
+          "name": "Rengar R",
+          "image": "images/d69eb9495fe7dff11be74777.webp"
+        },
+        {
+          "name": "Ryze R",
+          "image": "images/7bd61a211f0c0354b7624818.webp"
+        },
+        {
+          "name": "Samira R",
+          "image": "images/06cf5a0203d5147b299be0db.webp"
+        },
+        {
+          "name": "Sejuani R",
+          "image": "images/391468d66e2ffb70be942b5d.webp"
+        },
+        {
+          "name": "Senna R",
+          "image": "images/5307ccd13d2ffbc35ce7a8e1.webp"
+        },
+        {
+          "name": "Seraphine R",
+          "image": "images/98037130d54987adbe301113.webp"
+        },
+        {
+          "name": "Sett R",
+          "image": "images/c2f2f4930428e29d75049da1.webp"
+        },
+        {
+          "name": "Shen R",
+          "image": "images/7f94e82618b8663ac6f24b78.webp"
+        },
+        {
+          "name": "Shyvana R",
+          "image": "images/021dfa08f1c71c87f9be4f2f.webp"
+        },
+        {
+          "name": "Sion R",
+          "image": "images/cba26cc9b9c0aae1a80b7423.webp"
+        },
+        {
+          "name": "Sivir R",
+          "image": "images/4bb18522d77b410fd82d8c2e.webp"
+        },
+        {
+          "name": "Skarner R",
+          "image": "images/6097b3b527b69cd13af60fc7.webp"
+        },
+        {
+          "name": "Smolder R",
+          "image": "images/05a4e1afd4ab3eac3eea2030.webp"
+        },
+        {
+          "name": "Sona R",
+          "image": "images/f3b05bf5a2e18dc5a7daa5cc.webp"
+        },
+        {
+          "name": "Soraka R",
+          "image": "images/bfeca6fab0a5fe9053f97f77.webp"
+        },
+        {
+          "name": "Swain R",
+          "image": "images/2ec53cd341417048f2c17f69.webp"
+        },
+        {
+          "name": "Sylas R",
+          "image": "images/9aed2978e252ee4b6695f565.webp"
+        },
+        {
+          "name": "Syndra R",
+          "image": "images/d974db65ef8571dccac72f05.webp"
+        },
+        {
+          "name": "Taliyah R",
+          "image": "images/aa2405f3d33617a4a69db365.webp"
+        },
+        {
+          "name": "Talon R",
+          "image": "images/b58e68d1dbcbc6eff9151651.webp"
+        },
+        {
+          "name": "Taric R",
+          "image": "images/b30875ba9132f7d2360673f5.webp"
+        },
+        {
+          "name": "Teemo R",
+          "image": "images/eb5e403b572bb66ea839ed30.webp"
+        },
+        {
+          "name": "Tristana R",
+          "image": "images/fd7bb3e038339c1320711a2d.webp"
+        },
+        {
+          "name": "Udyr R",
+          "image": "images/7908a966f96baaacc56da15e.webp"
+        },
+        {
+          "name": "Urgot R",
+          "image": "images/20b5329253ee39aa2b969922.webp"
+        },
+        {
+          "name": "Varus R",
+          "image": "images/d144e6aa677adb1dd6ad7caa.webp"
+        },
+        {
+          "name": "Veigar R",
+          "image": "images/e720d3305de6be599d901264.webp"
+        },
+        {
+          "name": "Velkoz R",
+          "image": "images/190245dc80f7a2018b23afb5.webp"
+        },
+        {
+          "name": "Vex R",
+          "image": "images/2a8017e7124eaa11efaf562f.webp"
+        },
+        {
+          "name": "Vi R",
+          "image": "images/989d3761667c753f6ec1ec9c.webp"
+        },
+        {
+          "name": "Viego R",
+          "image": "images/3551d01a2f85d24a100dc852.webp"
+        },
+        {
+          "name": "Viktor R",
+          "image": "images/84330469d1df37ca1d2e782b.webp"
+        },
+        {
+          "name": "Volibear R",
+          "image": "images/8375dde54fb500554c142bf6.webp"
+        },
+        {
+          "name": "Warwick R",
+          "image": "images/27d0c52f481924da03426e05.webp"
+        },
+        {
+          "name": "Xayah R",
+          "image": "images/33b41cc22aabf630d4f39853.webp"
+        },
+        {
+          "name": "XinZhao R",
+          "image": "images/b4cd694dfe50ee3ba62e2d5e.webp"
+        },
+        {
+          "name": "Yasuo R",
+          "image": "images/76c302f3dba2598ed172afb6.webp"
+        },
+        {
+          "name": "Yone R",
+          "image": "images/6dc88660f8b1acd6185b7129.webp"
+        },
+        {
+          "name": "Yorick R",
+          "image": "images/b61441ceb09b0599d716d414.webp"
+        },
+        {
+          "name": "Yunara R",
+          "image": "images/3ab8228bc5a36c0042d8a637.webp"
+        },
+        {
+          "name": "Yuumi R",
+          "image": "images/5722c31f1bc63788c1741dad.webp"
+        },
+        {
+          "name": "Zaahen R",
+          "image": "images/5f00600a17e6a9295b29ebb7.webp"
+        },
+        {
+          "name": "Zac R",
+          "image": "images/288023e6ad99fa19fce9e717.webp"
+        },
+        {
+          "name": "Zed R",
+          "image": "images/fc8c3d7168d19f4a5a41c95c.webp"
+        },
+        {
+          "name": "Zeri R",
+          "image": "images/0dfffca5ebdd5f2c14038668.webp"
+        },
+        {
+          "name": "Ziggs R",
+          "image": "images/409d33d188edb080161ecd03.webp"
+        },
+        {
+          "name": "Zoe R",
+          "image": "images/121fd7cb9c40da54e8bcbe48.webp"
+        },
+        {
+          "name": "Zyra R",
+          "image": "images/5b87f30e7637c7331e1a87d4.webp"
+        }
+      ],
+      "Bonus": [
+        {
+          "name": "Critical Argument - Gain +50% Critical Chance",
+          "image": "images/4669f355de5458fcb57df6b0.webp"
+        },
+        {
+          "name": "Deft - Gain 60% Attack Speed",
+          "image": "images/d3150fd0c4716c28cc0a127e.webp"
+        },
+        {
+          "name": "Earthwake - Dashing or blinking causes you to leave behind a trail that deals 300 damage",
+          "image": "images/b338bca10def6481e4c5fc39.webp"
+        },
+        {
+          "name": "Final Ult - Double the damage of your ult",
+          "image": "images/c9791001e414b50e9d568425.webp"
+        },
+        {
+          "name": "Firebrand - Auto attacks burn the ennemy 1% of max health",
+          "image": "images/fa4504dbbcdd3e8c8769e341.webp"
+        },
+        {
+          "name": "First-Aid Kit - +20% Shield and Healing power",
+          "image": "images/fb83b007bd94ac4c7bbb3fd3.webp"
+        },
+        {
+          "name": "Goredrink - +20% Omnivamp",
+          "image": "images/79651c580f9c6ee33342f4b2.webp"
+        },
+        {
+          "name": "Heavy Hitter - Auto attacks deal 3.5% of your Max Health",
+          "image": "images/441be42e8720adda75c1c8a6.webp"
+        },
+        {
+          "name": "Infernal Soul - Grants the Infernal Dragon Soul",
+          "image": "images/8ab7d4eee47cfebc549ae67a.webp"
+        },
+        {
+          "name": "Jeweled Gauntlet - Abilities Gain +25% Critical Chance",
+          "image": "images/65c3a3a11ff1466cc8773e81.webp"
+        }
+      ]
+    }
+  }
+}
