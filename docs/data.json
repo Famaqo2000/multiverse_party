@@ -2253,6 +2253,18 @@
           "demo": false
         },
         {
+          "name": "Annie",
+          "kind": "characters",
+          "image": "images/b2d973fc4b950e07f3b4126a.webp",
+          "demo": false
+        },
+        {
+          "name": "Aphelios",
+          "kind": "characters",
+          "image": "images/1205831967d09df8939aea6e.webp",
+          "demo": false
+        },
+        {
           "name": "Ashe",
           "kind": "characters",
           "image": "images/ef1ddf6d5b0dee0f342159a0.webp",
@@ -2271,9 +2283,39 @@
           "demo": false
         },
         {
+          "name": "Bard",
+          "kind": "characters",
+          "image": "images/a65a3ecdf4b42c31e6a721ee.webp",
+          "demo": false
+        },
+        {
+          "name": "Bel'Veth",
+          "kind": "characters",
+          "image": "images/c3d0117e1f03a25a26bfe948.webp",
+          "demo": false
+        },
+        {
+          "name": "Blitzcrank",
+          "kind": "characters",
+          "image": "images/1db0d95367c5ea76eeab10dc.webp",
+          "demo": false
+        },
+        {
           "name": "Brand",
           "kind": "characters",
           "image": "images/99df15b071cc82b45cb09571.webp",
+          "demo": false
+        },
+        {
+          "name": "Braum",
+          "kind": "characters",
+          "image": "images/32239639273f4c80fd827a87.webp",
+          "demo": false
+        },
+        {
+          "name": "Briar",
+          "kind": "characters",
+          "image": "images/5e509ee6839e043cbed4c38c.webp",
           "demo": false
         },
         {
@@ -2283,9 +2325,21 @@
           "demo": false
         },
         {
+          "name": "Cassiopeia",
+          "kind": "characters",
+          "image": "images/13bca0d0d6522951d3a82b39.webp",
+          "demo": false
+        },
+        {
           "name": "Cho'Gath",
           "kind": "characters",
           "image": "images/df2d6da905d8133bc36c8907.webp",
+          "demo": false
+        },
+        {
+          "name": "Corki",
+          "kind": "characters",
+          "image": "images/c7c37aa26f0afd5d252d353f.webp",
           "demo": false
         },
         {
@@ -2295,9 +2349,33 @@
           "demo": false
         },
         {
+          "name": "Diana",
+          "kind": "characters",
+          "image": "images/0ed414f3d0d2116d977de301.webp",
+          "demo": false
+        },
+        {
+          "name": "Dr.Mundo",
+          "kind": "characters",
+          "image": "images/e6559ae69edc2aed36dd195a.webp",
+          "demo": false
+        },
+        {
+          "name": "Draven",
+          "kind": "characters",
+          "image": "images/e21283d52aca7771d717444b.webp",
+          "demo": false
+        },
+        {
           "name": "Ekko",
           "kind": "characters",
           "image": "images/8edba154ccef410e1316ea4e.webp",
+          "demo": false
+        },
+        {
+          "name": "Elise",
+          "kind": "characters",
+          "image": "images/117df56870831c947c058708.webp",
           "demo": false
         },
         {
@@ -2316,6 +2394,12 @@
           "name": "Fiddlesticks",
           "kind": "characters",
           "image": "images/f66a2dc9f35e16b1cb247f15.webp",
+          "demo": false
+        },
+        {
+          "name": "Fiora",
+          "kind": "characters",
+          "image": "images/eb6cb89bed101ac2c046141d.webp",
           "demo": false
         },
         {
@@ -2361,9 +2445,33 @@
           "demo": false
         },
         {
+          "name": "Gwen",
+          "kind": "characters",
+          "image": "images/6b3f1188d871f591bcda620f.webp",
+          "demo": false
+        },
+        {
+          "name": "Hecarim",
+          "kind": "characters",
+          "image": "images/42d571125ab6ec694fc93844.webp",
+          "demo": false
+        },
+        {
           "name": "Heimerdinger",
           "kind": "characters",
           "image": "images/ef9f684f78857a932b3812f8.webp",
+          "demo": false
+        },
+        {
+          "name": "Illaloi",
+          "kind": "characters",
+          "image": "images/a51ad98c18c19ec6f42b545a.webp",
+          "demo": false
+        },
+        {
+          "name": "Irelia",
+          "kind": "characters",
+          "image": "images/a81730d311176af482faa85c.webp",
           "demo": false
         },
         {
@@ -2373,9 +2481,21 @@
           "demo": false
         },
         {
+          "name": "Janna",
+          "kind": "characters",
+          "image": "images/354d16c6d9dcdd8ef68ccd7d.webp",
+          "demo": false
+        },
+        {
           "name": "Jarvan IV",
           "kind": "characters",
           "image": "images/0db3915934be0d15efe24974.webp",
+          "demo": false
+        },
+        {
+          "name": "Jax",
+          "kind": "characters",
+          "image": "images/ff8173a3b2812ff2bbf5e779.webp",
           "demo": false
         },
         {
@@ -2397,6 +2517,36 @@
           "demo": false
         },
         {
+          "name": "K'Sante",
+          "kind": "characters",
+          "image": "images/e321cc031c81c16bd4080654.webp",
+          "demo": false
+        },
+        {
+          "name": "Kalista",
+          "kind": "characters",
+          "image": "images/9fa22f43c920ca1f6602319b.webp",
+          "demo": false
+        },
+        {
+          "name": "Karma",
+          "kind": "characters",
+          "image": "images/578fe754bfb448db815ad34b.webp",
+          "demo": false
+        },
+        {
+          "name": "Karthus",
+          "kind": "characters",
+          "image": "images/6eb0ded421b0e8d0b060f44a.webp",
+          "demo": false
+        },
+        {
+          "name": "Kassadin",
+          "kind": "characters",
+          "image": "images/3b4726e87c5879a2f926d7a3.webp",
+          "demo": false
+        },
+        {
           "name": "Katarina",
           "kind": "characters",
           "image": "images/34f7d5ab929f6d5801b5e331.webp",
@@ -2406,6 +2556,12 @@
           "name": "Kayle",
           "kind": "characters",
           "image": "images/21c23694d510be428b56bb39.webp",
+          "demo": false
+        },
+        {
+          "name": "Kayn",
+          "kind": "characters",
+          "image": "images/5e9c7174dcc07c08fe77e90f.webp",
           "demo": false
         },
         {
@@ -2421,15 +2577,51 @@
           "demo": false
         },
         {
+          "name": "Kindred",
+          "kind": "characters",
+          "image": "images/d68aa146c1b8a8ae8b7ef2e8.webp",
+          "demo": false
+        },
+        {
+          "name": "Kled",
+          "kind": "characters",
+          "image": "images/9e786538eb868f72566ea392.webp",
+          "demo": false
+        },
+        {
           "name": "Kog'Maw",
           "kind": "characters",
           "image": "images/12bdcbd074e3251e8bbbf57f.webp",
           "demo": false
         },
         {
+          "name": "Leblanc",
+          "kind": "characters",
+          "image": "images/8084671f82a102c28840a3b9.webp",
+          "demo": false
+        },
+        {
+          "name": "Lee Sin",
+          "kind": "characters",
+          "image": "images/2f68359e9142ad3126197e99.webp",
+          "demo": false
+        },
+        {
+          "name": "Leona",
+          "kind": "characters",
+          "image": "images/4e83d290b1ff46df2226fea3.webp",
+          "demo": false
+        },
+        {
           "name": "Lissandra",
           "kind": "characters",
           "image": "images/ee477596be9484f2ac06e83b.webp",
+          "demo": false
+        },
+        {
+          "name": "Locke",
+          "kind": "characters",
+          "image": "images/2a6fb362e7d8fc21f544f2a0.webp",
           "demo": false
         },
         {
@@ -2457,15 +2649,33 @@
           "demo": false
         },
         {
+          "name": "Malzahar",
+          "kind": "characters",
+          "image": "images/06f067574dd640f2dafa5ade.webp",
+          "demo": false
+        },
+        {
           "name": "Maokai",
           "kind": "characters",
           "image": "images/f48195320f850947e52dda19.webp",
           "demo": false
         },
         {
+          "name": "Milio",
+          "kind": "characters",
+          "image": "images/929f48f8dca432cafc4d4c1c.webp",
+          "demo": false
+        },
+        {
           "name": "Miss Fortune",
           "kind": "characters",
           "image": "images/0f35c8414f7133547c840dc4.webp",
+          "demo": false
+        },
+        {
+          "name": "Mordekaiser",
+          "kind": "characters",
+          "image": "images/22473c146e828a665e1a4789.webp",
           "demo": false
         },
         {
@@ -2505,6 +2715,78 @@
           "demo": false
         },
         {
+          "name": "Nidalee",
+          "kind": "characters",
+          "image": "images/1b7e0126839212d5d27c2b6c.webp",
+          "demo": false
+        },
+        {
+          "name": "Nocturne",
+          "kind": "characters",
+          "image": "images/0c1ed9871f905ab9837c85c8.webp",
+          "demo": false
+        },
+        {
+          "name": "Nunu et Willump",
+          "kind": "characters",
+          "image": "images/0b73de447649cfdb820bb944.webp",
+          "demo": false
+        },
+        {
+          "name": "Olaf",
+          "kind": "characters",
+          "image": "images/f9d2c6e0f9a6c9244509dc62.webp",
+          "demo": false
+        },
+        {
+          "name": "Orianna",
+          "kind": "characters",
+          "image": "images/2f36e5b97e51a87735d47cfb.webp",
+          "demo": false
+        },
+        {
+          "name": "Ornn",
+          "kind": "characters",
+          "image": "images/def4e3a4574f479512258c3a.webp",
+          "demo": false
+        },
+        {
+          "name": "Pantheon",
+          "kind": "characters",
+          "image": "images/075fa61ed8d1fec05c681f2c.webp",
+          "demo": false
+        },
+        {
+          "name": "Poppy",
+          "kind": "characters",
+          "image": "images/7eea305edb9f843c0da08b67.webp",
+          "demo": false
+        },
+        {
+          "name": "Pyke",
+          "kind": "characters",
+          "image": "images/0d6d1772c2bd172581e0f65b.webp",
+          "demo": false
+        },
+        {
+          "name": "Qiyana",
+          "kind": "characters",
+          "image": "images/ba9a6d1377a707b99778247b.webp",
+          "demo": false
+        },
+        {
+          "name": "Quinn",
+          "kind": "characters",
+          "image": "images/26e85261366573af047c0a43.webp",
+          "demo": false
+        },
+        {
+          "name": "Rakan",
+          "kind": "characters",
+          "image": "images/bc0e81110c8933244d8561ae.webp",
+          "demo": false
+        },
+        {
           "name": "Rammus",
           "kind": "characters",
           "image": "images/3e5b9d6d670fb4128ab8b23f.webp",
@@ -2529,6 +2811,12 @@
           "demo": false
         },
         {
+          "name": "Riven",
+          "kind": "characters",
+          "image": "images/1f8fb82b78020cbe5949757f.webp",
+          "demo": false
+        },
+        {
           "name": "Rumble",
           "kind": "characters",
           "image": "images/27c46aaf07d459f89f30597a.webp",
@@ -2541,9 +2829,27 @@
           "demo": false
         },
         {
+          "name": "Samira",
+          "kind": "characters",
+          "image": "images/edc27f1c664f97dccd261f4e.webp",
+          "demo": false
+        },
+        {
           "name": "Sejuani",
           "kind": "characters",
           "image": "images/5ba885903fb489b6f8a00ac0.webp",
+          "demo": false
+        },
+        {
+          "name": "Senna",
+          "kind": "characters",
+          "image": "images/2d91c10a9f12f1111d76871c.webp",
+          "demo": false
+        },
+        {
+          "name": "Seraphine",
+          "kind": "characters",
+          "image": "images/aa015bcdefd8670fbd839f65.webp",
           "demo": false
         },
         {
@@ -2571,6 +2877,30 @@
           "demo": false
         },
         {
+          "name": "Singed",
+          "kind": "characters",
+          "image": "images/ebacbb33a4906be519b657bd.webp",
+          "demo": false
+        },
+        {
+          "name": "Sion",
+          "kind": "characters",
+          "image": "images/b956832e5d6f8eedec6264aa.webp",
+          "demo": false
+        },
+        {
+          "name": "Sivir",
+          "kind": "characters",
+          "image": "images/6de1d8a543ed7c0366f46b0e.webp",
+          "demo": false
+        },
+        {
+          "name": "Skarner",
+          "kind": "characters",
+          "image": "images/2417581ffc106853f2ca0db4.webp",
+          "demo": false
+        },
+        {
           "name": "Smolder",
           "kind": "characters",
           "image": "images/07d56df5ba97f25d3fc314fa.webp",
@@ -2595,15 +2925,39 @@
           "demo": false
         },
         {
+          "name": "Sylas",
+          "kind": "characters",
+          "image": "images/86effdabbf136b265638fa66.webp",
+          "demo": false
+        },
+        {
+          "name": "Syndra",
+          "kind": "characters",
+          "image": "images/01dcb463eebf0be7fa523040.webp",
+          "demo": false
+        },
+        {
           "name": "Tahm Kench",
           "kind": "characters",
           "image": "images/8744a17238b108d630d36f13.webp",
           "demo": false
         },
         {
+          "name": "Taliyah",
+          "kind": "characters",
+          "image": "images/033311062c02742cef6e9ff5.webp",
+          "demo": false
+        },
+        {
           "name": "Talon",
           "kind": "characters",
           "image": "images/add73e5d0bb6dc759cbb9763.webp",
+          "demo": false
+        },
+        {
+          "name": "Taric",
+          "kind": "characters",
+          "image": "images/9cf682cae5aa690a7b3b2527.webp",
           "demo": false
         },
         {
@@ -2616,6 +2970,18 @@
           "name": "Thresh",
           "kind": "characters",
           "image": "images/ed5d20bec33801301d0fde53.webp",
+          "demo": false
+        },
+        {
+          "name": "Tristana",
+          "kind": "characters",
+          "image": "images/b9b168747ea8664f052c8651.webp",
+          "demo": false
+        },
+        {
+          "name": "Trundle",
+          "kind": "characters",
+          "image": "images/3159c7aa14e9eddc9dd97fdc.webp",
           "demo": false
         },
         {
@@ -2637,6 +3003,30 @@
           "demo": false
         },
         {
+          "name": "Udyr",
+          "kind": "characters",
+          "image": "images/ae0c18871822ac2b7d66d973.webp",
+          "demo": false
+        },
+        {
+          "name": "Urgot",
+          "kind": "characters",
+          "image": "images/fa443e51c75132b2ecfda17d.webp",
+          "demo": false
+        },
+        {
+          "name": "Varus",
+          "kind": "characters",
+          "image": "images/a19a1d0ea621c9e0f0db37bd.webp",
+          "demo": false
+        },
+        {
+          "name": "Vayne",
+          "kind": "characters",
+          "image": "images/54ca1f006ce4569887f34295.webp",
+          "demo": false
+        },
+        {
           "name": "Veigar",
           "kind": "characters",
           "image": "images/e25c151814ee70f86d8e1776.webp",
@@ -2649,9 +3039,21 @@
           "demo": false
         },
         {
+          "name": "Vex",
+          "kind": "characters",
+          "image": "images/43b9657a2aa590f6212ca9d0.webp",
+          "demo": false
+        },
+        {
           "name": "Vi",
           "kind": "characters",
           "image": "images/2c4fb17424540fee14f8dd6c.webp",
+          "demo": false
+        },
+        {
+          "name": "Viego",
+          "kind": "characters",
+          "image": "images/633a13085ebdce86b35be70d.webp",
           "demo": false
         },
         {
@@ -2661,15 +3063,45 @@
           "demo": false
         },
         {
+          "name": "Vladimir",
+          "kind": "characters",
+          "image": "images/290ad0618f7b07aaa5b53404.webp",
+          "demo": false
+        },
+        {
+          "name": "Volibear",
+          "kind": "characters",
+          "image": "images/5bf0be84272ae0f97635b84f.webp",
+          "demo": false
+        },
+        {
           "name": "Warwick",
           "kind": "characters",
           "image": "images/7c0eb8d3bcab35084d3d5828.webp",
           "demo": false
         },
         {
+          "name": "Wukong",
+          "kind": "characters",
+          "image": "images/54646969ee7e9540fcb9bd28.webp",
+          "demo": false
+        },
+        {
+          "name": "Xayah",
+          "kind": "characters",
+          "image": "images/8341ee221217eb94c5579554.webp",
+          "demo": false
+        },
+        {
           "name": "Xerath",
           "kind": "characters",
           "image": "images/95da45e66a09b49d6c0e6780.webp",
+          "demo": false
+        },
+        {
+          "name": "Xin Zhao",
+          "kind": "characters",
+          "image": "images/6a7ea3419d4b0253e074e494.webp",
           "demo": false
         },
         {
@@ -2685,9 +3117,21 @@
           "demo": false
         },
         {
+          "name": "Yorick",
+          "kind": "characters",
+          "image": "images/10d4359cc4e864ab19318c01.webp",
+          "demo": false
+        },
+        {
           "name": "Yuumi",
           "kind": "characters",
           "image": "images/6250e70e0a43b0f6697b7988.webp",
+          "demo": false
+        },
+        {
+          "name": "Zac",
+          "kind": "characters",
+          "image": "images/58c73aa0ba3d0f2832c998cb.webp",
           "demo": false
         },
         {
@@ -2697,9 +3141,33 @@
           "demo": false
         },
         {
+          "name": "Zeri",
+          "kind": "characters",
+          "image": "images/22084196463be35e7878b388.webp",
+          "demo": false
+        },
+        {
+          "name": "Ziggs",
+          "kind": "characters",
+          "image": "images/d61fab51e3244a50007d2969.webp",
+          "demo": false
+        },
+        {
+          "name": "Zilean",
+          "kind": "characters",
+          "image": "images/8e0932b1655f13a8bfe694fe.webp",
+          "demo": false
+        },
+        {
           "name": "Zoe",
           "kind": "characters",
           "image": "images/95da4b62795aa74429d056ee.webp",
+          "demo": false
+        },
+        {
+          "name": "Zyra",
+          "kind": "characters",
+          "image": "images/949fbfb63a69ad41745cc679.webp",
           "demo": false
         },
         {
@@ -4174,6 +4642,14 @@
           "image": "images/5bbdbba5c7bd8746b7c59f06.webp"
         },
         {
+          "name": "Annie",
+          "image": "images/b2d973fc4b950e07f3b4126a.webp"
+        },
+        {
+          "name": "Aphelios",
+          "image": "images/1205831967d09df8939aea6e.webp"
+        },
+        {
           "name": "Ashe",
           "image": "images/ef1ddf6d5b0dee0f342159a0.webp"
         },
@@ -4186,24 +4662,68 @@
           "image": "images/f8045d18dd3383e50e36202f.webp"
         },
         {
+          "name": "Bard",
+          "image": "images/a65a3ecdf4b42c31e6a721ee.webp"
+        },
+        {
+          "name": "Bel'Veth",
+          "image": "images/c3d0117e1f03a25a26bfe948.webp"
+        },
+        {
+          "name": "Blitzcrank",
+          "image": "images/1db0d95367c5ea76eeab10dc.webp"
+        },
+        {
           "name": "Brand",
           "image": "images/99df15b071cc82b45cb09571.webp"
+        },
+        {
+          "name": "Braum",
+          "image": "images/32239639273f4c80fd827a87.webp"
+        },
+        {
+          "name": "Briar",
+          "image": "images/5e509ee6839e043cbed4c38c.webp"
         },
         {
           "name": "Caitlyn",
           "image": "images/91848b4ef323dcc2fefaa264.webp"
         },
         {
+          "name": "Cassiopeia",
+          "image": "images/13bca0d0d6522951d3a82b39.webp"
+        },
+        {
           "name": "Cho'Gath",
           "image": "images/df2d6da905d8133bc36c8907.webp"
+        },
+        {
+          "name": "Corki",
+          "image": "images/c7c37aa26f0afd5d252d353f.webp"
         },
         {
           "name": "Darius",
           "image": "images/b3366ad843f263f279822c24.webp"
         },
         {
+          "name": "Diana",
+          "image": "images/0ed414f3d0d2116d977de301.webp"
+        },
+        {
+          "name": "Dr.Mundo",
+          "image": "images/e6559ae69edc2aed36dd195a.webp"
+        },
+        {
+          "name": "Draven",
+          "image": "images/e21283d52aca7771d717444b.webp"
+        },
+        {
           "name": "Ekko",
           "image": "images/8edba154ccef410e1316ea4e.webp"
+        },
+        {
+          "name": "Elise",
+          "image": "images/117df56870831c947c058708.webp"
         },
         {
           "name": "Evelynn",
@@ -4216,6 +4736,10 @@
         {
           "name": "Fiddlesticks",
           "image": "images/f66a2dc9f35e16b1cb247f15.webp"
+        },
+        {
+          "name": "Fiora",
+          "image": "images/eb6cb89bed101ac2c046141d.webp"
         },
         {
           "name": "Fizz",
@@ -4246,16 +4770,40 @@
           "image": "images/b5b9270ae1727ed7355b5d5a.webp"
         },
         {
+          "name": "Gwen",
+          "image": "images/6b3f1188d871f591bcda620f.webp"
+        },
+        {
+          "name": "Hecarim",
+          "image": "images/42d571125ab6ec694fc93844.webp"
+        },
+        {
           "name": "Heimerdinger",
           "image": "images/ef9f684f78857a932b3812f8.webp"
+        },
+        {
+          "name": "Illaloi",
+          "image": "images/a51ad98c18c19ec6f42b545a.webp"
+        },
+        {
+          "name": "Irelia",
+          "image": "images/a81730d311176af482faa85c.webp"
         },
         {
           "name": "Ivern",
           "image": "images/d0c004af1ba99b9f292b5804.webp"
         },
         {
+          "name": "Janna",
+          "image": "images/354d16c6d9dcdd8ef68ccd7d.webp"
+        },
+        {
           "name": "Jarvan IV",
           "image": "images/0db3915934be0d15efe24974.webp"
+        },
+        {
+          "name": "Jax",
+          "image": "images/ff8173a3b2812ff2bbf5e779.webp"
         },
         {
           "name": "Jayce",
@@ -4270,12 +4818,36 @@
           "image": "images/b6bc4918d789654222fda606.webp"
         },
         {
+          "name": "K'Sante",
+          "image": "images/e321cc031c81c16bd4080654.webp"
+        },
+        {
+          "name": "Kalista",
+          "image": "images/9fa22f43c920ca1f6602319b.webp"
+        },
+        {
+          "name": "Karma",
+          "image": "images/578fe754bfb448db815ad34b.webp"
+        },
+        {
+          "name": "Karthus",
+          "image": "images/6eb0ded421b0e8d0b060f44a.webp"
+        },
+        {
+          "name": "Kassadin",
+          "image": "images/3b4726e87c5879a2f926d7a3.webp"
+        },
+        {
           "name": "Katarina",
           "image": "images/34f7d5ab929f6d5801b5e331.webp"
         },
         {
           "name": "Kayle",
           "image": "images/21c23694d510be428b56bb39.webp"
+        },
+        {
+          "name": "Kayn",
+          "image": "images/5e9c7174dcc07c08fe77e90f.webp"
         },
         {
           "name": "Kennen",
@@ -4286,12 +4858,36 @@
           "image": "images/cf8c871e31bc39618aea74ea.webp"
         },
         {
+          "name": "Kindred",
+          "image": "images/d68aa146c1b8a8ae8b7ef2e8.webp"
+        },
+        {
+          "name": "Kled",
+          "image": "images/9e786538eb868f72566ea392.webp"
+        },
+        {
           "name": "Kog'Maw",
           "image": "images/12bdcbd074e3251e8bbbf57f.webp"
         },
         {
+          "name": "Leblanc",
+          "image": "images/8084671f82a102c28840a3b9.webp"
+        },
+        {
+          "name": "Lee Sin",
+          "image": "images/2f68359e9142ad3126197e99.webp"
+        },
+        {
+          "name": "Leona",
+          "image": "images/4e83d290b1ff46df2226fea3.webp"
+        },
+        {
           "name": "Lissandra",
           "image": "images/ee477596be9484f2ac06e83b.webp"
+        },
+        {
+          "name": "Locke",
+          "image": "images/2a6fb362e7d8fc21f544f2a0.webp"
         },
         {
           "name": "Lulu",
@@ -4310,12 +4906,24 @@
           "image": "images/48dd2ef369a59401228beb9e.webp"
         },
         {
+          "name": "Malzahar",
+          "image": "images/06f067574dd640f2dafa5ade.webp"
+        },
+        {
           "name": "Maokai",
           "image": "images/f48195320f850947e52dda19.webp"
         },
         {
+          "name": "Milio",
+          "image": "images/929f48f8dca432cafc4d4c1c.webp"
+        },
+        {
           "name": "Miss Fortune",
           "image": "images/0f35c8414f7133547c840dc4.webp"
+        },
+        {
+          "name": "Mordekaiser",
+          "image": "images/22473c146e828a665e1a4789.webp"
         },
         {
           "name": "Morgana",
@@ -4342,6 +4950,54 @@
           "image": "images/ed00b2ed3803c6aeb86bb920.webp"
         },
         {
+          "name": "Nidalee",
+          "image": "images/1b7e0126839212d5d27c2b6c.webp"
+        },
+        {
+          "name": "Nocturne",
+          "image": "images/0c1ed9871f905ab9837c85c8.webp"
+        },
+        {
+          "name": "Nunu et Willump",
+          "image": "images/0b73de447649cfdb820bb944.webp"
+        },
+        {
+          "name": "Olaf",
+          "image": "images/f9d2c6e0f9a6c9244509dc62.webp"
+        },
+        {
+          "name": "Orianna",
+          "image": "images/2f36e5b97e51a87735d47cfb.webp"
+        },
+        {
+          "name": "Ornn",
+          "image": "images/def4e3a4574f479512258c3a.webp"
+        },
+        {
+          "name": "Pantheon",
+          "image": "images/075fa61ed8d1fec05c681f2c.webp"
+        },
+        {
+          "name": "Poppy",
+          "image": "images/7eea305edb9f843c0da08b67.webp"
+        },
+        {
+          "name": "Pyke",
+          "image": "images/0d6d1772c2bd172581e0f65b.webp"
+        },
+        {
+          "name": "Qiyana",
+          "image": "images/ba9a6d1377a707b99778247b.webp"
+        },
+        {
+          "name": "Quinn",
+          "image": "images/26e85261366573af047c0a43.webp"
+        },
+        {
+          "name": "Rakan",
+          "image": "images/bc0e81110c8933244d8561ae.webp"
+        },
+        {
           "name": "Rammus",
           "image": "images/3e5b9d6d670fb4128ab8b23f.webp"
         },
@@ -4358,6 +5014,10 @@
           "image": "images/703f4aa829d0736f6e8fe78a.webp"
         },
         {
+          "name": "Riven",
+          "image": "images/1f8fb82b78020cbe5949757f.webp"
+        },
+        {
           "name": "Rumble",
           "image": "images/27c46aaf07d459f89f30597a.webp"
         },
@@ -4366,8 +5026,20 @@
           "image": "images/321d1979bc07c484f37d15d0.webp"
         },
         {
+          "name": "Samira",
+          "image": "images/edc27f1c664f97dccd261f4e.webp"
+        },
+        {
           "name": "Sejuani",
           "image": "images/5ba885903fb489b6f8a00ac0.webp"
+        },
+        {
+          "name": "Senna",
+          "image": "images/2d91c10a9f12f1111d76871c.webp"
+        },
+        {
+          "name": "Seraphine",
+          "image": "images/aa015bcdefd8670fbd839f65.webp"
         },
         {
           "name": "Sett",
@@ -4386,6 +5058,22 @@
           "image": "images/fffb78c20468bebb75928e43.webp"
         },
         {
+          "name": "Singed",
+          "image": "images/ebacbb33a4906be519b657bd.webp"
+        },
+        {
+          "name": "Sion",
+          "image": "images/b956832e5d6f8eedec6264aa.webp"
+        },
+        {
+          "name": "Sivir",
+          "image": "images/6de1d8a543ed7c0366f46b0e.webp"
+        },
+        {
+          "name": "Skarner",
+          "image": "images/2417581ffc106853f2ca0db4.webp"
+        },
+        {
           "name": "Smolder",
           "image": "images/07d56df5ba97f25d3fc314fa.webp"
         },
@@ -4402,12 +5090,28 @@
           "image": "images/22947ba7ee0be1a56e5c3abc.webp"
         },
         {
+          "name": "Sylas",
+          "image": "images/86effdabbf136b265638fa66.webp"
+        },
+        {
+          "name": "Syndra",
+          "image": "images/01dcb463eebf0be7fa523040.webp"
+        },
+        {
           "name": "Tahm Kench",
           "image": "images/8744a17238b108d630d36f13.webp"
         },
         {
+          "name": "Taliyah",
+          "image": "images/033311062c02742cef6e9ff5.webp"
+        },
+        {
           "name": "Talon",
           "image": "images/add73e5d0bb6dc759cbb9763.webp"
+        },
+        {
+          "name": "Taric",
+          "image": "images/9cf682cae5aa690a7b3b2527.webp"
         },
         {
           "name": "Teemo",
@@ -4416,6 +5120,14 @@
         {
           "name": "Thresh",
           "image": "images/ed5d20bec33801301d0fde53.webp"
+        },
+        {
+          "name": "Tristana",
+          "image": "images/b9b168747ea8664f052c8651.webp"
+        },
+        {
+          "name": "Trundle",
+          "image": "images/3159c7aa14e9eddc9dd97fdc.webp"
         },
         {
           "name": "Tryndamere",
@@ -4430,6 +5142,22 @@
           "image": "images/ef413b826693491f1abf1928.webp"
         },
         {
+          "name": "Udyr",
+          "image": "images/ae0c18871822ac2b7d66d973.webp"
+        },
+        {
+          "name": "Urgot",
+          "image": "images/fa443e51c75132b2ecfda17d.webp"
+        },
+        {
+          "name": "Varus",
+          "image": "images/a19a1d0ea621c9e0f0db37bd.webp"
+        },
+        {
+          "name": "Vayne",
+          "image": "images/54ca1f006ce4569887f34295.webp"
+        },
+        {
           "name": "Veigar",
           "image": "images/e25c151814ee70f86d8e1776.webp"
         },
@@ -4438,20 +5166,48 @@
           "image": "images/9d514a3cbc311d0f469630fb.webp"
         },
         {
+          "name": "Vex",
+          "image": "images/43b9657a2aa590f6212ca9d0.webp"
+        },
+        {
           "name": "Vi",
           "image": "images/2c4fb17424540fee14f8dd6c.webp"
+        },
+        {
+          "name": "Viego",
+          "image": "images/633a13085ebdce86b35be70d.webp"
         },
         {
           "name": "Viktor",
           "image": "images/da1f93dafc587ba35e6918e2.webp"
         },
         {
+          "name": "Vladimir",
+          "image": "images/290ad0618f7b07aaa5b53404.webp"
+        },
+        {
+          "name": "Volibear",
+          "image": "images/5bf0be84272ae0f97635b84f.webp"
+        },
+        {
           "name": "Warwick",
           "image": "images/7c0eb8d3bcab35084d3d5828.webp"
         },
         {
+          "name": "Wukong",
+          "image": "images/54646969ee7e9540fcb9bd28.webp"
+        },
+        {
+          "name": "Xayah",
+          "image": "images/8341ee221217eb94c5579554.webp"
+        },
+        {
           "name": "Xerath",
           "image": "images/95da45e66a09b49d6c0e6780.webp"
+        },
+        {
+          "name": "Xin Zhao",
+          "image": "images/6a7ea3419d4b0253e074e494.webp"
         },
         {
           "name": "Yasuo",
@@ -4462,16 +5218,40 @@
           "image": "images/5e3a0635a2ebc957eb724d56.webp"
         },
         {
+          "name": "Yorick",
+          "image": "images/10d4359cc4e864ab19318c01.webp"
+        },
+        {
           "name": "Yuumi",
           "image": "images/6250e70e0a43b0f6697b7988.webp"
+        },
+        {
+          "name": "Zac",
+          "image": "images/58c73aa0ba3d0f2832c998cb.webp"
         },
         {
           "name": "Zed",
           "image": "images/6a109608c6bfab2e5fd53db1.webp"
         },
         {
+          "name": "Zeri",
+          "image": "images/22084196463be35e7878b388.webp"
+        },
+        {
+          "name": "Ziggs",
+          "image": "images/d61fab51e3244a50007d2969.webp"
+        },
+        {
+          "name": "Zilean",
+          "image": "images/8e0932b1655f13a8bfe694fe.webp"
+        },
+        {
           "name": "Zoe",
           "image": "images/95da4b62795aa74429d056ee.webp"
+        },
+        {
+          "name": "Zyra",
+          "image": "images/949fbfb63a69ad41745cc679.webp"
         }
       ],
       "Q_Spell": [

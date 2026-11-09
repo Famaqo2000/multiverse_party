@@ -1,4 +1,4 @@
-const CACHE='multiverse-081a96be5a8c92d3';
+const CACHE='multiverse-708951d55f7a39f1';
 const SHELL=["app.js", "data.json", "engine.js", "icon-192.png", "icon-512.png", "index.html", "lol-duel-engine.js", "lol-duel.css", "lol-duel.html", "lol-duel.js", "manifest.webmanifest", "style.css"];
 self.addEventListener('install',e=>{e.waitUntil(caches.open(CACHE).then(c=>c.addAll(SHELL)));});
 self.addEventListener('activate',e=>{e.waitUntil((async()=>{for(const k of await caches.keys())if(k.startsWith('multiverse-')&&k!==CACHE)await caches.delete(k);await self.clients.claim();})());});
